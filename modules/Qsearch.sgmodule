@@ -1,0 +1,71 @@
+#!name=聚合搜索
+#!desc=Safari全能搜索百度版(需要把Safari的搜索引擎设置为：百度)，搜索示例:gg 充电宝,已适配chrome，bd+搜索词可切换百度
+#!system=ios
+
+[URL Rewrite]
+
+#wk (Wikipedia中文)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=wk\+([^&]+) https://zh.wikipedia.org/wiki/$2 302
+
+#wiki (Wikipedia)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=wiki\+([^&]+) https://wikipedia.org/wiki/$2 302
+
+#sof (Stack Overflow)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=sof\+([^&]+) https://stackoverflow.com/search?q=$2 302
+
+# yd  (有道词典)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=yd\+([^&]+) https://dict.youdao.com/search?q=$2 302
+
+# trc  (Google 译至中)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=trc\+([^&]+) https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=$2 302
+
+# tre  (Google 译至英)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=tre\+([^&]+) https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=$2 302
+
+# trj  (Google 译至日)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=trj\+([^&]+) https://translate.google.com/#view=home&op=translate&sl=auto&tl=ja&text=$2 302
+
+# gm (Google图片)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=gm\+([^&]+) https://www.google.com/search?&tbm=isch&q=$2 302
+
+# gh (GitHub)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=gh\+([^&]+) https://github.com/search?q=$2 302
+
+# tf (Google 搜索 TestFlight)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=tf(\+|%20)([^&]+) https://www.google.com/search?as_q=$3&as_sitesearch=testflight.apple.com 302
+
+# wb (微博)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=wb\+([^&]+) https://s.weibo.com/weibo/$2 302
+
+# wx (微信)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=wx\+([^&]+) https://weixin.sogou.com/weixinwap?query=$2 302
+
+# jd (京东)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=jd\+([^&]+) https://so.m.jd.com/ware/search.action?keyword=$2 302
+
+# tb (淘宝)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=tb\+([^&]+) https://s.m.taobao.com/h5?q=$2 302
+
+# tm (天猫)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=tm\+([^&]+) https://s.m.tmall.com/m/search.htm?q=$2 302
+
+# ytb (YouTube)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=ytb\+([^&]+) https://www.youtube.com/results?search_query=$2 302
+
+# ph (PornHub)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=ph\+([^&]+) https://cn.pornhub.com/video/search?search=$2 302
+
+# bi (必应)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=bi\+([^&]+) https://cn.bing.com/search?q=$2 302
+
+# ddg (DuckDuckGo)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=ddg\+([^&]+) https://duckduckgo.com/?ia=about&q=$2 302
+
+# gg(Google)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=gg\+([^&]+) https://www.google.com/search?q=$2 302
+
+# Chrome  bd(baidu)
+^https:\/\/www\.google\.com\/search\?q=bd\+([^&]+) https://m.baidu.com/s?word=$1 302
+
+[MITM]
+hostname = %APPEND% m.baidu.com,www.google.com
