@@ -12,3 +12,5 @@
 [spotifyVIP.module](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/spotifyVIP.module) spotify解锁会员  
 [substore.sgmodule](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/substore.sgmodule) 订阅链接转换筛选合并，附[教程](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)  
 [boxjs.sgmodule](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/boxjs.sgmodule) 各类签到比价脚本，附[教程](https://github.com/chavyleung/scripts#boxjs)
+****
+以上仅搬运分享
