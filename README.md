@@ -14,3 +14,5 @@
 [boxjs.sgmodule](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/boxjs.sgmodule) 各类签到比价脚本，附[教程](https://github.com/chavyleung/scripts#boxjs)
 ****
 以上仅搬运分享
+****
+附[免费机场分享](https://github.com/deezertidal/freevpn/blob/main/README.md)
