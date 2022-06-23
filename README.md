@@ -6,7 +6,7 @@
 该配置含各类去广告及解锁酷我会员
 ****
 模块使用教程：  
-打开小火箭——点击配置——进入模块——右上角“+”号——将模块链接地址复制粘贴至输入框——下载  
+打开小火箭——点击配置——进入模块（不是添加到配置里，是添加到模块里）——右上角“+”号——将模块链接地址复制粘贴至输入框——下载  
 [Qsearch.sgmodule](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/Qsearch.sgmodule) 聚合搜索  
 [YouTubeAd.sgmodule](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/YouTubeAd.sgmodule) youtube去广告  
 [spotifyVIP.module](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/spotifyVIP.module) spotify解锁会员  
