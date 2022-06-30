@@ -1,11 +1,4 @@
 {
-    "name":"奇心脚本合集",
-    "description":"https://qxnav.com/rules/QuantumultX/qixin.json",
-    "UpdateTime" : "2022-2-15",
-    "Author" : "Stanger",
-    "navigation" : "https://qxnav.com",
-    "Description" : "奇心科技 - 创造不一样的科技平台！",
-    "Image" : "https://qxnav.com/images/logo.png",
     "task":[
         "* * * * 1/1 ? https://raw.githubusercontent.com/zwf234/rules/master/js/jd_Delck.js, tag=清除京东ck, img-url=https://qxnav.com/rules/QuantumultX/img/jd.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/2022OlympicRanking.js, tag=冬奥会奖牌榜, img-url=https://qxnav.com/rules/QuantumultX/img/dah.png, enabled=true",
