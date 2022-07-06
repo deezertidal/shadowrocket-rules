@@ -1,0 +1,7 @@
+#!name=运行模式
+#!desc=根据当前网络自动切换模式
+#!author=Peng-YM
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WiFi.png
+
+[Script]
+network-changed script-path=https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/runningmode.js, tag=SSID 运行模式
