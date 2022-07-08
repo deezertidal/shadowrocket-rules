@@ -1,0 +1,3 @@
+[Script]
+
+event network-changed script-path=https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/running-mode.js
