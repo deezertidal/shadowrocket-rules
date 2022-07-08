@@ -1,6 +1,0 @@
-#!name=shadowrocket运行模式
-#!desc=根据当前网络自动切换模式 by Peng-YM
-
-[Script]
-
-event network-changed script-path=https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/running-mode.js
