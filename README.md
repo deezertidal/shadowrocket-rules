@@ -1,8 +1,20 @@
 # shadowrocket-rules
 小火箭配置规则脚本  
 ****
-配置使用教程：  
-打开小火箭——点击配置——右上角“+”号——将[shadowrocket.conf](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket.conf)的链接地址复制粘贴至输入框——下载——查看底部远程文件找到刚刚下载的链接地址——点击——使用配置。点击配置文件右侧ⓘ——打开HTTPS解密——生成新证书——安装证书——信任证书（关于手机——拉到底部最后——信任之前安装的证书）——返回小火箭——确认HTTPS解密。   
+# 配置使用教程：  
+打开小火箭——点击配置  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1.png)  
+
+将[shadowrocket.conf](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket.conf)的链接地址复制粘贴至输入框并点击下载  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/2.png)  
+
+查看底部远程文件找到刚刚下载的链接地址——点击——使用配置。  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/3.png)  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/4.png)  
+
+点击配置文件右侧ⓘ  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/5.png)  
+打开HTTPS解密——生成新证书——安装证书——信任证书（关于手机——拉到底部最后——信任之前安装的证书）——返回小火箭——确认HTTPS解密。   
 该配置含各类去广告及解锁酷我会员
 ****
 模块使用教程：  
