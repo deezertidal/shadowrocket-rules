@@ -118,10 +118,7 @@ sub-store重命名节点名称脚本操作：
  > 英文全称改为英文全称（例：Hong Kong=>Hong Kong）
  > https://raw.githubusercontent.com/futurkk/Potato/main/Rename/rename.js#input=enFull&output=enFull&airport=你需要的机场名  
 
-<br>
-<br>
 ****
-
-以上仅搬运分享
+## 以上仅搬运分享  
 ****
-附[免费机场分享](https://github.com/deezertidal/freevpn/blob/main/README.md)
+## 附[免费机场分享](https://github.com/deezertidal/freevpn/blob/main/README.md)
