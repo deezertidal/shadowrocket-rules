@@ -14,7 +14,28 @@
 
 点击配置文件右侧ⓘ  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/5.png)  
-打开HTTPS解密——生成新证书——安装证书——信任证书（关于手机——拉到底部最后——信任之前安装的证书）——返回小火箭——确认HTTPS解密。   
+打开HTTPS解密 安装证书  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/6.png)  
+生成新证书  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/7.png)  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/8.png)  
+允许安装  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/9.png)  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/10.png)  
+打开iphone设置 点击已下载的描述文件  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/11.png)  
+安装描述文件  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/12.png)  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/13.png)  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/14.png)  
+返回设置 关于手机 拉到底部 点击证书信任设置 
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/14.5.png)  
+勾选信任证书  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/15.png)  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/16.png)  
+返回小火箭 勾选确认  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/17.png)  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/18.png)  
 该配置含各类去广告及解锁酷我会员
 ****
 模块使用教程：  
