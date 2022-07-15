@@ -1,5 +1,5 @@
 # 小火箭配置图文教程  
-## 附[免费机场分享](https://github.com/deezertidal/freevpn/blob/main/README.md)
+## 添加[机场](https://github.com/deezertidal/freevpn/blob/main/README.md)订阅链接至小火箭，请自行注册购买
 ****
 # 配置使用教程：  
 ## 打开小火箭 点击配置 点击右上角+号  
