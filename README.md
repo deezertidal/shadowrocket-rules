@@ -1,4 +1,5 @@
 # 小火箭配置图文教程  
+## 附[免费机场分享](https://github.com/deezertidal/freevpn/blob/main/README.md)
 ****
 # 配置使用教程：  
 ## 打开小火箭 点击配置 点击右上角+号  
@@ -118,6 +119,4 @@ sub-store重命名节点名称脚本操作：
  > https://raw.githubusercontent.com/futurkk/Potato/main/Rename/rename.js#input=enFull&output=enFull&airport=你需要的机场名  
 
 ****
-## 以上仅搬运分享  
-****
-## 附[免费机场分享](https://github.com/deezertidal/freevpn/blob/main/README.md)
+## 以上配置文件及模块脚本仅搬运分享  
