@@ -2,7 +2,9 @@
 ## 添加机场订阅链接至小火箭，请自行注册购买
 ## [公益机场分享](https://github.com/deezertidal/freevpn/blob/main/README.md)  
 ****
-# 配置使用教程：  
+# 配置使用教程：
+###### 本配置包含分流规则，去广告规则，酷我音乐会员破解，京东定时脚本  
+
 ## 打开小火箭 点击配置 点击右上角+号  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1a.png)  
 
