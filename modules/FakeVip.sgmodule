@@ -1,0 +1,179 @@
+#!name=Fake_Vip
+#!desc=破解
+
+[Script]
+#vsco
+http-response ^https?:\/\/vsco\.co\/api\/subscriptions\/2.1\/user-subscriptions\/ script-path= https://raw.githubusercontent.com/langkhach270389/Scripting/master/vsco.js
+
+#gyroscope
+http-response ^https:\/\/api\.gyrosco\.pe\/v1\/account\/$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/Gyroscope.vip.js
+
+#Termius 
+http-response https:\/\/api\.termius\.com\/api\/v3\/bulk\/account\/ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/Terminus.js
+
+#PicsArt
+http-response ^https:\/\/api\.(picsart|meiease)\.c(n|om)\/users\/show\/me\.json script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/picsArt.vip.js
+
+#Vivavideo
+http-response ^https:\/\/viva-asia1\.vvbrd\.com\/api\/rest\/u\/vip* script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/vivavideo.vip.js
+
+#Undfold
+http-response ^https:\/\/api\.unfold\.app\/v1\/ios\/receipts$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/Unfold.vip.js
+
+#Nhaccuatui
+http-response ^https:\/\/graph\.nhaccuatui\.com\/.*\/users\/info* script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/nhaccuatui.js
+
+#Memrise
+http-response ^https:\/\/api\.memrise\.com\/.+\/(me\/$|dashboard\/$|leaderboards\/following\/) script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/memrise.vip.js
+
+# Jibjab
+http-response ^https:\/\/origin-prod-phoenix\.jibjab\.com\/v1\/user$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/jibjab.vip.js
+
+#buyhack
+http-response ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/verify_receipt.js
+
+#sync
+http-response ^https:\/\/api\.sync\.me\/api\/purchases\/(report_purchases|get_purchases)  script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/syn.me.js
+
+#elsaresponse
+http-response ^https:\/\/pool\.elsanow\.io\/user\/api\/v1\/purchase$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/elsa-response.js
+
+#drops
+http-response ^https:\/\/lambda\.us-east-1\.amazonaws\.com/.*/functions\/prod-4-syncPurchases\/invocations$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/drops.js
+
+#mondly
+http-response ^https:\/\/api\.mondlylanguages\.com\/v1\/ios\/user\/sync$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/mondly.vip.js
+
+#busuu
+http-response ^https:\/\/api\.busuu\.com\/users\/me* script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/busuu.vip.js
+
+#Videoshow
+http-response ^https:\/\/owa\.videoshowiosglobalserver\.com\/.*\/iosPayClient script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/videoshow.vip.js
+
+#elevate
+http-response ^https:\/\/accounts\.elevateapp\.net\/api\/users\?user%5Bauthentication_token* script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/elevate.vip.js
+
+#beautyplus
+http-response ^https:\/\/api-intl\.mr\.meitu\.com/.*/subs_offer_elg$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/beautyplusvip.js
+
+#camera360
+http-response ^https:\/\/bmall\.camera360\.com\/api\/(iap\/check-receipt$|mix\/getinfo$) script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/camera360.vip.js
+
+#zingtv
+http-response ^https?:\/\/api\.tv\.zing\.vn\/.*/user* script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/zingtvvipv1.js
+
+#calm
+http-response ^https:\/\/api\.calm\.com\/me$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/calm.vip.js
+
+#lightroom
+http-response ^https:\/\/photos\.adobe\.io\/v2\/accounts* script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/Lightroom.js
+
+#Pdfexpert
+http-response ^https:\/\/license\.pdfexpert\.com\/api\/1\.0\/pdfexpert6\/subscription\/(refresh$|check$) script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/Pdfexpert.vip.js
+
+#productive
+http-response ^https:\/\/subs\.platforms\.team\/.+\/apple\/verify$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/productive.js
+
+#Musixmatch
+http-response ^https:\/\/apic\.musixmatch\.com\/ws\/.*\/config\.get script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/musixmatch.miao.js
+
+#boom
+http-response ^https:\/\/apimboom2\.globaldelight\.net\/itunesreceipt_v2\.php$ script-path=302 https://raw.githubusercontent.com/langkhach270389/Scripting/master/boom.vip.rsp
+
+#mimo
+http-response ^https:\/\/api\.getmimo\.com\/v1\/subscriptions$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/mimo.vip.js
+
+#mojo&noto
+http-response ^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[a-zA-Z0-9_-]*$) script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/revenuecat.js
+
+#Bright
+http-response ^https:\/\/engbright\.com\/app-portal\/apple\/receipt$ script-path=302 https://raw.githubusercontent.com/langkhach270389/Scripting/master/Bright.rsp
+
+#lingokids
+http-response ^https:\/\/api\.lingokids\.com\/v1\/renovate_session$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/lingokids.vip.js
+
+#musicalm
+http-response ^https:\/\/www\.peacefulsoundsapp\.com\/api\/v1\/init$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/musicalm.js
+
+#duolingo_test
+http-response ^https:\/\/duolingo-leaderboards-prod\.duolingo\.com\/leaderboards* script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/duolingo.js
+
+#ulike
+http-response ^https:\/\/commerce-i18n-api\.faceu\.mobi\/commerce\/v1\/subscription\/user_info$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/ulike.js
+
+#adguardpremium
+http-response ^https:\/\/mobile-api\.adguard\.com\/api\/1\.0\/ios_validate_receipt$ script-path=302 https://raw.githubusercontent.com/langkhach270389/Scripting/master/Adguard.rsp
+
+#zingmp3
+http-response ^https:\/\/api\.global\.mp3\.zing\.vn\/1\.0\/getUserInfo\?data=* script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/zingmp3.js
+
+#Blinkist
+http-response ^https:\/\/api\.blinkist\.com\/v4\/(me$|me.json$|me\/access$) script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/blinkist.js
+
+#sololearn 
+http-response ^https:\/\/api\.sololearn\.com\/(authenticateDevice|challenge\/GetContestFeed|Profile\/GetProfile)$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/sololearn.js
+
+#kinemaster
+http-response ^https:\/\/api-kinemaster-assetstore\.(nexstreaming|kinemasters)\.com\/.*\/product\/verifyReceipt$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/kinemaster.js
+
+#pushover
+http-response ^https:\/\/api\.pushover\.net\/1\/messages\.json* script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/pushover.js
+
+#CamScanner
+http-response ^https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\? script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/CamScaner.js
+
+#over
+http-response ^https:\/\/api\.overhq\.com\/(user\/token\/refresh$|subscription\/verifyReceipt$) script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/over.vip.js
+
+#speak&translate
+http-response ^https:\/\/receipt-validator\.herewetest\.com\/apple\/verifyTransaction$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/speak&translate.js
+
+#document
+http-response ^https:\/\/license\.pdfexpert\.com\/api\/.*\/documents\/subscription\/(refresh$|check$) script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/documents.js
+
+#workingcopy
+http-response ^https:\/\/education\.github\.com\/api\/user$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/workingcopy.js
+
+#draft
+http-response ^https:\/\/backend\.getdrafts\.com\/api\/.*\/verification* script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/draft.js
+
+#phothop&PSexpress
+http-response ^https:\/\/lcs-mobile-cops\.adobe\.io\/mobile_profile script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/photoshop.js
+
+#itranslate&lingo&voice&converse
+http-response ^https:\/\/ssl-api\.itranslateapp\.com\/.*\/subscriptions\/.*\/ios$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/itranslate.js
+
+#dayone
+http-response ^https:\/\/dayone\.me\/api\/(users|v2\/users\/account-status)$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/dayone.js
+
+#endel
+http-response ^https:\/\/api-production\.endel\.io\/.*\/user$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/endel.js
+
+#nichi
+http-response ^https?:\/\/mp\.bybutter\.com\/mood\/(official-templates|privileges) script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/nichi.js
+
+#grammarly
+http-response ^https:\/\/subscription\.grammarly\.com\/api\/v1$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/grammarly.js
+
+#splice
+http-response ^https:\/\/splice\.oracle\.\w+\.com\/devices\/me script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/splice.js
+
+#planner5d
+http-response ^https:\/\/planner5d\.com\/api\/sets script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/planner5d.js
+
+http-response ^https:\/\/secure\.istreamer\.com\/backend$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/playerxtreme.js
+
+#all apps monkey
+http-response ^https:\/\/www\.api\.monkeyuni\.net\/api\/.+\/mobile\/account\/load-update script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/monkey.js
+
+#VideoStar
+http-response ^https?:\/\/.*\.videostarapp\.com\/scripts\/subsNew\.php script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/VideoStar.js
+
+#Textnow
+http-response ^https:\/\/api\.textnow\.me\/api2.0\/users\/.* script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/Textnow.js
+
+#Muscle Booster
+http-response ^https:\/\/menscoach-api\.asqq\.io\/prod\/user$ script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/MuscleBooster.js
+
+[MITM]
+hostname = %APPEND% api.textnow.me, *.videostarapp.com, avatar-nct.nixcdn.com, spclient.wg.spotify.com, *.googlevideo.com, oa.zalo.me, vsco.co, api.gyrosco.pe, origin-prod-phoenix.jibjab.com, api.termius.com, api.picsart.c*, api.meiease.c*, api.unfold.app, viva-asia1.vvbrd.com, graph.nhaccuatui.com, api.memrise.com, api.sync.me, pool.elsanow.io, lambda.us-east-1.amazonaws.com, api.mondlylanguages.com, api.busuu.com, owa.videoshowiosglobalserver.com:0, accounts.elevateapp.net, purchases.ws.pho.to, api-intl.mr.meitu.com, bmall.camera360.com, api.tv.zing.vn, api.calm.com, www.calm.com, api.global.mp3.zing.vn, apimboom2.globaldelight.net, photos.adobe.io, license.pdfexpert.com, subs.platforms.team, apic.musixmatch.com, api.getmimo.com, api.revenuecat.com, pixmagicapp.com, engbright.com, api.lingokids.com, www.peacefulsoundsapp.com, duolingo-leaderboards-prod.duolingo.com, commerce-i18n-api.faceu.mobi, mobi, mobile-api.adguard.com, api.blinkist.com, api.sololearn.com, receipts.cerebralgardens.com, api-kinemaster-assetstore.*, api.pushover.net, api-cs.intsig.net, api.overhq.com, api.appsyscode.com, api.freeletics.com, api.shred.app, receipt-validator.herewetest.com, api.deezer.com, iap.aps-sdk.com, education.github.com, backend.getdrafts.com, ssl-api.itranslateapp.com, sk.ulysses.app, dayone.me, license.enpass.io, mp.bybutter.com, *.grammarly.com, splice.oracle.*.com, api.keepkeep.com, planner5d.com, secure.istreamer.com, www.api.monkeyuni.net, account.wps.com, menscoach-api.asqq.io,

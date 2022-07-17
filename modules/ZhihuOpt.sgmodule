@@ -1,0 +1,17 @@
+#!name=Zhihu
+#!desc=知乎网页显示优化
+#!system=ios
+
+[Header Rewrite]
+^https:\/\/www\.zhihu\.com\/ header-replace User-Agent "Mozilla/5.0 (Windows Phone 10)"
+
+[URL Rewrite]
+^https://oia\.zhihu\.com/articles/([0-9]+)\?.* https://zhuanlan.zhihu.com/p/$1 307
+^https://oia\.zhihu\.com/answers/([0-9]+)\?.* https://www.zhihu.com/answer/$1 307
+^https?://link\.zhihu\.com/\?target=(https?)%3A//(.*) $1://$2 307
+
+[Header Rewrite]
+^https://www\.zhihu\.com\/(question|topic) header-replace User-Agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+
+[MITM]
+hostname = %APPEND% www.zhihu.com,link.zhihu.com,oia.zhihu.com
