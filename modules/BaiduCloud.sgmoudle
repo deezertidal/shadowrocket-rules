@@ -1,10 +1,8 @@
-#!name=百度云加速
-#!desc=百度云倍速播放
-#!author=NobyDa
-#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Dark/Baidu_Cloud.png
-
-[Mitm]
-hostname = pan.baidu.com
+#!name=WPS会员
+#!desc=WPS解锁本地会员
 
 [Script]
-http-response https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/BaiduCloud.js, tag=百度云加速
+wps = type=http-response,pattern=^https?:\/\/.*?account\.wps\.(com|cn)(:\d+)?\/api\/users\/\w+\/overview$ script-path=https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/WPSOffice/Script/WPS.js, requires-body=true, timeout=10
+
+[MITM]
+hostname = account.wps.cn,*account.wps.com
