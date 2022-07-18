@@ -1,0 +1,10 @@
+#!name=百度云加速
+#!desc=百度云倍速播放
+#!author=NobyDa
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Dark/Baidu_Cloud.png
+
+[Mitm]
+hostname = %APPEND% pan.baidu.com
+
+[Script]
+http-response https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/BaiduCloud.js, tag=百度云加速
