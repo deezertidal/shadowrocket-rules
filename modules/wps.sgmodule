@@ -1,0 +1,10 @@
+#!name=WPS会员
+#!desc=WPS解锁本地会员
+#!icon= https://raw.githubusercontent.com/deezertidal/private/main/icons/wps.png
+#!author=I-am-R-E
+
+[Script]
+WPS=type=http-response,pattern=^https?:\/\/.*?account\.wps\.(com|cn)(:\d+)?\/api\/users\/\w+\/overview$,script-path=https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/WPSOffice/Script/WPS.js, requires-body=true, timeout=10
+
+[MITM]
+hostname = %APPEND% account.wps.cn,*account.wps.com
