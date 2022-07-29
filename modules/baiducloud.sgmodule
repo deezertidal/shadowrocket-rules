@@ -4,7 +4,7 @@
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/baiducloud.png
 
 [Mitm]
-hostname =%APPEND %pan.baidu.com
+hostname =%APPEND% pan.baidu.com
 
 [Script]
 百度云加速=type=http-response,pattern=https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user,requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/BaiduCloud.js
