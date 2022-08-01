@@ -1,0 +1,17 @@
+#!name=酷我
+#!desc=解锁
+#!author=king
+
+[Script]
+# 解锁酷我音乐会员➕听书
+酷=type=http-response,pattern=^http://(.+).(lrts|kuwo).(me|cn)(/v2/api/user/info|/a.p|/vip/v2/user/vip),requires-body=1,script-path=https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kwyy.js
+
+# 解锁酷我音乐会员下载
+我=type=http-request,pattern=^https?:\/\/musicpay\.kuwo\.cn\/music\.pay\?.+$,requires-body=0,script-path=https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kwyyxz.js
+#hybz
+音=type=http-response,pattern=^http://vip1.kuwo.cn/vip/enc/user/vip.+$,requires-body=1,https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kwyy.js
+#szzj
+乐=type=http-response,pattern=^https?:\/\/musicpay\.kuwo\.cn\/music\.pay\?newver.+$,requires-body=1,script-path=https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kwyyszzj.js
+
+[MITM]
+hostname = %APPEND% *.kuwo.cn, *.lrts.me
