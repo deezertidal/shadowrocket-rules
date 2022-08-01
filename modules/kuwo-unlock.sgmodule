@@ -13,4 +13,4 @@
 乐=type=http-response,pattern=^https?:\/\/musicpay\.kuwo\.cn\/music\.pay\?newver.+$,requires-body=1,script-path=https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kwyyszzj.js
 
 [MITM]
-hostname = *.kuwo.cn, *.lrts.me
+hostname = %APPEND% *.kuwo.cn,*.lrts.me
