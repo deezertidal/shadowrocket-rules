@@ -54,7 +54,8 @@
 [spotifyVIP.module](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/spotifyVIP.module) spotify解锁会员  
 [substore.sgmodule](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/substore.sgmodule) 订阅链接转换筛选合并，附[教程](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)  （sub-store已升级，请更新模块。2022.7.9）  
 [boxjs.sgmodule](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/boxjs.sgmodule) 各类签到比价脚本，附[教程](https://github.com/chavyleung/scripts#boxjs)  
-[TidalPlus.sgmodule](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/TidalPlus.sgmodule) tidal解锁hifi
+[TidalPlus.sgmodule](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/TidalPlus.sgmodule) tidal解锁hifi  
+[其他模块](https://github.com/deezertidal/shadowrocket-rules/tree/main/modules)（自行测试有效性）
 <br>
 <br>
 ****
