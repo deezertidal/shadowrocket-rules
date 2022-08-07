@@ -1,0 +1,8 @@
+#!name=Alarmy Premium
+#!desc=使命闹钟会员解锁
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/alarmy.png
+#!author=Marol62926
+[Script]
+Alarmy=type=http-response,pattern=https://ars.alar.my/api/v2/user/sync,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/alarmy.js,requires-body=1,max-size=0
+[MITM]
+hostname = ars.alar.my
