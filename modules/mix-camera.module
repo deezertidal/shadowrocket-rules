@@ -1,0 +1,8 @@
+#!name=mix相机
+#!desc=mix相机
+[Script]
+mix相机=type=http-response,pattern=https?:\/\/bmall\.camera360\.com\/api\/mix\/recovery,requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/MIX.js
+[MITM]
+hostname=https?:\/\/bmall\.camera360\.com\/api\/mix\/recovery
+
+

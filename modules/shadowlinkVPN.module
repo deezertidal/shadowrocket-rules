@@ -1,0 +1,10 @@
+#!name=ShadowLinkVPN解锁会员节点
+#!desc=ShadowLinkVPN解锁会员节点
+[Script]
+ShadowLinkVPN解锁会员节点=type=http-response,pattern=https://buy.itunes.apple.com/verifyReceipt,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/shadowlink.js
+[MITM]
+hostname=buy.itunes.apple.com
+
+
+
+

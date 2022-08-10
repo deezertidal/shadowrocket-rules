@@ -1,0 +1,8 @@
+#!name=ILovePDF
+#!desc=ILovePDF
+[Script]
+ILovePDF=type=http-response,pattern=https://service.ilovepdf.com/v1/user,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/lovePdf.js
+[MITM]
+hostname=https://service.ilovepdf.com/v1/user
+
+

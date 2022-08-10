@@ -1,0 +1,6 @@
+#!name=奥软抠图
+#!desc=奥软抠图
+[Script]
+奥软抠图=type=http-response,pattern=https?:\/\/gw\.aoscdn\.com\/base\/vip\/client\/authorizations$,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/apowersoft.js
+[MITM]
+hostname=gw.aoscdn.com

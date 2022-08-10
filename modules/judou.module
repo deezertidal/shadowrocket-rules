@@ -1,0 +1,6 @@
+#!name=句读解锁
+#!desc=句读解锁
+[Script]
+句读解锁=type=http-response,pattern=https://judouapp.com/api/v2/mine/profile,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/judu.js
+[MITM]
+hostname=judouapp.com

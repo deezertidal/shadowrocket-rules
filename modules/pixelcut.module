@@ -1,0 +1,9 @@
+#!name=Pixelcut解锁
+#!desc=Pixelcut解锁
+[Script]
+Pixelcut解锁=type=http-response,pattern=https://api.revenuecat.com/v1/(receipts|subscribers)/*,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/pixelcut.js
+[MITM]
+hostname=api.revenuecat.com
+
+
+

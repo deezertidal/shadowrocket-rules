@@ -1,0 +1,9 @@
+#!name=奶由壁纸会员
+#!desc=奶由壁纸会员
+[Script]
+奶由壁纸会员=type=http-response,pattern=https://nz-api.duitang.com/account/me,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/naiyou.js
+[MITM]
+hostname=nz-api.duitang.com
+
+
+

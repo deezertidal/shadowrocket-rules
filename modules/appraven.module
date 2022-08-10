@@ -1,0 +1,7 @@
+#!name=Appraven
+#!desc=Appraven
+[Script]
+Appraven=type=http-response,pattern=^https?:\/\/appraven\.net\/AppRaven\/(app|social|buy),requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/appraven.js
+[MITM]
+hostname=appraven.net
+

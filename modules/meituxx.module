@@ -1,0 +1,8 @@
+#!name=美图秀秀
+#!desc=美图秀秀
+[Script]
+美图秀秀=type=http-response,pattern=^https?:\/\/(h5|api)\.xiuxiu\.meitu\.com\/v\d\/(h\d\/vip|vip|user)\/,requires-body=1,script-path=https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/MeiTuXiuXiu.js
+[MITM]
+hostname=h5.xiuxiu.meitu.com,api.xiuxiu.meitu.com
+
+

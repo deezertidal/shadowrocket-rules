@@ -1,0 +1,9 @@
+#!name=WorkoutForWomen解锁
+#!desc=WorkoutForWomen解锁
+[Script]
+WorkoutForWomen解锁=type=http-response,pattern=https://buy.itunes.apple.com/verifyReceipt,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/workoutForWomen.js
+[MITM]
+hostname=buy.itunes.apple.com
+
+
+

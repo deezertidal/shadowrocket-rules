@@ -1,0 +1,7 @@
+#!name=Polarr
+#!desc=Polarr
+[Script]
+Polarr=type=http-response,pattern=^https:\/\/api\.polaxiong\.com\/v1\/payments\/appleiap\/receipts\/confirmation,requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Polarr.js
+[MITM]
+hostname=api.polaxiong.com
+

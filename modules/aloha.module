@@ -1,0 +1,8 @@
+#!name=AlohaVPN浏览器
+#!desc=AlohaVPN浏览器
+[Script]
+AlohaVPN浏览器=type=http-response,pattern=https://api.alohaprofile.com/v1/profile_info,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/aloha.js
+[MITM]
+hostname=api.alohaprofile.com
+
+

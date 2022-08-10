@@ -1,0 +1,8 @@
+#!name=10percent解锁
+#!desc=10percent解锁
+[Script]
+10percent解锁=type=http-response,pattern=https://api.changecollective.com/api/v3/user,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/tenPercent.js
+[MITM]
+hostname=api.changecollective.com
+
+
