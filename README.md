@@ -2,6 +2,9 @@
 ## 添加机场订阅链接至小火箭，请自行注册购买
 ## [公益机场分享](https://github.com/deezertidal/freevpn/blob/main/README.md)  
 ****
+ <details>
+  <summary>:key:点击展开配置使用教程</summary>
+  
 # :key:配置使用教程：
 ## 本配置包含分流规则，去广告规则，酷我音乐会员破解，京东定时脚本  
 
@@ -39,7 +42,12 @@
 ## :point_down:返回小火箭 勾选确认  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/17.png)  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/18.png)  
+</details>
+
 ****
+ <details>
+  <summary>:key:点击展开模块使用教程</summary>
+  
 # :key:模块使用教程：  
 ## :point_down:打开小火箭——点击配置——进入模块  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1sg.png)  
@@ -48,6 +56,8 @@
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/3sg.png)  
 <br>
 <br>
+</details>
+
 ###### 模块说明：  
 [Qsearch.sgmodule](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/Qsearch.sgmodule) 聚合搜索  
 [YouTubeAd.sgmodule](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/YouTubeAd.sgmodule) youtube去广告  
