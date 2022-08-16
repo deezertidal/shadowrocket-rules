@@ -1,13 +1,15 @@
-# :rocket:小火箭配置模块及教程  
-### 添加机场订阅链接至小火箭，请自行注册购买
+# :rocket:小火箭配置文件    
+### 首先请添加机场订阅链接至小火箭，请自行注册购买  
 ### [公益机场分享](https://github.com/deezertidal/freevpn/blob/main/README.md)  
 ****
- <details>
-  <summary>:key:点击展开配置使用教程</summary>
+ 
   
 
-### 本配置包含分流规则，去广告规则，酷我音乐会员破解，京东定时脚本  
+### 配置文件包含:
+ * #### 分流规则, 京东签到脚本, 去广告，百度云加速, 扫描全能王, 酷我会员, 京东历史价格, WPS会员解锁, 财新会员解锁, spotify会员解锁, SoundCloudGo+, 切换百度搜索, 波点音乐去广告, 奈飞评分显示, 番茄小说去广告, 流利说解锁, JibJab解锁, MixCamera解锁, Picsart解锁, Polarr解锁, 皮皮虾去广告, VSCO解锁, 小影解锁, 香蕉视频解锁, ColorWidgets小组件解锁, Alarmy闹钟解锁, Aloha浏览器解锁, BedtimeFan助眠风扇解锁, Bazaart解锁, DailyYoga解锁, Darkroom解锁, Fabulous解锁, Invideo解锁, 忆飞Gif解锁, 句读解锁, Kika会员解锁, Mojo会员解锁, Musixmatch解锁, MyFitnessPal解锁, Now冥想解锁, 奶由壁纸解锁, Piccollage解锁, Pixelcut解锁, 时光手账解锁, ShadowLink解锁会员节点, Smallpdf解锁, Tangerine解锁, TenPercent解锁, 迅雷会员解锁, WorkoutForWomen解锁, Widgetsmith解锁, 万能变声器解锁, 指尖时光解锁会员, 傲软抠图会员, AppravenPro, 布丁锁屏, Bilibili1080P, BOOM会员解锁, 克拉壁纸, 彩云天气SVIP, EllabookVIP, FimoPro, FT中文网, iLovePDF解锁, 美图秀秀VIP, 起伏会员解锁, SymbolabPro, PixivShow, B612咔叽, 儿歌点点会员, hyperweb会员解锁, Molycam会员, Photomath会员, 西窗烛解锁, Accuweather解锁, Meistertask解锁, 一言解锁, Fantastical解锁, 云听解锁, 豌豆清单解锁, EMMO解锁, 小习惯解锁, 读书笔记解锁, 斑马海报解锁, MyPlate解锁, iMuseum解锁, Audiomack解锁, Grammarly解锁, TOKCAM解锁, 图图记账解锁, WallCraft解锁, 新语听书解锁, 一甜相机解锁, Grow解锁, Xmind思维导图解锁.  
+* 解锁app一般需要登录账号点击恢复购买。大部分移植自Quantumult X和loon，请自行测试有效性。
 
+  
 ### :point_down:打开小火箭 点击配置 点击右上角+号  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1a.png)  
 
@@ -42,95 +44,7 @@
 ### :point_down:返回小火箭 勾选确认  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/17.png)  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/18.png)  
-</details>
 
-****
- <details>
-  <summary>:key:点击展开模块使用教程</summary>
-  
-
-### :point_down:打开小火箭——点击配置——进入模块  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1sg.png)  
-### :point_down:点击右上角“+”号——将模块链接地址复制粘贴至输入框——下载  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/2sg.png)  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/3sg.png)  
-<br>
-<br>
-</details>
-
-#### 模块说明：  
-[Qsearch.sgmodule](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/Qsearch.sgmodule) 聚合搜索  
-[YouTubeAd.sgmodule](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/YouTubeAd.sgmodule) youtube去广告  
-[spotifyVIP.module](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/spotifyVIP.module) spotify解锁会员  
-[substore.sgmodule](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/substore.sgmodule) 订阅链接转换筛选合并，附[教程](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)  （sub-store已升级，请更新模块。2022.7.9）  
-[boxjs.sgmodule](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/boxjs.sgmodule) 各类签到比价脚本，附[教程](https://github.com/chavyleung/scripts#boxjs)  
-[TidalPlus.sgmodule](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/TidalPlus.sgmodule) tidal解锁hifi  
-[其他模块](https://github.com/deezertidal/shadowrocket-rules/tree/main/modules)（多数移植自loon quanX脚本,请自行测试有效性）
-<br>
-<br>
-****
-#### 拓展一下boxjs和sub-store：  
-<br>
-<br>
-boxjs订阅地址汇总：  
-
-https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json
-
-https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
-
-https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sunert.boxjs.json
-
-https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json
-
-https://raw.githubusercontent.com/chouchoui/QuanX/master/vei.boxjs.json
-
-https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json
-
-https://raw.githubusercontent.com/lowking/Scripts/master/lowking.boxjs.json
-
-https://raw.githubusercontent.com/songyangzz/QuantumultX/master/syzzzf.box.json
-
-https://raw.githubusercontent.com/toulanboy/scripts/master/toulanboy.boxjs.json
-
-https://raw.githubusercontent.com/zZPiglet/Task/master/zZPiglet.boxjs.json
-
-https://raw.githubusercontent.com/id77/QuantumultX/master/box.json
-
-https://raw.githubusercontent.com/dompling/Script/master/dompling.boxjs.json
-<br>
-<br>
-<br>
-sub-store重命名节点名称脚本操作：  
-<br>
-原节点名以中文命名地区。
- > 中文改为中文（例：香港=>香港）
- > https://raw.githubusercontent.com/futurkk/Potato/main/Rename/rename.js#input=zh&output=zh&airport=你需要的机场名  
- > 中文改为两位英文简写（例：香港=>HK）
- > https://raw.githubusercontent.com/futurkk/Potato/main/Rename/rename.js#input=zh&output=enShort&airport=你需要的机场名  
- > 中文改为三位英文简写（例：香港=>HKG）
- > https://raw.githubusercontent.com/futurkk/Potato/main/Rename/rename.js#input=zh&output=enShort3&airport=你需要的机场名  
- > 中文改为英文全称（例：香港=>Hong Kong）
- > https://raw.githubusercontent.com/futurkk/Potato/main/Rename/rename.js#input=zh&output=enFull&airport=你需要的机场名  
-
- 原节点名以英文简写命名地区。
- > 两位英文简写改为中文（例：HK=>香港）
- > https://raw.githubusercontent.com/futurkk/Potato/main/Rename/rename.js#input=enShort&output=zh&airport=你需要的机场名  
- > 两位英文简写改为英文简写（例：HK=>HK）
- > https://raw.githubusercontent.com/futurkk/Potato/main/Rename/rename.js#input=enShort&output=enShort&airport=你需要的机场名  
- > 两位英文简写改为三位英文简写（例：香港=>HKG）
- > https://raw.githubusercontent.com/futurkk/Potato/main/Rename/rename.js#input=enShort&output=enShort3&airport=你需要的机场名  
- > 两位英文简写改为英文全称（例：HK=>Hong Kong）
- > https://raw.githubusercontent.com/futurkk/Potato/main/Rename/rename.js#input=enShort&output=enFull&airport=你需要的机场名  
-
- 原节点名以英文全称命名地区。
- > 英文全称改为中文（例：Hong Kong=>香港）
- > https://raw.githubusercontent.com/futurkk/Potato/main/Rename/rename.js#input=enFull&output=zh&airport=你需要的机场名  
- > 英文全称改为两位英文简写（例：Hong Kong=>HK）
- > https://raw.githubusercontent.com/futurkk/Potato/main/Rename/rename.js#input=enFull&output=enShort&airport=你需要的机场名  
- > 英文全称改为三位英文简写（例：香港=>HKG）
- > https://raw.githubusercontent.com/futurkk/Potato/main/Rename/rename.js#input=enFull&output=enShort3&airport=你需要的机场名  
- > 英文全称改为英文全称（例：Hong Kong=>Hong Kong）
- > https://raw.githubusercontent.com/futurkk/Potato/main/Rename/rename.js#input=enFull&output=enFull&airport=你需要的机场名  
 
 ****
 ## 以上配置文件及模块脚本仅搬运分享  
