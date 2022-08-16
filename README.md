@@ -5,7 +5,7 @@
  
   
 
-### 配置文件包含:
+### 该[配置文件](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket.conf)包含:
  * #### 分流规则, 京东签到脚本, 去广告，百度云加速, 扫描全能王, 酷我会员, 京东历史价格, WPS会员解锁, 财新会员解锁, spotify会员解锁, SoundCloudGo+, 切换百度搜索, 波点音乐去广告, 奈飞评分显示, 番茄小说去广告, 流利说解锁, JibJab解锁, MixCamera解锁, Picsart解锁, Polarr解锁, 皮皮虾去广告, VSCO解锁, 小影解锁, 香蕉视频解锁, ColorWidgets小组件解锁, Alarmy闹钟解锁, Aloha浏览器解锁, BedtimeFan助眠风扇解锁, Bazaart解锁, DailyYoga解锁, Darkroom解锁, Fabulous解锁, Invideo解锁, 忆飞Gif解锁, 句读解锁, Kika会员解锁, Mojo会员解锁, Musixmatch解锁, MyFitnessPal解锁, Now冥想解锁, 奶由壁纸解锁, Piccollage解锁, Pixelcut解锁, 时光手账解锁, ShadowLink解锁会员节点, Smallpdf解锁, Tangerine解锁, TenPercent解锁, 迅雷会员解锁, WorkoutForWomen解锁, Widgetsmith解锁, 万能变声器解锁, 指尖时光解锁会员, 傲软抠图会员, AppravenPro, 布丁锁屏, Bilibili1080P, BOOM会员解锁, 克拉壁纸, 彩云天气SVIP, EllabookVIP, FimoPro, FT中文网, iLovePDF解锁, 美图秀秀VIP, 起伏会员解锁, SymbolabPro, PixivShow, B612咔叽, 儿歌点点会员, hyperweb会员解锁, Molycam会员, Photomath会员, 西窗烛解锁, Accuweather解锁, Meistertask解锁, 一言解锁, Fantastical解锁, 云听解锁, 豌豆清单解锁, EMMO解锁, 小习惯解锁, 读书笔记解锁, 斑马海报解锁, MyPlate解锁, iMuseum解锁, Audiomack解锁, Grammarly解锁, TOKCAM解锁, 图图记账解锁, WallCraft解锁, 新语听书解锁, 一甜相机解锁, Grow解锁, Xmind思维导图解锁.  
 * 解锁app一般需要登录账号点击恢复购买。大部分移植自Quantumult X和loon，请自行测试有效性。
 
