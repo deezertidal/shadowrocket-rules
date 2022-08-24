@@ -10,7 +10,7 @@
 * #### 更新：第一弹去广告+原画&ensp;  海豚记账本解锁会员&ensp;  马卡龙玩图解锁会员&ensp;  Peak解锁Pro&ensp;  Pillow解锁会员&ensp;  Pocket Lists解锁会员&ensp;  网易蜗牛读书解锁会员&ensp;  有道云笔记VIP&ensp;
 * #### 更新：知音漫客&ensp;  
 * 解锁app一般需要登录账号点击恢复购买。大部分移植自Quantumult X和loon，请自行测试有效性。
-
+* 如遇分流问题，请选择[轻量策略配置](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_lite.conf)
   
 ### :point_down:打开小火箭 点击配置 点击右上角+号  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1a.png)  
