@@ -3,4 +3,4 @@
 [Script]
 克拉壁纸=type=http-response,pattern=^https:\/\/claritywallpaper\.com\/clarity\/api\/(userInfo|special\/queryByCatalogAll),requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/clarity.js
 [MITM]
-hostname=claritywallpaper.com
+hostname= %APPEND% claritywallpaper.com

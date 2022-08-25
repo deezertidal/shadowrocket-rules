@@ -3,7 +3,7 @@
 [Script]
 Piccollage解锁=type=http-response,pattern=https://piccollage.com/api/graphql,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/picCollage.js
 [MITM]
-hostname=piccollage.com
+hostname= %APPEND% piccollage.com
 
 
 

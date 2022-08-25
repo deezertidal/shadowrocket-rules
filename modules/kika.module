@@ -3,4 +3,4 @@
 [Script]
 kika解锁=type=http-response,pattern=https://api.kikakeyboard.com/v1/ios/subscription/check/user,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/kika.js
 [MITM]
-hostname=api.kikakeyboard.com
+hostname= %APPEND% api.kikakeyboard.com

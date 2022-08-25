@@ -3,4 +3,4 @@
 [Script]
 布丁锁屏=type=http-response,pattern=https?:\/\/screen-lock\.51wnl-cq\.com\/userApi\/saveUser,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/budingsuoping.js
 [MITM]
-hostname=screen-lock.51wnl-cq.com
+hostname= %APPEND% screen-lock.51wnl-cq.com

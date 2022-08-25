@@ -3,7 +3,7 @@
 [Script]
 时光手账解锁=type=http-response,pattern=https://api.shouzhang.com/memcenterlk/member,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/timebook.js
 [MITM]
-hostname=api.shouzhang.com
+hostname= %APPEND% api.shouzhang.com
 
 
 

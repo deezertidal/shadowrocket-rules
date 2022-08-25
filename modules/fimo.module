@@ -3,4 +3,4 @@
 [Script]
 Fimo=type=http-response,pattern=^https://server.yoyiapp.com/fimo-user/user$,requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/fimo.js
 [MITM]
-hostname=server.yoyiapp.com
+hostname= %APPEND% server.yoyiapp.com

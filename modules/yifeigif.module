@@ -3,4 +3,4 @@
 [Script]
 忆飞Gif解锁=type=http-response,pattern=https://(us-central1-giftr-83d83|us-central1-infltr).cloudfunctions.net/verifySubscription,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/yifei.js
 [MITM]
-hostname=us-central1-giftr-83d83.cloudfunctions.net,us-central1-infltr.cloudfunctions.net
+hostname= %APPEND% us-central1-giftr-83d83.cloudfunctions.net,us-central1-infltr.cloudfunctions.net

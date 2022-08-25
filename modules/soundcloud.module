@@ -3,6 +3,6 @@
 [Script]
 SoundCloudGo+=type=http-response,pattern=https://api-mobile.soundcloud.com/configuration/ios,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/soundcloud.js
 [MITM]
-hostname=api-mobile.soundcloud.com
+hostname= %APPEND% api-mobile.soundcloud.com
 
 

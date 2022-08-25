@@ -3,4 +3,4 @@
 [Script]
 FabulousPremium=type=http-response,pattern=https://buy.itunes.apple.com/verifyReceipt,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/fabulous.js
 [MITM]
-hostname=buy.itunes.apple.com
+hostname= %APPEND% buy.itunes.apple.com

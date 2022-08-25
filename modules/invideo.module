@@ -3,4 +3,4 @@
 [Script]
 invideo会员=type=http-response,pattern=https://payments.invideo.io/(verify_purchase|subscription),requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/filmr.js
 [MITM]
-hostname=payments.invideo.io
+hostname= %APPEND% payments.invideo.io

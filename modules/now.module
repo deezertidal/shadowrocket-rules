@@ -3,6 +3,6 @@
 [Script]
 now冥想会员=type=http-response,pattern=https://nowapi.navoinfo.cn/h2/user/*,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/nowPonder.js
 [MITM]
-hostname=nowapi.navoinfo.cn
+hostname= %APPEND% nowapi.navoinfo.cn
 
 

@@ -3,4 +3,4 @@
 [Script]
 万能变声器解锁=type=http-response,pattern=https://www.40sishi.com/voice/user/profile,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/voiceChanger.js
 [MITM]
-hostname=www.40sishi.com
+hostname= %APPEND% www.40sishi.com

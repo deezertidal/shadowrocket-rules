@@ -3,5 +3,5 @@
 [Script]
 FT中文网=type=http-response,pattern=^https?:\/\/user\.ftmailbox\.cn\/ios-receipt-validation\.php.*,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/ftchinese.js
 [MITM]
-hostname=user.ftmailbox.cn
+hostname= %APPEND% user.ftmailbox.cn
 

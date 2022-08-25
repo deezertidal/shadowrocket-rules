@@ -3,6 +3,6 @@
 [Script]
 MyFitnessPal=type=http-response,pattern=https://premium-api.myfitnesspal.com/v3/subscriptions/MFP/*,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/myFitnessPal.js
 [MITM]
-hostname=premium-api.myfitnesspal.com
+hostname= %APPEND% premium-api.myfitnesspal.com
 
 

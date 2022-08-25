@@ -3,5 +3,5 @@
 [Script]
 JibJab=type=http-response,pattern=https:\/\/origin-prod-phoenix\.jibjab\.com\/v1\/user,requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/jibjab.js
 [MITM]
-hostname=origin-prod-phoenix.jibjab.com
+hostname= %APPEND% origin-prod-phoenix.jibjab.com
 

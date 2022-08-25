@@ -3,4 +3,4 @@
 [Script]
 Smallpdf解锁=type=http-response,pattern=https://pro.smallpdf.com/pro/account,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/smallpdf.js
 [MITM]
-hostname=pro.smallpdf.com
+hostname= %APPEND% pro.smallpdf.com

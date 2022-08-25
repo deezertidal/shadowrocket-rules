@@ -3,4 +3,4 @@
 [Script]
 DailyYoga=type=http-response,pattern=https://pre.dailyyoga.com/h2oapi/user/getUserDetail,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/dailyYoga.js
 [MITM]
-hostname=pre.dailyyoga.com/h2oapi/user/getUserDetail
+hostname= %APPEND% pre.dailyyoga.com/h2oapi/user/getUserDetail

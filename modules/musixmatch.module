@@ -3,5 +3,5 @@
 [Script]
 Musixmatch解锁=type=http-response,pattern=https://apic.musixmatch.com/ws/1.1/config.get,requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/musixmatch.js
 [MITM]
-hostname=apic.musixmatch.com
+hostname= %APPEND% apic.musixmatch.com
 

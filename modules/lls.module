@@ -3,4 +3,4 @@
 [Script]
 流利说·阅读=type=http-response,pattern=^https?:\/\/vira\.llsapp\.com\/api\/v\d\/\w+\/\w+$,requires-body=true,script-path=https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/LiuLiShuoYueDu/Script/LiuLiShuoYueDu.js
 [MITM]
-hostname=vira.llsapp.com
+hostname= %APPEND% vira.llsapp.com
