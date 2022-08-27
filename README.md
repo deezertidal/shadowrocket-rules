@@ -157,6 +157,26 @@
 |:white_check_mark:指尖时光|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/zjsg.module)|日程管理
 |:white_check_mark:知音漫客|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/zymk.module)|知音漫客解锁
 
+****
+
+  
+|:octocat:Sub-Store脚本|:link:链接|:pushpin:操作说明|
+|--|--|--|
+|:white_check_mark:脚本操作：重命名|[:link:链接地址](https://raw.githubusercontent.com/futurkk/Potato/main/Rename/rename.js#input=zh&output=zh&airport=你需要的机场名)|SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改自己的机场名）
+|:white_check_mark:脚本过滤：筛选80 443端口|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/port-filter.js)|SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接
+|:white_check_mark:脚本过滤：筛选80,443，vmess,ws节点|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/nodes-filter.js)|SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接
+|:white_check_mark:脚本操作：修改host|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/vmess-host.js)|SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改参数）
+
+
+    
+****
+
+  
+|:octocat:其他|:link:链接|:pushpin:操作说明|
+|--|--|--|
+|:white_check_mark:机场推荐|[:link:公益机场](https://github.com/deezertidal/freevpn/blob/main/README.md) / [付费机场](https://github.com/deezertidal/fee-based/blob/main/README.md)|
+|:white_check_mark:Altstore|[:link:链接地址](https://altstore.io/)|自签工具（Win10+ or MacOs10.14.4+）
+|:white_check_mark:Youtube.ipa|[:link:链接地址](https://racaty.net/2x09yydnnrd2?fpdi_ticket=)|去广告 后台播放音乐 画中画（需搭配altstore自动刷新签名）
 
 
 ****
