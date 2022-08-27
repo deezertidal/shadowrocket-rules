@@ -1,0 +1,10 @@
+#!name=皮皮虾
+#!desc=皮皮虾去广告和水印
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ppx.png
+#!homepage=https://github.com/deezertidal
+#!author=NobyDa
+[Script]
+皮皮虾去广告和水印=type=http-response,pattern=^https?://.*\.snssdk\.com/bds/(feed/stream|comment/cell_reply|cell/cell_comment|cell/detail|ward/list|user/favorite|user/cell_coment|user/cell_userfeed|user/publish_list),requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Super.js
+
+[MITM]
+hostname = %APPEND% *.snssdk.com

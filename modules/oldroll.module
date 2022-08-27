@@ -1,0 +1,13 @@
+#!name=OldRoll
+#!desc=OldRoll相机解锁
+#!homepage=https://github.com/deezertidal
+#!author= yqc007
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/oldroll.png
+
+
+
+[MITM]
+hostname = %APPEND% buy.itunes.apple.com
+
+[Script]
+OldRoll=type=http-response,pattern=^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$,requires-body=1,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/OldRollFVIPCrack.js

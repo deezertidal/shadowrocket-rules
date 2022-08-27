@@ -1,0 +1,11 @@
+#!name=知音漫客
+#!desc= 解锁知音漫客付费章节 (需登录)
+#!homepage=https://github.com/deezertidal
+#!author= NobyDa
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/zymk.png
+
+[Script]
+知音漫客=type=http-response,pattern=^https:\/\/apigate\.zymk\.cn\/(zymk-getuserinfo-api\/v1\/getuserinfo|zymk-userpurchased-api\/v1\/userpurchased\/paychapters)\/,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Zymh.js
+
+[MITM]
+hostname = %APPEND% apigate.zymk.cn

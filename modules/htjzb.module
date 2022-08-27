@@ -1,0 +1,10 @@
+#!name=海豚记账本
+#!desc=海豚记账本解锁会员
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/htjzb.png
+#!homepage=https://github.com/deezertidal
+#!author=superuv
+
+[Script]
+海豚记账本=type=http-response,pattern=https:\/\/book\.haitunwallet\.com\/app\/vip\/status,requires-body=1 ,script-path=https://raw.githubusercontent.com/demo2099/jscool/master/Script/HTJZ.js
+[MITM]
+hostname = %APPEND% book.haitunwallet.com

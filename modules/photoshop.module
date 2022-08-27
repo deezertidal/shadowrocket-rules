@@ -1,0 +1,11 @@
+#!name=PhotoshopExpress
+#!desc=PhotoshopExpress解锁高级订阅
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/photoshop.png
+#!homepage=https://github.com/deezertidal
+#!author=litieyin
+
+[MITM]
+hostname = %APPEND% lcs-mobile-cops.adobe.io
+
+[Script]
+PhotoshopExpress=type=http-response,pattern=^https:\/\/lcs-mobile-cops\.adobe\.io\/mobile_profile,requires-body=1,script-path=https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/photoshop.js

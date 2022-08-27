@@ -1,0 +1,9 @@
+#!name=Symbolab
+#!desc=Symbolab Pro
+#!homepage=https://github.com/deezertidal
+#!author=ddgksf2013
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/symbolab.png
+[Script]
+Symbolab=type=http-response,pattern=^https?:\/\/appraven\.net\/AppRaven\/(app|social|buy),requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/appraven.js
+[MITM]
+hostname = %APPEND% scibug.com

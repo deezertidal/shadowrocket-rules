@@ -1,0 +1,11 @@
+#!name=计算器HD
+#!desc=计算器HD解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=yqc007
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/calculator.png
+
+[MITM]
+hostname = %APPEND% www.40sishi.com
+
+[Script]
+计算器HD=type=http-response,pattern=^https?:\/\/www\.40sishi\.com\/(list|currency|calculator)\/user\/profile$,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/CalculatorHDProCrack.js,requires-body=1

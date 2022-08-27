@@ -1,0 +1,13 @@
+#!name=纸条
+#!desc=纸条年度会员解锁
+#!homepage=https://github.com/deezertidal
+#!author= lutqhysky
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/zhitiao.png
+
+
+
+[MITM]
+hostname = %APPEND% *.zuowenzhitiao.com
+
+[Script]
+纸条=type=http-response,pattern=^https?:\/\/(app1|zwzt-h5).zuowenzhitiao.com,requires-body=1,script-path=https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/xiaozhitiao/Script/xiaozhitiao.js

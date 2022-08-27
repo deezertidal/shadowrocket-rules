@@ -1,0 +1,23 @@
+#!name=人人视频去广告
+#!desc=人人（多多）视频去广告
+#!homepage=https://github.com/deezertidal
+#!author= ddgksf2013
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/rrsp.png
+
+
+
+[MITM]
+hostname = %APPEND% api.rr.tv
+
+[Script]
+人人视频去广告1=type=http-response,pattern=^https?:\/\/api\.rr\.tv\/\w{3}\/level\/info,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/rrtv_json.js,script-update-interval=0 
+人人视频去广告2=type=http-response,pattern=https://api.rr.tv/v3plus/index/channel\?pageNum=1&position=CHANNEL_INDEX,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/rrtv_json.js,script-update-interval=0 
+人人视频去广告3=type=http-response,pattern=^https?:\/\/api\.rr\.tv\/app\/config\/h5NativeBar,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/rrtv_json.js,script-update-interval=0 
+人人视频去广告4=type=http-response,pattern=^https?:\/\/api\.rr\.tv\/v3plus\/index\/channel\?pageNum=1&position=CHANNEL_MY,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/rrtv_json.js,script-update-interval=0
+人人视频去广告5=type=http-response,pattern=^https:\/\/api\.rr\.tv\/user\/privilege\/list,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/rrtv_json.js,script-update-interval=0
+人人视频去广告6=type=http-response,pattern=^https:\/\/api\.rr\.tv\/ad\/getAll,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/rrtv_json.js,script-update-interval=0
+人人视频去广告7=type=http-response,pattern=^https:\/\/api\.rr\.tv\/drama\/app\/get_combined_drama_detail,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/rrtv_json.js,script-update-interval=0
+人人视频去广告8=type=http-response,pattern=^https://api.rr.tv/watch/v4,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/rrtv_json.js,script-update-interval=0
+人人视频去广告9=type=http-response,pattern=^https://api.rr.tv/watch/v4,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/rrtv_json.js,script-update-interval=0
+人人视频去广告10=type=http-response,pattern=^https://api.rr.tv/user/profile,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/rrtv_json.js,script-update-interval=0
+人人视频去广告11=type=http-response,pattern=^https://api.rr.tv/watch/v4,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/rrtv_json.js,script-update-interval=0

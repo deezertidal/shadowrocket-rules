@@ -1,0 +1,10 @@
+#!name=马卡龙玩图
+#!desc=马卡龙玩图解锁会员
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/mklwt.png
+#!homepage=https://github.com/deezertidal
+#!author=CheeryTodo
+
+[Script]
+马卡龙玩图=type=http-response,pattern=https://app.api.versa-ai.com/pay/order/iap/check,requires-body=1 ,script-path=https://raw.githubusercontent.com/demo2099/jscool/master/Script/mkl.js
+[MITM]
+hostname = %APPEND% app.api.versa-ai.com

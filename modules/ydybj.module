@@ -1,0 +1,10 @@
+#!name=有道云笔记
+#!desc=有道云笔记VIP
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ydybj.png
+#!homepage=https://github.com/deezertidal
+#!author=Alex0510
+
+[Script]
+有道云笔记=type=http-response,pattern=https://note.youdao.com/yws/(mapi/payment|api/self),requires-body=1 ,script-path=https://raw.githubusercontent.com/demo2099/jscool/master/Script/ydybj.js
+[MITM]
+hostname = %APPEND% note.youdao.com

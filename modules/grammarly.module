@@ -1,0 +1,11 @@
+#!name=Grammarly
+#!desc=Grammarly解锁订阅 subscription.grammarly.com
+#!homepage=https://github.com/deezertidal
+#!author=yqc007
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/grammarly.png
+
+[MITM]
+hostname = %APPEND% subscription.grammarly.com
+
+[Script]
+Grammarly=type=http-response,pattern=^https?:\/\/subscription\.grammarly\.com\/api\/v1\/subscription$,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/GrammarlyPremiumCrack.js,requires-body=1

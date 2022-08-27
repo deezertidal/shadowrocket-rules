@@ -1,0 +1,11 @@
+#!name=石墨文档
+#!desc=石墨文档解锁
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/smwd.png
+#!homepage=https://github.com/deezertidal
+#!author=litieyin
+
+[MITM]
+hostname = %APPEND% shimo.im
+
+[Script]
+石墨文档=type=http-response,pattern=^https:\//shimo.im\/lizard-api\/users\/me,requires-body=1,script-path=https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/shimo.js

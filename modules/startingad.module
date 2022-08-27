@@ -1,0 +1,316 @@
+#!name=APP启动页去广告
+#!desc=APP启动页去广告
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/startingad.png
+#!homepage=https://github.com/deezertidal
+#!author=ddgksf2013
+
+[MITM]
+hostname = %APPEND% maicai.api.ddxq.mobi, www.meituan.com, client.mail.163.com,  api.izuiyou.com, appapi.huazhu.com, api.wfdata.club, *.music.163.com, api.psy-1.com, res.kfc.com.cn, -redirector*.googlevideo.com,*.googlevideo.com,www.youtube.com,s.youtube.com,youtubei.googleapis.com, mp.weixin.qq.com, security.wechat.com, weixin110.qq.com, cdn.*.chelaileapp.cn, api.coolapk.com, edith.xiaohongshu.com, app3.qdaily.com, daoyu.sdo.com, img.jiemian.com, ccsp-egmas.sf-express.com, *.laichon.com, app.ap.d3yuiw4.com, www.i3zh.com, api.yikaobang.com.cn, api-ad-product.huxiu.com, jad-api.jin10.com, mob.mddcloud.com.cn, appactive.1234567.com.cn, rtbapi.douyucdn.cn, service.busi.inke.cn, gab.122.gov.cn, dispatcher.camera360.com, app.api.versa-ai.com, open.taou.com, api.taou.com, track.mm.taou.com, app.dewu.com, data-collector.soulapp.cn, api-mifit-cn2.huami.com, api.gamer.com, beta-api.crunchyroll.com, api.vistopia.com.cn, pss.txffp.com, m.sd.10086.cn, gw.alicdn.com, helper.2bulu.com, 47.100.65.202, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, new.vip.weibo.cn, wap.js.10086.cn, tagit.hyhuo.com, top-widgets-api.xiaozujian.com, tel.mangaapi.manhuaren.com, apis.lifeweek.com.cn, support.you.163.com, yanxuan.nosdn.127.net, *.peopleapp.com, api-mifit-sg2.huami.com, new-app-api.ylyk.com, gw.aihuishou.com, *.58cdn.com.cn, app.58.com, acs.m.taobao.com, static.zhihu.com, creditcardapp.bankcomm.com, res.xiaojukeji.com, 116.85.2.15, 116.85.2.14, lchttpapi.xczim.com, business.msstatic.com, mangaapi.manhuaren.com, api.gotokeep.com, api.kkmh.com, *.chelaile.net.cn, api-mifit.huami.com, api.jr.mi.com, api.m.mi.com, guanyu.longfor.com, pages.xiaohongshu.com, www.xiaohongshu.com, gw.alicdn.com, elemecdn.com, fuss10.elemecdn.com, www1.elecfans.com, m.tuniu.com, consumer.fcbox.com, mapi.mafengwo.cn, api.xiaoyi.com, api.douban.com, otheve.beacon.qq.com, mapi.sfbest.com, m5.amap.com, api.mwee.cn, sso.ifanr.com, s3plus.meituan.net,flowplus.meituan.net, p*.meituan.net, img.meituan.net, testflight.apple.com, rich.kuwo.cn,*.kwcdn.kuwo.cn,mobilead.kuwo.cn, ms.jr.jd.com, wmapi.meituan.com, appconf.mail.163.com, business.msstatic.com, dl-cu-hz.lechange.cn, bdsp-x.jd.com, dsp-x.jd.com, api.m.jd.com, fbchina.flipchina.cn, zone.guiderank-app.com,ad.12306.cn, homefront.qunar.com, afd.baidu.com, *.bdstatic.com, j-image.missfresh.cn, ma-adx.ctrip.com, m.ctrip.com, mbd.baidu.com, img.rr.tv, api.rr.tv, capis.didapinche.com,capis*.didapinche.com, *.hoopchina.com,goblin.hupu.com,spclient.wg.spotify.com,ssp.dzh.com.cn,api-access.pangolin-sdk-toutiao.com
+
+[URL Rewrite]
+# ======= 0~9 ======= #
+# > 58同城
+^https?:\/\/.+\.58cdn\.com\.cn\/brandads\/ - reject
+^https?:\/\/app\.58\.com\/api\/home\/advertising\/ - reject
+^https?:\/\/app\.58\.com\/api\/home\/appadv\/ - reject
+
+
+# ======= A ======= #
+# > 爱回收
+^https?:\/\/gw.aihuishou.com\/app-portal\/home\/getadvertisement - reject
+# > AppSo
+^https?:\/\/sso.ifanr.com\/jiong\/IOS\/appso\/splash\/ - reject
+# > 爱奇艺
+^https?:\/\/.+\/cdn\/qiyiapp\/\d{8}\/.+&dis_dz= - reject-img
+^https?:\/\/.+\/cdn\/qiyiapp\/\d{8}\/.+&z=\w - reject-img
+^https?:\/\/.+\/videos\/other\/ - reject
+^https?:\/\/iface2\.iqiyi\.com\/fusion\/3\.0\/fusion_switch - reject-img
+
+
+# ======= B ======= #
+# > 百度地图开屏广告
+^https:\/\/dss0\.bdstatic\.com\/.+/tam-ogel\/.+\.jpg - reject
+
+
+# ======= C ======= #
+# > 车来了@ddgksf2013
+^https?:\/\/cdn\.\w{3}\.chelaileapp\.cn\/(api\/)?adpub - reject-dict
+^https?:\/\/api.chelaile.net.cn\/adpub\/ - reject
+^https?:\/\/api.chelaile.net.cn\/goocity\/advert\/ - reject
+^https?:\/\/atrace.chelaile.net.cn\/adpub\/ - reject
+^https?:\/\/atrace.chelaile.net.cn\/exhibit\?&adv_image - reject
+^https?:\/\/pic1.chelaile.net.cn\/adv\/ - reject
+
+
+# ======= D ======= #
+# > 叮咚买菜
+^https?:\/\/maicai\.api\.ddxq\.mobi\/advert\/ - reject
+
+# > 豆瓣
+^https://api.douban.com\b.*\/common_ads\?.* - reject
+# > 滴滴出行（推荐英文版）@ddgksf2013
+https?://res\.xiaojukeji\.com\/resapi\/activity\/mget - reject-dict
+https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/get(Ruled|Preload|PasMultiNotices) - reject
+# > 叨鱼去广告@ddgksf2013
+^https?:\/\/daoyu\.sdo\.com\/api\/userCommon\/getAppStartAd - reject
+# > 斗鱼直播去开屏@kyle
+^https?:\/\/rtbapi\.douyucdn\.cn\/japi\/sign\/app\/getinfo - reject
+# > 得物@kyle
+^https:\/\/app\.dewu\.com\/api\/v1\/app\/advertisement\/ - reject
+# > 大智慧
+^https?://ssp\.dzh\.com\.cn/v2api/adgroupjson - reject
+
+# ======= E ======= #
+# > 饿了么
+^https?:\/\/elemecdn.com\/.+\/sitemap - reject
+^https?:\/\/fuss10.elemecdn.com\/.+\/w\/640\/h\/\d{3,4} - reject
+^https?:\/\/fuss10.elemecdn.com\/.+\/w\/750\/h\/\d{3,4} - reject
+^https?:\/\/fuss10.elemecdn.com\/.+.mp4 - reject
+^https?:\/\/www1.elecfans.com\/www\/delivery\/ - reject
+
+
+# ======= F ======= #
+# > 丰巢
+^https?:\/\/consumer\.fcbox\.com\/v\d\/ad\/ - reject
+# > 飞猪
+^https?:\/\/gw\.alicdn\.com\/imgextra\/\w{2}\/[\w!]+-\d-tps-\d{3}-\d{4}\.(jpg|png)$ - reject
+# > 飞客茶馆（请清除缓存使用）@ddgksf2013
+^https?:\/\/47\.100\.65\.202\/source\/plugin\/mobile\/mobile\.php\?module=advis - reject
+
+# ======= G ======= #
+# > 盖得排行开屏广告@ddgksf2013
+https://zone.guiderank-app.com/guiderank-web/app/ad/listLaunchADByCity.do - reject
+# > 高德
+^https?:\/\/m5.amap.com\/ws\/valueadded\/ - reject
+# > 冠寓开屏广告@ddgksf2013
+https://guanyu.longfor.com/app-server/api/v1/main/start - reject
+
+
+# ======= H ======= #
+# > 华住
+^https?:\/\/appapi\.huazhu\.com:\d{4}\/client\/app\/getAppStartPage\/ - reject
+# > 虎扑@ddgksf2013
+^https?:\/\/i\d\.hoopchina\.com\.cn/blogfile\//d+\//d+\/BbsImg\.(?<=(big.(png|jpg)))$ - reject-img
+^https?:\/\/games\.mobileapi\.hupu\.com\/.+\/(search|interfaceAdMonitor|status|hupuBbsPm)/(hotkey|init|hupuBbsPm)\. - reject-img
+^https?:\/\/games\.mobileapi\.hupu\.com\/interfaceAdMonitor - reject-img
+^https?:\/\/goblin\.hupu\.com\/.+\/interfaceAd\/getOther - reject
+^https?:\/\/i1\.hoopchina\.com\.cn\/blogfile\/.+_\d{3}x\d{4} - reject-img
+# > 红版报开屏广告@ddgksf2013
+https://fbchina.flipchina.cn/v2/ad/query/* - reject
+# > 虎牙直播开屏广告
+^http?:\/\/business\.msstatic\.com\/advertiser\/material - reject
+# > 虎牙直播
+^http?:\/\/business\.msstatic\.com\/advertiser\/material - reject-dict
+# > 好奇心日报去广告@ddgksf2013
+^https?:\/\/app3\.qdaily\.com\/app\d\/boot_advertisements\.json - reject
+# > huxiu去广告@ddgksf2013
+^https:\/\/api-ad-product\.huxiu\.com\/Api\/Product\/SDK\/Advert\/Query\/queryAdvertListInfo - reject
+
+
+# ======= I ======= #
+# > I3去弹窗广告@ddgksf2013
+^https?:\/\/www\.i3zh\.com - response-body cm-pop-up-banners response-body ddgksf2013
+
+
+# ======= J ======= #
+# > 京东开屏广告（此条规则会影响京东比价显示，使其失效）
+^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start - reject-dict
+^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=queryMaterialAdverts - reject
+^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/ - reject
+# > 京东金融开屏广告
+^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/aladdin\/(new)?na\/m\/getLoadingPicture - reject
+# > 交行买单吧@HotKids
+^https?:\/\/creditcardapp\.bankcomm\.com\/mapp\/common\/queryGuidePageAds\.do$ - reject-200
+^https?:\/\/creditcardapp\.bankcomm\.com\/mapp\/common\/getPopAds\.do$ - reject-200
+# > 界面新闻去广告@ddgksf2013
+^https?:\/\/img\.jiemian\.com\/ads\/ - reject
+# > 金十数据去除开屏广告和应用内弹窗@kyle
+^https?:\/\/jad-api\.jin10\.com\/ad - reject
+# > 江苏移动10086（需卸载重装）@ddgksf2013
+^https?+:\/\/wap\.js\.10086\.cn\/jsmccClient\/cd\/market_content\/api\/v\d\/market_content\.page\.query - reject-200
+# > 交管12123(需卸载重装)@kyle
+^https:\/\/gab\.122\.gov\.cn\/eapp\/m\/sysquery - reject
+
+
+# ======= K ======= #
+# > 肯德基
+^https?:\/\/res.kfc.com.cn\/advertisement\/ - reject
+# > 酷我音乐去开屏广告 - rich.kuwo.cn,*.kwcdn.kuwo.cn,mobilead.kuwo.cn
+^https?:\/\/rich\.kuwo\.cn\/AdService\/kaiping\/.+ - reject
+^https?:\/\/.+\.kwcdn\.kuwo\.cn\/star\/upload\/.+ - reject
+^https?:\/\/mobilead\.kuwo\.cn\/EcomResourceServer\/adBubble\/.+ - reject
+# > 快看漫画
+^https?:\/\/api.kkmh.com\/v\d\/(ad|advertisement)\/ - reject
+# > Keep开屏广告屏蔽@ddgksf2013
+https://api.gotokeep.com/op-engine-webapp/v1/ad - reject
+https://api.gotokeep.com/ads/v1/ads/preload - reject
+# > 看理想 - api.vistopia.com.cn
+^https?:\/\/api\.vistopia\.com\.cn\/api\/v\d\/home\/advertisement - reject-dict
+# > 酷安
+^https?://api-access\.pangolin-sdk-toutiao\.com/api/ad/union/sdk - reject
+
+# ======= L ======= #
+# > 乐橙开屏广告
+https://dl-cu-hz.lechange.cn/oms-online/advertisementPush/* - reject
+# > 拦截100@ddgksf2013
+https://tagit.hyhuo.com/recover/list - reject
+# > LaiChon去广告@ddgksf2013
+^https?:\/\/(mobile|shop)\.laichon\.com\/api\/(v1\/goods\/goodsList|exposureAdvStatistics|getWebAdvList) - reject-dict
+# > 两步路（请卸载重新安装）@ddgksf2013
+# 自行复制引用下面的👇分流
+# host-suffix, admobile.top, reject
+https?:\/\/helper\.2bulu\.com\/(greenPea\/queryTasks|proSpecial\/allData|saveSplashFrequencyStatistics|getPopInfo|getAppEntranceConfig|promote\/list|getSplash|outing\/reqFoundNewList|outing\/reqIndex) - reject
+
+
+# ======= M ======= #
+# > 每日优鲜开屏广告
+^https:\/\/j-image\.missfresh\.cn\/img_(.+)\.gif$ - reject
+^https:\/\/j-image\.missfresh\.cn\/img_(.+)\.(jpg|jpeg|gif|png)\?iopcmd=convert&dst=webp&q=85$ - reject
+# > 美团应用
+^https?:\/\/img\.meituan\.net\/(adunion|display|midas)\/\w+\.(gif|jpg|jpg\.webp)$ - reject
+^https?:\/\/(s3plus|flowplus)\.meituan\.net\/v\d\/\w+\/linglong\/\w+\.(gif|jpg|mp4) - reject
+^https?:\/\/p\d\.meituan\.net\/(bizad|wmbanner)\/\w+\.jpg - reject
+^https?:\/\/p\d\.meituan\.net\/movie\/\w+\.jpg\?may_covertWebp - reject
+# > 美团外卖开屏广告
+^https?:\/\/wmapi\.meituan\.com\/api\/v\d+\/loadInfo\? - reject
+^https?:\/\/wmapi\.meituan\.com\/api\/v\d\/startpicture - reject
+^https?:\/\/www\.meituan\.com\/api\/v\d\/appstatus\?ad - reject
+# > 美味不用等
+^https?:\/\/capi.mwee.cn\/app-api\/V12\/app\/getstartad - reject
+# > 马蜂窝
+^https://mapi.mafengwo.cn\/ad\/get_launch_ad_list\/v2 - reject
+# > 埋堆堆去开屏及播放页广告@ddgksf2013
+^https?:\/\/mob\.mddcloud\.com\.cn\/adApi\/advert - reject
+# > 漫画人new@ddgksf2013
+^https?://tel.mangaapi.manhuaren.com/(v2/public/getStartUpMessage|v1/public/getStartPageAds) - reject
+http://tel.mangaapi.manhuaren.com/v2/ad/getMultiAdsStrategy - reject
+http://mangaapi.manhuaren.com/v2/public/getShelfActivity - reject
+^https?://mangaapi.manhuaren.com/(v2/public/getStartUpMessage|v1/public/getStartPageAds) - reject
+http://mangaapi.manhuaren.com/v2/ad/getMultiAdsStrategy - reject
+# > MIX滤镜@kyle
+^https:\/\/dispatcher\.camera360\.com\/api\/v1\/list$ - reject
+# > 马卡龙去开屏@kyle
+^https:\/\/app\.api\.versa-ai\.com\/launch\/ads\? - reject
+# > 脉脉@ddgksf2013
+^https?:\/\/open\.taou\.com\/maimai\/launch_ad - reject
+^https?:\/\/api\.taou\.com\/sdk\/global\/splash_ad - reject
+^https?:\/\/track\.mm\.taou\.com/v\d\/track - reject
+# ======= O ======= #
+# > One去除广告@ddgksf2013
+^http:\/\/app\.api\.d3yuiw4\.com\/api\/app\/ad - reject
+# ======= P ======= #
+# > 票根
+^https?:\/\/pss\.txffp\.com\/piaogen\/images\/launchScreen/ - reject-200
+# ======= Q ======= #
+# > 去哪儿开屏广告@ddgksf2013
+https://homefront.qunar.com/front/splash/ad - reject
+# ======= R ======= #
+# > 人民日报@ddgksf2013
+^https:\/\/app\.peopleapp\.com\/Api\/\d+/HomeApi\/getAdvertImage - reject
+^https:\/\/app\.peopleapp\.com\/Api\/\d+/HomeApi\/adv - reject-dict
+^https?:\/\/stat\.peopleapp\.com\/ - reject
+# ======= S ======= #
+# > 顺丰优选
+^https://mapi.sfbest.com\/brokerservice-server\/cms\/getPositionById.* - reject
+
+# > 三联中读开屏广告@ddgksf2013
+https://apis.lifeweek.com.cn/api/baseConfig/getIosNewConfig - reject
+# > 顺丰APP屏蔽更新@ddgksf2013
+^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/appVersion\/detectionUpgrade - reject-dict
+# > 山东移动@ddgksf2013
+https?:\/\/m\.sd\.10086\.cn\/zapi\/app_common\/homeWelcome\/welcome.do - reject-dict
+# > Soul@kyle
+^https:\/\/data-collector\.soulapp\.cn\/api\/data\/report$ - reject
+# ======= T ======= #
+# > 铁路12306开屏广告(倒计时仍然存在）@ddgksf2013
+https://ad.12306.cn/* - reject
+# > 腾讯手机管家
+^https://otheve.beacon.qq.com\/analytics\/upload\?sid=.* - reject
+# > 途牛 - m.tuniu.com
+^https?:\/\/m\.tuniu\.com\/api\/operation\/splash\/ - reject
+# > 淘票票@fangpide
+^https://acs.m.taobao.com\/gw\/mtop.film.mtopadvertiseapi.queryadvertise\/5.0.* - reject
+# > 天天基金(需卸载重装)@ddgksf2013
+^https?:\/\/appactive\.1234567\.com\.cn\/AppoperationApi\/OperationService\/GetAppStartImg - reject-dict
+# > top widget@ddgksf2013
+https://top-widgets-api.xiaozujian.com/api/ad/config - reject
+# ======= W ======= #
+# > 网易云音乐
+^https?:\/\/interface(\d)?.music.163.com\/eapi\/ad\/ - reject
+# > 网易邮箱开屏广告
+^https?:\/\/appconf\.mail\.163\.com\/mmad\/get\.do - reject
+^https?:\/\/client\.mail\.163.com\/apptrack\/confinfo\/(searchMultiAds.do|showAds.do) - reject
+# > 网易严选（清除缓存使用）@ddgksf2013
+https://support.you.163.com/appversync/check.do - reject
+^https?+:\/\/support\.you\.163\.com\/xhr\/boot\/getBootMedia\.json - reject
+^https?:\/\/yanxuan.nosdn.127.net\/(static-union\/)?.*\.gif - reject
+https:\/\/yanxuan.nosdn.127.net\/.*\.mp4 - reject-dict
+# > 威锋
+^https:\/\/api\.wfdata\.club\/v2\/yesfeng\/(infoCenterAd|yesList) - reject
+# ======= X ======= #
+# > 小睡眠
+^https?:\/\/api.psy-1.com\/cosleep\/startup - reject
+# > 携程广告
+^https:\/\/ma-adx\.ctrip\.com\/_ma\.gif - reject
+^https:\/\/m\.ctrip\.com\/restapi\/.+json\/tripAds - reject
+^https:\/\/m\.ctrip\.com\/html5\/webresource\/js\/iscroll\.js$ - reject
+^https:\/\/mbd\.baidu\.com\/newspage\/api\/getmobads\?page\=landingshare - reject
+# > 西窗烛开屏广告@ddgksf2013
+^https?:\/\/lchttpapi\.xczim\.com\/1\.1\/functions\/getLaunchImageForIOS - reject-dict
+# > 小红书开屏广告@chouchoui
+^https:\/\/www\.xiaohongshu\.com\/api\/sns\/v1\/ads\/apple\/record* - reject
+^https:\/\/www\.xiaohongshu\.com\/api\/sns\/v1\/tag\/ads_engage* - reject
+^https:\/\/www\.xiaohongshu\.com\/api\/sns\/v1\/ads\/resource* - reject
+^https:\/\/pages\.xiaohongshu\.com\/data\/native\/matrix_switches* - reject
+# > 小米运动@kyle
+^https:\/\/api-mifit-cn2\.huami\.com\/discovery\/mi\/cards\/startpage_ad - reject
+# > 小米
+^https?:\/\/api.jr.mi.com\/v1\/adv\/ - reject
+^https?:\/\/api.m.mi.com\/.+\/app\/start - reject
+# > 小米运动（需卸载重装）@ddgksf2013
+https://api-mifit-sg2.huami.com/discovery/mi/cards\? - reject
+https://api-mifit-sg2.huami.com/discovery/mi/cards/homepage_ad\? - reject
+^https?:\/\/api-mifit-sg2.huami.com\/discovery\/mi\/discovery\/(homepage_ad|sleep_ad|sport_ad|sport_summary_ad|sport_training_ad|step_detail_ad|training_video_ad)\? - reject
+# > 闲鱼
+^https:\/\/gw.alicdn.com\/mt\/ - reject
+^https:\/\/gw.alicdn.com\/tfs\/.+\d{3,4}-\d{4} - reject
+^https:\/\/gw.alicdn.com\/tps\/.+\d{3,4}-\d{4} - reject
+# > 小蚁@ddgksf2013
+^https://api.xiaoyi.com\/v5\/app\/mobile\/ads - reject
+^https://api.xiaoyi.com\/v5\/app\/config\?userid=.* - reject
+# ======= Y ======= #
+# > 医考帮去开屏广告@ddgksf2013
+^https?:\/\/api\.yikaobang\.com\.cn\/client\/main\/homePageSmallAd - reject
+^https?:\/\/api\.yikaobang\.com\.cn\/index\.php\/Client\/main\/startPage - reject
+# > 友邻优课@ddgksf2013
+https://new-app-api.ylyk.com/v1/user/myinfo/adviser - reject
+# > 映客直播去开屏@kyle
+^https?:\/\/service\.busi\.inke\.cn\/api\/flash\/screen - reject
+# > Youtube@DivineEngine
+(^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+?)&ctier=L(&.+?),ctier,(.+) - 302 $1$2$3
+^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?)).+&oad - reject
+^https?:\/\/youtubei\.googleapis\.com\/youtubei\/v\d\/player\/ad_break - reject
+^https?:\/\/(www|s)\.youtube\.com\/api\/stats\/ads - reject
+^https?:\/\/(www|s)\.youtube\.com\/(pagead|ptracking) - reject
+^https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adcontext - reject
+# ======= Z ======= #
+# > 最右
+^https?:\/\/api\.izuiyou\.com\/ad\/ - reject
+# > 知乎网页版强制登陆弹窗@HotKids
+^https?:\/\/static\.zhihu\.com\/[^\/]+\/(main|column)\.signflow\.[^.]+.js - reject
+
+[Script]
+# > 嘀嗒出行
+嘀嗒出行=type=http-response,pattern=^https?:\/\/capis(-?\w*)?\.didapinche\.com\/ad\/cx\/startup\?,requires-body=1,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.js
+# > 动画疯(黑屏30秒)@NobyDa
+动画疯=type=http-response,pattern=^https:\/\/api\.gamer\.com\.tw\/mobile_app\/anime\/v\d/(token|m3u8).php\?,requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Bahamut/BahamutAnimeAds.js
+# > 飞客茶馆（请清除缓存使用）@ddgksf2013
+飞客茶馆=type=http-response,pattern=^https?:\/\/47\.100\.65\.202\/source\/plugin\/mobile\/mobile\.php\?module=threadpost&.+?&page=1,requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/fly.js
+# > 酷安去好物推荐@Eric 
+酷安去好物推荐=type=http-response,pattern=^https?:\/\/api\.coolapk\.com\/v6\/feed\/detail,requires-body=1,script-path=https://github.com/Alex0510/Eric/raw/master/surge/Script/KA.js
+# > 微信110@zZPiglet
+微信110=type=http-response,pattern=^https\:\/\/(weixin110\.qq|security.wechat)\.com\/cgi-bin\/mmspamsupport-bin\/newredirectconfirmcgi\?,requires-body=1,script-path=https://raw.githubusercontent.com/zZPiglet/Task/master/asset/UnblockURLinWeChat.js
+# > 小红书开屏广告@chouchoui
+小红书开屏广告=type=http-response,pattern=^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v2\/system_service\/splash_config,requires-body=1,script-path=https://raw.githubusercontent.com/chouchoui/QuanX/master/Scripts/xiaohongshu/xiaohongshu.ad.js
+# > 酷安完美去广告@kk pp
+酷安完美去广告=type=http-response,pattern=^https?:\/\/api\.coolapk\.com\/v6\/(feed\/(replyList|detail)|main\/indexV8|dataList),requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Script/coolapk.js

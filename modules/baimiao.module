@@ -1,0 +1,13 @@
+#!name=白描
+#!desc=白描黄金会员
+#!homepage=https://github.com/deezertidal
+#!author= iEwha
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/baimiao.png
+
+
+
+[MITM]
+hostname = %APPEND% baimiao.uzero.cn
+
+[Script]
+白描=type=http-response,pattern=^https?:\/\/baimiao\.uzero\.cn\/api\/v\d\.user\/appLaunchWithUser$,requires-body=1,script-path=https://raw.githubusercontent.com/iEwha/Profiles/master/Script/baimiao.js

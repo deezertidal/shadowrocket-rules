@@ -1,0 +1,10 @@
+#!name=香蕉视频
+#!desc=解锁观看限制
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/xjsp.png
+#!homepage=https://github.com/deezertidal
+#!author=NobyDa
+[Script]
+香蕉视频=type=http-response,pattern=https?:\/\/.+?\.(pipi|fuli|xiang(jiao|xiang))apps\.com\/(ucp\/index|getGlobalData|(\/|)vod\/reqplay\/),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/xjsp.js
+
+[MITM]
+hostname = %APPEND% ios.fuliapps.com, apple.fuliapps.com, ios.xiangjiaoapps.com, apple.xiangjiaoapps.com, *.xiangxiangapps.com, *.pipiapps.com

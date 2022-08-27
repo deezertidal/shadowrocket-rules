@@ -1,0 +1,9 @@
+#!name=Photomath
+#!desc=Photomath会员解锁
+#!homepage=https://github.com/deezertidal
+#!author=ddgksf2013
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/photomath.png
+[Script]
+Photomath=type=http-response,pattern=https://lapi.photomath.net/v4/me,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/poh.js
+[MITM]
+hostname = %APPEND% lapi.photomath.net

@@ -1,0 +1,11 @@
+#!name=Pocket Lists
+#!desc=Pocket Lists解锁会员
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/pocketlist.png
+#!homepage=https://github.com/deezertidal
+#!author=superuv
+
+[Script]
+Pocket Lists=type=http-response,pattern=^https:\/\/pocketlists\.com\/api\/v1\/pocketlists.me.get,requires-body=1 ,script-path=https://raw.githubusercontent.com/deezertidal/private/main/pocketlists.js
+
+[MITM]
+hostname = %APPEND% pocketlists.com

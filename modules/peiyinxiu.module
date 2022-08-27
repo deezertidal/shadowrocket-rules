@@ -1,0 +1,13 @@
+#!name=配音秀
+#!desc=配音秀解锁会员
+#!homepage=https://github.com/deezertidal
+#!author= lutqhysky
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/peiyinxiu.png
+
+
+
+[MITM]
+hostname = %APPEND% iosapi.peiyinxiu.com
+
+[Script]
+配音秀=type=http-response,pattern=^https?:\/\/iosapi.peiyinxiu.com,requires-body=1,script-path=https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/peiyinxiu/Script/peiyinxiu.js

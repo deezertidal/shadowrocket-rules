@@ -1,0 +1,11 @@
+#!name=AudioMack
+#!desc=AudioMack解锁永久订阅
+#!homepage=https://github.com/deezertidal
+#!author=yqc007
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/audiomack.png
+
+[MITM]
+hostname = %APPEND% api.revenuecat.com
+
+[Script]
+AudioMack=type=http-response,pattern=^https?:\/\/api\.revenuecat\.com\/v1\/subscribers\/(identify|\d+)$,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/AudioMackFProCrack.js,requires-body=1

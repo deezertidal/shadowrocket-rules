@@ -1,0 +1,11 @@
+#!name=七猫小说
+#!desc=七猫小说解锁
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/qmxs.png
+#!homepage=https://github.com/deezertidal
+#!author=I-am-R-E
+
+[MITM]
+hostname = %APPEND% *.wtzw.com
+
+[Script]
+七猫小说=type=http-response,pattern=^https?:\/\/(api-\w+|xiaoshuo)\.wtzw\.com\/api\/v\d\/,requires-body=1,script-path=https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/QiMaoXiaoShuo.js

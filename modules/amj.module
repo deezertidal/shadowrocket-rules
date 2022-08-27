@@ -1,0 +1,16 @@
+#!name=爱美剧解锁
+#!desc=爱美剧解锁部分功能+去广告
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/amj.png
+#!homepage=https://github.com/deezertidal
+#!author=NobyDa
+
+[MITM]
+hostname = %APPEND% api.bjxkhc.com
+
+[Script]
+爱美剧=type=http-response,pattern=^https?:\/\/api.bjxkhc.com\/index\.php\/app\/ios\/(vod\/show|(user|vod|topic|type)\/index),requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/aimeiju.js
+
+[URL Rewrite]
+^https?://api.bjxkhc.com/index.php/app/ios/ads/index - reject-dict
+^https?://api.bjxkhc.com/index.php/app/ios/ver/index_ios$ - reject
+^https?://api.bjxkhc.com/index.php/app/ios/pay/ok$ - reject-dict

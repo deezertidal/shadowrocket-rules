@@ -1,0 +1,9 @@
+#!name=Molycam
+#!desc=Molycam会员解锁
+#!homepage=https://github.com/deezertidal
+#!author=ddgksf2013
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/molycam.png
+[Script]
+Molycam=type=http-response,pattern=https:\/\/pay\.wecut\.com\/apple\/(iosVerifyReceipt|iosAppVerifyReceipt)\.php,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/mv.js
+[MITM]
+hostname = %APPEND% pay.wecut.com

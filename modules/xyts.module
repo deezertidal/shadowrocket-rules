@@ -1,0 +1,11 @@
+#!name=新语听书
+#!desc=新语听书解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=yqc007
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/xyts.png
+
+[MITM]
+hostname = %APPEND% i.xinyulib.com.cn
+
+[Script]
+新语听书=type=http-response,pattern=^https?:\/\/i\.xinyulib\.com\.cn\/api\/querytoken.+,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/XinYuLibraryProCrack.js,requires-body=1,tag=新语听书解锁会员

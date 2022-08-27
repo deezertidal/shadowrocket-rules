@@ -1,0 +1,12 @@
+#!name=网易蜗牛读书
+#!desc=网易蜗牛读书解锁会员
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/wnds.png
+#!homepage=https://github.com/deezertidal
+#!author=yxiaocai & JO2EY
+
+
+[MITM]
+hostname = %APPEND% p.du.163.com
+[Script]
+
+网易蜗牛读书=type=http-response,pattern=^https?:\/\/p\.du\.163\.com\/gain\/readtime\/info\.json,requires-body=1 ,script-path=https://raw.githubusercontent.com/deezertidal/private/main/wnds.js

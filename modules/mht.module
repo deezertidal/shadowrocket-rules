@@ -1,0 +1,11 @@
+#!name=漫画台lite
+#!desc=漫画台lite微信小程序解锁
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/mht.png
+#!homepage=https://github.com/deezertidal
+#!author=ddgksf2013
+
+[MITM]
+hostname = %APPEND% comic.321mh.com
+
+[Script]
+漫画台小程序=type=http-response,pattern=^https?:\/\/comic\.321mh\.com\/app_api\/v\d\/getcomicinfo_body,requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/manhuatailite.js

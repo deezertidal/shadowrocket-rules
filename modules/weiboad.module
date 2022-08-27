@@ -1,0 +1,17 @@
+#!name=微博去广告
+#!desc=微博去广告
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/weiboad.png
+#!homepage=https://github.com/deezertidal
+#!author=ddgksf2013
+
+[MITM]
+hostname = %APPEND% api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, new.vip.weibo.cn
+[Script]
+# 微博去广告以及去除各部分推广模块 - cherish
+微博去广告=type=http-response,pattern=^https?://m?api\.weibo\.c(n|om)/2/(cardlist|searchall|page|messageflow|statuses/(unread_)?friends(/|_)timeline|groups/timeline|statuses/(unread_hot_timeline|extend|video_mixtimeline)|profile/(me|statuses)|video/(community_tab|remind_info|tiny_stream_video_list)|checkin/show|\!/live/media_homelist|comments/build_comments|container/get_item|search/(finder|container_timeline|container_discover)),requires-body=1,script-path=https://raw.githubusercontent.com/zmqcherish/proxy-script/main/weibo_main.js
+# 删除微博开屏广告 - cherish
+微博去广告=type=http-response,pattern=^https?://(sdk|wb)app\.uve\.weibo\.com(/interface/sdk/sdkad.php|/wbapplua/wbpullad.lua),requires-body=1,script-path=https://raw.githubusercontent.com/zmqcherish/proxy-script/main/weibo_launch.js
+# 自定义tab皮肤
+微博去广告=type=http-response,pattern=^https://api.weibo.cn/2/!/client/light_skin,requires-body=1,script-path=https://raw.githubusercontent.com/zmqcherish/proxy-script/main/weibo_main.js
+# 非会员设置tab皮肤 - cherish
+微博去广告=type=http-response,pattern=^https://new.vip.weibo.cn/littleskin/preview,requires-body=1,script-path=https://raw.githubusercontent.com/zmqcherish/proxy-script/main/weibo_main.js

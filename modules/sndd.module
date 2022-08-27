@@ -1,0 +1,11 @@
+#!name=少年得到
+#!desc=少年得到解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=lutqhysky
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/sndd.png
+
+[MITM]
+hostname = %APPEND% igetcool-gateway.igetcool.com
+
+[Script]
+少年得到=type=http-response,pattern=^https?:\/\/igetcool-gateway\.igetcool\.com\/(app-api-user-server\/oath\/user\/info\.json|app-api-product-server\/option\/course\/audios\.json|app-api-product-server\/white\/course\/videos\.json),requires-body=1,script-path=https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/shaomiandedao/Script/shaoniandedao.js

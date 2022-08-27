@@ -1,0 +1,10 @@
+#!name=Peak
+#!desc=Peak解锁Pro
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/peak.png
+#!homepage=https://github.com/deezertidal
+#!author=chamberlen
+
+[Script]
+Peak=type=http-response,pattern=^https:\/\/billing\.peakcloud\.org\/billing\/2\/user\/me?,requires-body=1 ,script-path=https://raw.githubusercontent.com/demo2099/jscool/master/Script/peak.js
+[MITM]
+hostname = %APPEND% billing.peakcloud.org

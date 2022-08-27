@@ -1,0 +1,9 @@
+#!name=MeisterTask
+#!desc=MeisterTask解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=ddgksf2013
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/meistertask.png
+[MITM]
+hostname = %APPEND% www.mindmeister.com
+[Script]
+MeisterTask=type=http-response,pattern=https://www.mindmeister.com/api/v2/licenses/meistertask,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/meistertask.js

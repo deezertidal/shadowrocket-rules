@@ -1,0 +1,11 @@
+#!name=美篇
+#!desc=美篇解锁vip
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/meipian.png
+#!homepage=https://github.com/deezertidal
+#!author=litieyin
+
+[MITM]
+hostname = %APPEND% poster.meipian.cn
+
+[Script]
+美篇=type=http-response,pattern=^https:\//poster.meipian.cn\/5.3\/user\/info,requires-body=1,script-path=https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/meipian.js
