@@ -20,6 +20,10 @@
 <br>
 <br>
 
+
+<details>
+  <summary>:key:点击展开配置使用教程</summary>
+  
 ### :point_down:打开小火箭 点击配置 点击右上角+号  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1a.png)  
 
@@ -54,7 +58,21 @@
 ### :point_down:返回小火箭 勾选确认  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/17.png)  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/18.png)  
+</details>
 
+****
+ <details>
+  <summary>:key:点击展开模块使用教程</summary>
+
+
+### :point_down:打开小火箭——点击配置——进入模块  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1sg.png)  
+### :point_down:点击右上角“+”号——将模块链接地址复制粘贴至输入框——下载  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/2sg.png)  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/3sg.png)  
+<br>
+<br>
+</details>
 
 ****
 ## 以上配置文件及模块脚本仅搬运分享  
