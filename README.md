@@ -1,4 +1,4 @@
-# :rocket:小火箭配置文件    
+# :rocket:小火箭配置文件及模块    
 ### 首先请添加机场订阅链接至小火箭，请自行注册购买  
 ### [公益机场分享](https://github.com/deezertidal/freevpn/blob/main/README.md)  
 ****
@@ -12,7 +12,14 @@
 * #### 更新：PhotoshopExpress&ensp;  人人视频去广告&ensp;  七猫小说解锁&ensp;  漫画台微信小程序解锁&ensp;  Notability&ensp;  爱美剧解锁部分功能&ensp;  oldroll相机解锁&ensp;  少年得到解锁&ensp;  大蓝鲸解锁&ensp;  螺畤大语文解锁&ensp;  语文趣配音解锁&ensp;  配音秀&ensp;  纸条解锁&ensp;  石墨文档解锁&ensp;  美篇VIP&ensp;  LightRoom解锁&ensp;  白描解锁&ensp;  
 * 解锁app一般需要登录账号点击恢复购买。大部分移植自Quantumult X和loon，请自行测试有效性。
 * 如遇分流问题，请选择[轻量策略配置](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_lite.conf)
-  
+<br>
+
+* ## :bell::bell::bell:小火箭模块重新优化上线 [点击进入模块文件夹](https://github.com/deezertidal/shadowrocket-rules/tree/main/modules) ,建议搭配[基础配置文件](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_basic.conf)使用，避免冗余  
+
+****
+<br>
+<br>
+
 ### :point_down:打开小火箭 点击配置 点击右上角+号  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1a.png)  
 
