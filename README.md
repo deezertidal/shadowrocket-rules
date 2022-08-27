@@ -15,6 +15,10 @@
 <br>
 
 * ## :bell::bell::bell:小火箭模块重新优化上线 [点击进入模块文件夹](https://github.com/deezertidal/shadowrocket-rules/tree/main/modules) ,建议搭配[基础配置文件](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_basic.conf)使用，避免冗余  
+近期会在该页面做一份模块导航 类似以下模板。纯公益，打赏请扫随缘码  
+|:octocat:模块|:link:链接|:pushpin:说明|
+|--|--|--|
+|:white_check_mark:Sub-Store|[:link:链接地址](https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Loon.plugin)|修改/整合订阅节点
 
 ****
 <br>
