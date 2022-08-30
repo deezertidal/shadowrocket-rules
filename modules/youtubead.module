@@ -9,8 +9,8 @@ URL-REGEX,^https?:\/\/youtubei\.googleapis\.com\/youtubei\/v\d\/player\/ad_break
 URL-REGEX,^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?)).+&oad,REJECT-IMG
 USER-AGENT,"(^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+?)&ctier=L(&.+?),ctier,(.+)",REJECT-IMG
 
-[Rewrite]
-(^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+?)&ctier=L(&.+?),ctier,(.+) $1$2$3 302
+[URL Rewrite]
+(^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+?)&ctier=L(&.+?),ctier,(.+) $1$2$3 _ 302
 
 
 [MITM]
