@@ -6,9 +6,7 @@ spotify歌词翻译 = type=http-response,pattern=^https:\/\/spclient\.wg\.spotif
 /*
 
 -----------申请百度翻译(有标准版和高级版 建议申请高级版)api--------------
-标准版(很可能不够用):单次最长请求1000字符,免费调用量5万字符/月,QPS=1
-高级版:单次最长请求6000字符,免费调用量100万字符/月,QPS=10
-
+2022年8月1日起，通用翻译API标准版免费调用量调整为5万字符/月，高级版免费调用量调整为100万字符/月
     注册百度翻译个人开发者: http://api.fanyi.baidu.com/register
     注册后如果需要认证可自行选择是否实人认证(高级版需要验证)
     开通(通用翻译)API服务: https://fanyi-api.baidu.com/choose
