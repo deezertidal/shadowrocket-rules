@@ -155,6 +155,7 @@
 |:white_check_mark:纸条|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/zhitiao.module)|作文素材
 |:white_check_mark:指尖时光|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/zjsg.module)|日程管理
 |:white_check_mark:知音漫客|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/zymk.module)|知音漫客解锁
+|:white_check_mark:Spotify歌词翻译|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/spotify_lyric.module)|需申请百度翻译API 教程在模块内
 
 ****
 
