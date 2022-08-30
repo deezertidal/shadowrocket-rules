@@ -239,5 +239,3 @@
 
 ****
 ## 以上配置文件及模块脚本仅搬运分享  
-****
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/Reward.jpg)
