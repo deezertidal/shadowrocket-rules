@@ -1,0 +1,31 @@
+#!name=彩云天气
+#!desc=自动定位 异常天气预警 实时天气预报
+#!homepage=https://github.com/deezertidal
+#!author=Peng-YM
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/caiyun.png
+/*
+TODO:
+- 降雨提醒
+- 每日睡前预报
+
+配置：
+1️⃣ 配置自动定位
+根据平台添加如下配置
+
+Surge
+[MITM]
+hostname=weather-data.apple.com, api.weather.com
+[Script]
+type=http-request, pattern=https:\/\/((weather-data\.apple)|(api.weather))\.com, script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js, require-body=false
+2️⃣ 打开手机设置 > 隐私 > 定位服务
+(1) 打开定位服务
+(2) 选择天气，设置永远允许天气访问位置信息，并允许使用精确位置。
+此时，打开系统天气应用，会提示获取位置成功，如果没有提示，请确认1️⃣是否配置正确。
+3️⃣ 配置cron任务如：cron "10 8-22/2 * * *" script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js
+4️⃣ 打开box.js设置彩云令牌(不是链接！！！）即可。
+*/
+[Script]
+彩云天气通知=type=http-request, pattern=https:\/\/((weather-data\.apple)|(api.weather))\.com, script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js, require-body=false
+ 
+[MITM]
+hostname= %APPEND% weather-data.apple.com, api.weather.com
