@@ -1,0 +1,10 @@
+#!name=NFC门禁卡公交卡
+#!desc=NFC门禁卡公交卡读写神器
+#!author=lutqhysky
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/nfc.png
+
+
+[MITM]
+hostname= %APPEND% app.mobileto.vip
+[Script]
+NFC门禁卡公交卡=type=http-response,pattern=https://app.mobileto.vip/nfc/app/v2/is-vip,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/main/nfc.js
