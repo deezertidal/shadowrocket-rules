@@ -1,0 +1,7 @@
+#!name=Calm解锁限制
+#!desc=Calm解锁限制
+[Script]
+caml解锁 = type=http-response,pattern=https://api.calm.com/(me|device|ios/receipt),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Alex0510/Eric/Alex0510/surge/surge/Script/caml.js,script-update-interval=0
+
+[MITM]
+hostname= %APPEND% api.calm.com
