@@ -11,6 +11,7 @@
 * #### 更新：第一弹去广告+原画&ensp;  海豚记账本解锁会员&ensp;  马卡龙玩图解锁会员&ensp;  Peak解锁Pro&ensp;  Pillow解锁会员&ensp;  Pocket Lists解锁会员&ensp;  网易蜗牛读书解锁会员&ensp;  有道云笔记VIP&ensp;
 * #### 更新：知音漫客&ensp;  Vista看天下&ensp;  
 * #### 更新：PhotoshopExpress&ensp;  人人视频去广告&ensp;  七猫小说解锁&ensp;  漫画台微信小程序解锁&ensp;  Notability&ensp;  爱美剧解锁部分功能&ensp;  oldroll相机解锁&ensp;  少年得到解锁&ensp;  大蓝鲸解锁&ensp;  螺畤大语文解锁&ensp;  语文趣配音解锁&ensp;  配音秀&ensp;  纸条解锁&ensp;  石墨文档解锁&ensp;  美篇VIP&ensp;  LightRoom解锁&ensp;  白描解锁&ensp;  
+配置文件降低更新频率，找时间批量更新，现主要以模块为主  
 * 解锁app一般需要登录账号点击恢复购买。大部分移植自Quantumult X和loon，请自行测试有效性。
 * 如遇分流问题，请选择[轻量策略配置](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_lite.conf)
 </details>
@@ -161,6 +162,9 @@
 |:white_check_mark:指尖时光|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/zjsg.module)|日程管理
 |:white_check_mark:知音漫客|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/zymk.module)|知音漫客解锁
 |:white_check_mark:Spotify歌词翻译|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/spotify_lyric.module)|需申请百度翻译API 教程在模块内
+|:white_check_mark:NFC门禁卡公交卡|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/nfc.module)|NFC功能类
+|:white_check_mark:搜图神器|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/stsq.module)|解锁VIP功能
+
 
 ****
 
