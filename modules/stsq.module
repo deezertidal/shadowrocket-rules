@@ -1,0 +1,10 @@
+#!name=搜图神器
+#!desc=搜图神器解锁会员
+#!author=lutqhysky
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/stsq.png
+
+
+[MITM]
+hostname= %APPEND% wallpaper.soutushenqi.com
+[Script]
+搜图神器=type=http-response,pattern=http:\/\/wallpaper\.soutushenqi\.com\/api\/v1\/account\/token,requires-body=1,script-path=https://raw.githubusercontent.com/Alex0510/Eric/master/surge/Script/SearchArtifact.js
