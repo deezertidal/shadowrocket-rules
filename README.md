@@ -3,7 +3,8 @@
 ### [公益机场分享](https://github.com/deezertidal/freevpn/blob/main/README.md)  
 ****
  
-  
+<details>
+  <summary>:key:关于配置文件</summary>    
 
 ### 该[配置文件](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_lite.conf)包含:
  * #### 分流规则&ensp; 策略组&ensp; 京东签到脚本&ensp;  去广告&ensp; 百度云加速&ensp;  扫描全能王&ensp;  酷我会员&ensp;  京东历史价格&ensp;  WPS会员解锁&ensp;  财新会员解锁&ensp;  spotify会员解锁&ensp;  SoundCloudGo+&ensp;  切换百度搜索&ensp;  波点音乐去广告&ensp;  奈飞评分显示&ensp;  流利说解锁&ensp;  JibJab解锁&ensp;  MixCamera解锁&ensp;  Picsart解锁&ensp;  Polarr解锁&ensp;  皮皮虾去广告&ensp;  VSCO解锁&ensp;  小影解锁&ensp;  香蕉视频解锁&ensp;  ColorWidgets小组件解锁&ensp;  Alarmy闹钟解锁&ensp;  Aloha浏览器解锁&ensp;  BedtimeFan助眠风扇解锁&ensp;  Bazaart解锁&ensp;  DailyYoga解锁&ensp;  Darkroom解锁&ensp;  Fabulous解锁&ensp;  Invideo解锁&ensp;  忆飞Gif解锁&ensp;  句读解锁&ensp;  Kika会员解锁&ensp;  Mojo会员解锁&ensp;  Musixmatch解锁&ensp;  MyFitnessPal解锁&ensp;  Now冥想解锁&ensp;  奶由壁纸解锁&ensp;  Piccollage解锁&ensp;  Pixelcut解锁&ensp;  时光手账解锁&ensp;  ShadowLink解锁会员节点&ensp;  Smallpdf解锁&ensp;  Tangerine解锁&ensp;  TenPercent解锁&ensp;  迅雷会员解锁&ensp;  WorkoutForWomen解锁&ensp;  Widgetsmith解锁&ensp;  万能变声器解锁&ensp;  指尖时光解锁会员&ensp;  傲软抠图会员&ensp;  AppravenPro&ensp;  布丁锁屏&ensp;  Bilibili1080P&ensp;  BOOM会员解锁&ensp;  克拉壁纸&ensp;  彩云天气SVIP&ensp;  EllabookVIP&ensp;  FimoPro&ensp;  FT中文网&ensp;  iLovePDF解锁&ensp;  美图秀秀VIP&ensp;  起伏会员解锁&ensp;  SymbolabPro&ensp;  PixivShow&ensp;  B612咔叽&ensp;  儿歌点点会员&ensp;  hyperweb会员解锁&ensp;  Molycam会员&ensp;  Photomath会员&ensp;  西窗烛解锁&ensp;  Accuweather解锁&ensp;  Meistertask解锁&ensp;  一言解锁&ensp;  Fantastical解锁&ensp;  云听解锁&ensp;  豌豆清单解锁&ensp;  EMMO解锁&ensp;  小习惯解锁&ensp;  读书笔记解锁&ensp;  斑马海报解锁&ensp;  MyPlate解锁&ensp;  iMuseum解锁&ensp;  Audiomack解锁&ensp;  Grammarly解锁&ensp;  TOKCAM解锁&ensp;  图图记账解锁&ensp;  WallCraft解锁&ensp;  新语听书解锁&ensp;  一甜相机解锁&ensp;  Grow解锁&ensp;  Xmind思维导图解锁;  
@@ -12,9 +13,13 @@
 * #### 更新：PhotoshopExpress&ensp;  人人视频去广告&ensp;  七猫小说解锁&ensp;  漫画台微信小程序解锁&ensp;  Notability&ensp;  爱美剧解锁部分功能&ensp;  oldroll相机解锁&ensp;  少年得到解锁&ensp;  大蓝鲸解锁&ensp;  螺畤大语文解锁&ensp;  语文趣配音解锁&ensp;  配音秀&ensp;  纸条解锁&ensp;  石墨文档解锁&ensp;  美篇VIP&ensp;  LightRoom解锁&ensp;  白描解锁&ensp;  
 * 解锁app一般需要登录账号点击恢复购买。大部分移植自Quantumult X和loon，请自行测试有效性。
 * 如遇分流问题，请选择[轻量策略配置](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_lite.conf)
+</details>
+
 <br>
 
-* ## :bell::bell::bell:小火箭模块重新优化上线 [点击进入模块文件夹](https://github.com/deezertidal/shadowrocket-rules/tree/main/modules) ,建议搭配[基础配置文件](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_basic.conf)使用，避免冗余  
+****
+
+* ## :bell::bell::bell:小火箭模块建议搭配[基础配置文件](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_basic.conf)使用，避免冗余  
 
 |:octocat:模块|:link:链接|:pushpin:说明|
 |--|--|--|
