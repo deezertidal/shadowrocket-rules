@@ -175,8 +175,8 @@
 |--|--|--|
 |:white_check_mark:脚本操作：重命名|[:link:链接地址](https://raw.githubusercontent.com/futurkk/Potato/main/Rename/rename.js#input=zh&output=zh&airport=你需要的机场名)|SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改自己的机场名）
 |:white_check_mark:脚本过滤：筛选80 443端口|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/port-filter.js)|SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接
-|:white_check_mark:脚本过滤：筛选80,443，vmess,ws节点|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/nodes-filter.js)|SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接
-|:white_check_mark:脚本操作：修改host|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/vmess-host.js)|SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改参数）
+|:white_check_mark:脚本过滤：筛选80,443，vmess,ws节点(免流节点)|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/nodes-filter.js)|SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接
+|:white_check_mark:脚本操作：修改host混淆|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/vmess-host.js)|SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改参数）
 
 
     
