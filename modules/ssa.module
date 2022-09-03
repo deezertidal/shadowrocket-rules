@@ -1,0 +1,11 @@
+#!name=SSA丝社
+#!desc=SSA丝社解锁会员
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ssa.png
+#!homepage=https://github.com/deezertidal
+#!author=lutqhysky
+
+[Script]
+SSA丝社=type=http-response,pattern= ^https?:\/\/www\.ssalegs\.store\/cms\/Appapi\/username\/username\/\d+,requires-body=1,max-size=0,script-path= https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/SSA/Script/SSA.js,script-update-interval=0
+
+[MITM]
+hostname = %APPEND% www.ssalegs.store
