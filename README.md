@@ -21,7 +21,7 @@
 ****
 
 * ## :bell::bell::bell:小火箭模块建议搭配[基础配置文件](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_basic.conf)使用，避免冗余  
-
+* ## surge用户也可直接使用小火箭模块
 |:octocat:模块|:link:链接|:pushpin:说明|
 |--|--|--|
 |:white_check_mark:accuweather解锁|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/accu.module)|天气app
