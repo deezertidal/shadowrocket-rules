@@ -165,7 +165,7 @@
 |:white_check_mark:NFC门禁卡公交卡|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/nfc.module)|NFC功能类
 |:white_check_mark:搜图神器|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/stsq.module)|解锁VIP功能
 |:white_check_mark:彩云天气通知任务|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/caiyun_cron.module)|天气通知，需搭配BOXJS使用
-
+|:white_check_mark:Calm解锁|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/calm.module)|健康类
 
 
 ****
