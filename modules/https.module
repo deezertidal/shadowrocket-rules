@@ -1,0 +1,11 @@
+#!name=Https抓包
+#!desc=https抓包解锁订阅
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/https.png
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+
+[Script]
+Https抓包=type=http-response,pattern=^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/https.js
+
+[MITM]
+hostname = %APPEND% buy.itunes.apple.com
