@@ -1,0 +1,11 @@
+#!name=小小优趣
+#!desc=小小优趣解锁会员
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/xxyq.png
+#!homepage=https://github.com/deezertidal
+#!author=lutqhysky
+
+[MITM]
+hostname= %APPEND% prod.ukids.cn
+
+[Script]
+小小优趣=type=http-response,pattern=^https?:\/\/prod\.ukids\.cn\/uch5\/getUser,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/xiaoxiaoyouqu/Script/xxyq.js
