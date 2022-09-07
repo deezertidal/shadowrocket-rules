@@ -169,6 +169,7 @@
 |:white_check_mark:HTTPS抓包|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/https.module)|抓包工具
 |:white_check_mark:SSA丝社|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ssa.module)|不知道
 |:white_check_mark:小小优趣|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/xxyq.module)|儿童类
+|:white_check_mark:幻影相册|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/hyxc.module)|照片编辑
 
 ****
 
