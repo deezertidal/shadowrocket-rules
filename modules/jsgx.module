@@ -1,0 +1,11 @@
+#!name=精塾国学
+#!desc=精塾国学解锁会员
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/jsgx.png
+#!homepage=https://github.com/deezertidal
+#!author=lutqhysky
+
+[MITM]
+hostname=%APPEND% 47.104.228.152:9100
+
+[Script]
+精塾国学=type=http-response,pattern=^https?:\/\/47\.104\.228\.152:9100\/api\/apiAppUser\/getUser,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/jingshuguoxue/Script/jingshuguoxue.js
