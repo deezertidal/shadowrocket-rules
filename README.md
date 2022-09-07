@@ -191,6 +191,7 @@
 |:white_check_mark:机场推荐|[:link:公益机场](https://github.com/deezertidal/freevpn/blob/main/README.md) / [付费机场](https://github.com/deezertidal/fee-based/blob/main/README.md)|
 |:white_check_mark:Altstore|[:link:链接地址](https://altstore.io/)|自签工具（Win10+ or MacOs10.14.4+）
 |:white_check_mark:Youtube.ipa|[:link:链接地址](https://appdb.to/app/cydia/1900000869)|去广告 后台播放音乐 画中画（需搭配altstore自动刷新签名）
+|:white_check_mark:TrollStore 永久签名|[:link:教程](https://github.com/deezertidal/shadowrocket-rules/blob/main/TrollStore.MD)|未越狱用户需搭配altstore安装
 
 
 ****
