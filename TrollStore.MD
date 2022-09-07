@@ -25,12 +25,12 @@ TrollStore 越狱版：
 
 ▎下载相关：下载与安装 TrollInstaller
 
-1⃣️ TrollStore 项目地址：
+TrollStore 项目地址：
 https://github.com/opa334/TrollStore
 
 在 TrollStore 项目页面，点击 Releases 就可以查看发布的全部版本。
 
-2⃣️ TrollStore 下载地址：
+TrollStore 下载地址：
 https://github.com/opa334/TrollStore/releases
 
 在 TrollStore 的 Releases 下载页面，根据需要，下载安装包。这个安装包，只是一个安装器，用于安装 TrollStore。
