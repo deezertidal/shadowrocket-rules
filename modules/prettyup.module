@@ -1,0 +1,11 @@
+#!name=PrettyUp
+#!desc=PrettyUp视频美化解锁
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/prettyup.png
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+
+[Script]
+PrettyUp=type=http-response,pattern=^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/upp.js
+
+[MITM]
+hostname = %APPEND% buy.itunes.apple.com
