@@ -171,7 +171,7 @@
 |:white_check_mark:小小优趣|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/xxyq.module)|儿童类
 |:white_check_mark:幻影相册|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/hyxc.module)|照片编辑
 |:white_check_mark:精塾国学|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/jsgx.module)|学习类
-
+|:white_check_mark:PrettyUp|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/prettyup.module)|视频美化
 
 
 ****
