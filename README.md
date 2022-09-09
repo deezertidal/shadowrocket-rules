@@ -175,9 +175,9 @@
 
 
 ****
-|:octocat:机场推荐|:link:链接|
-|--|--|
-|:white_check_mark:低端机场|[:link:MagicSchool](https://2220.it/register?aff=GNs68S4XWT)|
+|:octocat:机场推荐|:link:链接| :pushpin:说明
+|--|--|--|
+|:white_check_mark:低端机场|[:link:MagicSchool](https://2220.it/register?aff=GNs68S4XWT)|专属八折优惠码shadycn(活动套餐除外)
 |:white_check_mark:低端机场|[:link:EMO](https://yyds.emovpn.top/#/register?code=7KLxhYOS)|
 |:white_check_mark:中端机场|[:link:白月光](https://www.bygcloud.com/#/register?code=DX4iT5B4)|
 |:white_check_mark:中端机场|[:link:安大毒](https://jc.hgdbk.xyz/#/register?code=heNWfiwN)|
