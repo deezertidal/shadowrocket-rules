@@ -175,7 +175,15 @@
 
 
 ****
-
+|:octocat:机场推荐|:link:链接|
+|--|--|
+|:white_check_mark:低端机场|[:link:MagicSchool](https://2220.it/register?aff=GNs68S4XWT)|
+|:white_check_mark:低端机场|[:link:EMO](https://yyds.emovpn.top/#/register?code=7KLxhYOS)|
+|:white_check_mark:中端机场|[:link:白月光](https://www.bygcloud.com/#/register?code=DX4iT5B4)|
+|:white_check_mark:中端机场|[:link:安大毒](https://jc.hgdbk.xyz/#/register?code=heNWfiwN)|
+|:white_check_mark:高端机场|[:link:奶昔](https://naixii.com/signupbyemail.aspx?MemberCode=4abe2692a864433d9132614c7da1cd0920220701191029)|
+|:white_check_mark:高端机场|[:link:TAG](https://tagss.pro/#/register?code=0zZLweop)|
+****
   
 |:octocat:Sub-Store脚本|:link:链接|:pushpin:操作说明|
 |--|--|--|
@@ -185,13 +193,9 @@
 |:white_check_mark:脚本操作：修改host混淆|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/vmess-host.js)|SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改参数）
 
 
-    
-****
-
-  
+****  
 |:octocat:其他|:link:链接|:pushpin:操作说明|
 |--|--|--|
-|:white_check_mark:机场推荐|[:link:公益机场](https://github.com/deezertidal/freevpn/blob/main/README.md) / [付费机场](https://github.com/deezertidal/fee-based/blob/main/README.md)|
 |:white_check_mark:Altstore|[:link:链接地址](https://altstore.io/)|自签工具（Win10+ or MacOs10.14.4+）
 |:white_check_mark:Youtube.ipa|[:link:链接地址](https://appdb.to/app/cydia/1900000869)|去广告 后台播放音乐 画中画（需搭配altstore自动刷新签名）
 |:white_check_mark:TrollStore 永久签名|[:link:教程](https://github.com/deezertidal/shadowrocket-rules/blob/main/TrollStore.MD)|未越狱用户需搭配altstore安装
