@@ -1,0 +1,9 @@
+#!name=bilibili自动换区
+#!desc=哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分
+
+
+[Mitm]
+hostname = %APPEND% ap?.bili*i.com, ap?.bili*i.net
+
+[Script]
+bili自动地区=type=http-response,pattern=^https:\/\/ap(p|i)\.bili(bili|api)\.(com|net)\/(pgc\/view\/v\d\/app\/season|x\/v\d\/search\/defaultwords)\?access_key ,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bili_Auto_Regions.js, requires-body=true
