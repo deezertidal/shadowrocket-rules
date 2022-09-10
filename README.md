@@ -173,6 +173,7 @@
 |:white_check_mark:精塾国学|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/jsgx.module)|学习类
 |:white_check_mark:PrettyUp|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/prettyup.module)|视频美化
 
+* 如无必要 请勿更新解锁app
 
 ****
 |:octocat:机场推荐|:link:链接| :pushpin:说明
