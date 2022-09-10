@@ -176,6 +176,7 @@
 |:white_check_mark:BILI自动地区|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/bili-region.module)|bili自动地区
 |:white_check_mark:影视双字幕项目|[:link:链接地址](https://github.com/DualSubs/DualSubs)|包含youtube,appleTV,hbo等
 |:white_check_mark:iRingo项目|[:link:链接地址](https://github.com/VirgilClyne/iRingo)|解锁完整的Apple功能和集成服务
+|:white_check_mark:CUBOX|[:link:链接地址](https://raw.kgithub.com/deezertidal/shadowrocket-rules/main/modules/cubox.sgmodule)|文件收集整理
 
 
 
