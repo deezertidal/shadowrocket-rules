@@ -1,0 +1,23 @@
+#!name=微博轻享版去广告
+#!desc=微博轻享版（原国际版）去广告
+
+[URL Rewrite]
+# ～ WeiboLite_微博国际版_sdkad
+^https?:\/\/sdkapp\.uve\.weibo\.com\/interface\/sdk\/sdkad\.php - reject
+# ～ WeiboLite_微博国际版_屏蔽search_suggest
+^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/page\/get_search_suggest - reject-dict
+# ～ WeiboLite_微博国际版_屏蔽searching_info
+^ttps?:\/\/weibointl\.api\.weibo\.c(n|om)\/portal\.php.*user&a=get_searching_info - reject
+# ～ WeiboLite_微博国际版_屏蔽search_topic
+^https?:\/\/weibointl\.api\.weibo\.c(n|om)\/portal\.php.*feed&a=search_topic - reject
+# ～ WeiboLite_微博国际版_屏蔽开屏广告
+^https?:\/\/weibointl\.api\.weibo\.c(n|om)\/portal\.php.*ads - reject
+
+[Script]
+微博国际版_推荐tab|热门tab=type=http-response,pattern=^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/statuses\/unread_hot_timeline ,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/weibo_json.js
+微博国际版_关注tab去广告=type=http-response,pattern=^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/statuses\/friends_timeline ,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/weibo_json.js
+微博国际版_趋势tab=type=http-response,pattern=^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/cardlist ,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/weibo_json.js
+微博国际版_趋势tab去广告=type=http-response,pattern=^https?:\/\/weibointl\.api\.weibo\.c(n|om)\/portal\.php.*feed&a=trends ,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/weibo_json.js
+
+[MITM]
+hostname = %APPEND% *api.weibo*,sdkapp.uve.weibo.com
