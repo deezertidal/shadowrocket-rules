@@ -172,6 +172,12 @@
 |:white_check_mark:幻影相册|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/hyxc.module)|照片编辑
 |:white_check_mark:精塾国学|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/jsgx.module)|学习类
 |:white_check_mark:PrettyUp|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/prettyup.module)|视频美化
+|:white_check_mark:微博lite去广告|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/weibolitead.module)|微博轻享版去广告
+|:white_check_mark:BILI自动地区|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/bili-region.module)|bili自动地区
+|:white_check_mark:影视双字幕项目|[:link:链接地址](https://github.com/DualSubs/DualSubs)|包含youtube,appleTV,hbo等
+|:white_check_mark:iRingo项目|[:link:链接地址](https://github.com/VirgilClyne/iRingo)|解锁完整的Apple功能和集成服务
+
+
 
 * 如无必要 请勿更新解锁app
 
