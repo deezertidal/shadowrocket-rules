@@ -4,11 +4,7 @@
 #!icon=
 
 [Script]
-http-response ^https:\/\/cubox\.pro\/c\/api\/userInfo requires-body=1,max-size=0,script-path= https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/cubox.js,script-update-interval=0
-http-response ^https?:\/\/api4\.bybutter\.com\/v4\/(users\/me$|shop\/me\/privileges$) requires-body=1,max-size=0,script-path= https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/hyxj/Script/hyxj.js,script-update-interval=0
-http-response https://(ssl|p.*)-(api|buy).(itranslateapp|itunes.apple).com/(accounts|WebObjects)/(v4|MZFinance.woa)/(subscriptions|wa)/(verify/ios|inAppRegrantPurchaseHistory) requires-body=1,script-path=https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/itranslate/Script/itranslate.js
-http-response ^https:\/\/api\.qingning6\.com\/api\/user\/getUserInfo requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/qnhb.js
-http-response ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Pandora.js
+
 
 
 http-response ^https:\/\/user\.xiaozaoapp\.com\/app\/ceouser\/loginAuto requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ceo.js
