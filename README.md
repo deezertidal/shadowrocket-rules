@@ -227,7 +227,7 @@
 
 
 <details>
-  <summary>:key:点击展开配置使用教程</summary>
+  <summary>:key:配置使用教程</summary>
   
 ### :point_down:打开小火箭 点击配置 点击右上角+号  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1a.png)  
@@ -266,7 +266,7 @@
 </details>
 
  <details>
-  <summary>:key:点击展开模块使用教程</summary>
+  <summary>:key:模块使用教程</summary>
 
 ### :point_down:打开小火箭——点击配置——进入模块  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1sg.png)  
