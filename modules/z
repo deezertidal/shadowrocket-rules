@@ -5,15 +5,14 @@
 
 [Script]
 
-http-response ^https?://mp\.weixin\.qq\.com/s\?.*  requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Script/wechat_auto_read.js
+http-response ^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/MoneyThings.js
 
 http-response ^https:\/\/user\.xiaozaoapp\.com\/app\/ceouser\/loginAuto requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ceo.js
 http-response ^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Apollo.js
 http-response ^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/bytq.js
 
 [mitm]
-hostname=cubox.pro,api4.bybutter.com,api.itranslateapp.com,buy.itunes.apple.com,api.qingning6.com,user.xiaozaoapp.com,api.revenuecat.com,mp.weixin.qq.com
-
+hostname=cubox.pro,api4.bybutter.com,api.itranslateapp.com,buy.itunes.apple.com,api.qingning6.com,user.xiaozaoapp.com,api.revenuecat.com
 
 
 
