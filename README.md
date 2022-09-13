@@ -16,12 +16,14 @@
 * 如遇分流问题，请选择[轻量策略配置](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_lite.conf)
 </details>
 
-<br>
+<details>
+   <summary>:key:模块及说明</summary>    
+   
+* #### :bell::bell::bell:小火箭模块建议搭配[基础配置文件](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_basic.conf)使用，避免冗余  
+* #### surge用户也可直接使用小火箭模块
 
-****
 
-* ## :bell::bell::bell:小火箭模块建议搭配[基础配置文件](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_basic.conf)使用，避免冗余  
-* ## surge用户也可直接使用小火箭模块
+  
 |:octocat:模块|:link:链接|:pushpin:说明|
 |--|--|--|
 |:white_check_mark:accuweather解锁|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/accu.module)|天气app
@@ -179,11 +181,14 @@
 |:white_check_mark:CUBOX|[:link:链接地址](https://raw.kgithub.com/deezertidal/shadowrocket-rules/main/modules/cubox.sgmodule)|文件收集整理
 |:white_check_mark:pandora|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/pandora.module.sgmodule)|订阅管理
 
-
 * 如无必要 请勿更新解锁app
+</details>
 
-****
-|:octocat:机场推荐|:link:链接| :pushpin:说明
+
+<details>
+  <summary>:key:机场推荐</summary>   
+  
+|:octocat:机场推荐|:link:链接|:pushpin:说明|
 |--|--|--|
 |:white_check_mark:低端机场|[:link:MagicSchool](https://2220.it/register?aff=GNs68S4XWT)|专属八折优惠码shadycn(活动套餐除外)
 |:white_check_mark:低端机场|[:link:EMO](https://yyds.emovpn.top/#/register?code=7KLxhYOS)|
@@ -191,7 +196,12 @@
 |:white_check_mark:中端机场|[:link:安大毒](https://jc.hgdbk.xyz/#/register?code=heNWfiwN)|
 |:white_check_mark:高端机场|[:link:奶昔](https://naixii.com/signupbyemail.aspx?MemberCode=4abe2692a864433d9132614c7da1cd0920220701191029)|
 |:white_check_mark:高端机场|[:link:TAG](https://tagss.pro/#/register?code=0zZLweop)|
-****
+
+</details>  
+
+
+<details>
+  <summary>:key:Substore脚本</summary>  
   
 |:octocat:Sub-Store脚本|:link:链接|:pushpin:操作说明|
 |--|--|--|
@@ -199,20 +209,19 @@
 |:white_check_mark:脚本过滤：筛选80 443端口|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/port-filter.js)|SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接
 |:white_check_mark:脚本过滤：筛选80,443，vmess,ws节点(免流节点)|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/nodes-filter.js)|SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接
 |:white_check_mark:脚本操作：修改host混淆|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/vmess-host.js)|SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改参数）
+</details>
 
 
-****  
+<details>
+  <summary>:key:签名工具</summary>  
+  
 |:octocat:其他|:link:链接|:pushpin:操作说明|
 |--|--|--|
 |:white_check_mark:TrollStore 永久签名|[:link:教程](https://github.com/deezertidal/shadowrocket-rules/blob/main/TrollStore.MD)|未越狱用户需搭配altstore安装
 |:white_check_mark:Altstore|[:link:链接地址](https://altstore.io/)|自签工具（Win10+ or MacOs10.14.4+）
 |:white_check_mark:Youtube.ipa|[:link:链接地址](https://appdb.to/app/cydia/1900000869)|去广告 后台播放音乐 画中画（需搭配altstore自动刷新签名）
 |:white_check_mark:微信双开.ipa|[:link:链接地址](https://github.com/zwf234/WeChat/releases/download/%E5%BE%AE%E4%BF%A1%E7%BE%8E%E5%8C%96/WeChatPro_8.0.27.ipa)|双开
-
-
-****
-<br>
-<br>
+</details>
 
 
 <details>
@@ -254,10 +263,8 @@
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/18.png)  
 </details>
 
-****
  <details>
   <summary>:key:点击展开模块使用教程</summary>
-
 
 ### :point_down:打开小火箭——点击配置——进入模块  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1sg.png)  
