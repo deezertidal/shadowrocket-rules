@@ -182,6 +182,7 @@
 |:white_check_mark:CUBOX|[:link:链接地址](https://raw.kgithub.com/deezertidal/shadowrocket-rules/main/modules/cubox.sgmodule)|文件收集整理
 |:white_check_mark:pandora|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/pandora.module)|订阅管理
 |:white_check_mark:微信阅读积分兑换|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/wechatread.module)|请查阅脚本内教程
+|:white_check_mark:来音智能陪练|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ly.module)|音乐训练
 
 
 * 如无必要 请勿更新解锁app
