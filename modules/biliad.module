@@ -14,8 +14,7 @@ hostname = %APPEND% app.bilibili.com,api.live.bilibili.com,api.vc.bilibili.com, 
 ^https?:\/\/app\.bilibili\.com\/bilibili\.app\.interface\.v1\.Search\/Default - reject
 #～BiliBili_哔哩哔哩_屏蔽首页右上活动[卸载重装]@ddgksf2013
 ^https?:\/\/app\.bilibili\.com\/x\/resource\/top\/activity - reject-dict
-#～BiliBili_哔哩哔哩_繁体CC字幕转中文简体[自行启用]@ddgksf2013
-=type=http-response,pattern=^https?:\/\/i.\.hdslb\.com\/bfs\/subtitle\/.+\.json$,requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Rewrite/Function/Bilibili_CC.conf
+
 #～BiliBili_哔哩哔哩_应用开屏去广告@bm7
 ^https://app.bilibili.com/x/v2/splash/show - reject-dict
 #～BiliBili_哔哩哔哩_Defaultword@ddgksf2013
@@ -64,3 +63,5 @@ biliad=type=http-response,pattern=^https?:\/\/app\.bilibili\.com\/x\/v2\/account
 biliad=type=http-response,pattern=^https:\/\/app\.bilibili\.com\/bilibili\.app\.(view\.v1\.View\/View|dynamic\.v2\.Dynamic\/DynAll)$,requires-body=1,script-path=https://raw.githubusercontent.com/app2smile/rules/master/js/bilibili-proto.js
 #～BiliBili_哔哩哔哩_动态广告@yjqiang
 biliad=type=http-response,pattern=^https://app\.bilibili\.com/bilibili\.app\.dynamic\.v2\.Dynamic/DynAll$,requires-body=1,script-path=https://raw.githubusercontent.com/yjqiang/surge_scripts/main/scripts/bilibili/bilibili_dynamic.js
+#～BiliBili_哔哩哔哩_繁体CC字幕转中文简体[自行启用]@ddgksf2013
+# CC字幕转中文简=type=http-response,pattern=^https?:\/\/i.\.hdslb\.com\/bfs\/subtitle\/.+\.json$,requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Rewrite/Function/Bilibili_CC.conf
