@@ -2,8 +2,8 @@
 #### 首先请添加机场订阅链接至小火箭，请自行注册购买  
 #### [公益机场分享](https://github.com/deezertidal/freevpn/blob/main/README.md)  
 ****
-   看到quantumultX群有人问是不是我主要做shadowrocket库。不是不做QX 是本着勤为本 俭养德（穷）的信念 我没买QX 谁捐献个兑换码发我邮箱 我就开个QX库:smile: 不过据说QX也能兼容小火箭的模块 好像也无大碍
-   ****
+  
+
 <details>
   <summary>:key:关于配置文件</summary>    
 
