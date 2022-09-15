@@ -1,0 +1,11 @@
+#!name=来音智能陪练
+#!desc=来音智能陪练解锁
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ly.png
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+
+[Script]
+来音智能陪练=type=http-response,pattern=^https:\/\/partner-ai-api\.quthing\.com\/ai\/vip\/state,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ly.js
+
+[MITM]
+hostname = %APPEND% partner-ai-api.quthing.com
