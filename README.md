@@ -223,7 +223,7 @@
 |--|--|--|
 |:white_check_mark:TrollStore 永久签名|[:link:教程](https://github.com/deezertidal/shadowrocket-rules/blob/main/TrollStore.MD)|未越狱用户需搭配altstore安装
 |:white_check_mark:Altstore|[:link:链接地址](https://altstore.io/)|自签工具（Win10+ or MacOs10.14.4+）
-|:white_check_mark:Youtube.ipa|[:link:链接地址](https://appdb.to/app/cydia/1900000869)|去广告 后台播放音乐 画中画（需搭配altstore自动刷新签名）
+|:white_check_mark:Youtube.ipa|[:link:链接地址](https://appdb.to/app/cydia/1900000869)|去广告 后台播放音乐 画中画
 |:white_check_mark:微信双开.ipa|[:link:链接地址](https://github.com/zwf234/WeChat/releases/download/%E5%BE%AE%E4%BF%A1%E7%BE%8E%E5%8C%96/WeChatPro_8.0.27.ipa)|双开
 </details>
 
