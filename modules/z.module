@@ -5,18 +5,22 @@
 
 
 [Script]
-z=type=http-response,pattern=^https?://api\.m\.jd\.com/(client\.action|api)\?functionId=(wareBusiness|serverConfig|basicConfig|lite_wareBusiness|pingou_item),requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/jd.js
+
+
+z=type=http-response,pattern=^https:\/\/fufei\.fengyunsoft\.cn\/api\/client\/info,requires-body=1,sxript-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/zmzjz.js
+
+
+
+
+
 
 [MITM]
-hostname = %APPEND% api.m.jd.com
-
-<<<<<<< Updated upstream
-=======
+hostname = %APPEND% fufei.fengyunsoft.cn
 
 
 
 
-[mitm]
 
->>>>>>> Stashed changes
+
+
 
