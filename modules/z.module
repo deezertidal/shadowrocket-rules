@@ -4,14 +4,10 @@
 #!icon=
 
 
-
 [Script]
+z=type=http-response,pattern=^https?://api\.m\.jd\.com/(client\.action|api)\?functionId=(wareBusiness|serverConfig|basicConfig|lite_wareBusiness|pingou_item),requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/jd.js
 
+[MITM]
+hostname = %APPEND% api.m.jd.com
 
-http-response ^https?:\/\/api-weather\.andy\.works\/v\d\/\w{18}$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/NotBoring/Script/NotBoring.js
-
-
-
-[mitm]
-hostname= api-weather.andy.works
 
