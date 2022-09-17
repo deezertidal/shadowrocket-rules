@@ -10,4 +10,13 @@ z=type=http-response,pattern=^https?://api\.m\.jd\.com/(client\.action|api)\?fun
 [MITM]
 hostname = %APPEND% api.m.jd.com
 
+<<<<<<< Updated upstream
+=======
+
+
+
+
+[mitm]
+
+>>>>>>> Stashed changes
 
