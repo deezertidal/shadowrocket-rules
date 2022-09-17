@@ -7,7 +7,7 @@
 [Script]
 
 
-z=type=http-response,pattern=^https:\/\/fufei\.fengyunsoft\.cn\/api\/client\/info,requires-body=1,sxript-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/zmzjz.js
+http-response ^https:\/\/fufei\.fengyunsoft\.cn\/api\/client\/info requires-body=1,sxript-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/zmzjz.js
 
 
 
@@ -15,7 +15,7 @@ z=type=http-response,pattern=^https:\/\/fufei\.fengyunsoft\.cn\/api\/client\/inf
 
 
 [MITM]
-hostname = %APPEND% fufei.fengyunsoft.cn
+hostname=fufei.fengyunsoft.cn
 
 
 
