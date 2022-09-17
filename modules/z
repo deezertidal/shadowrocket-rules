@@ -24,15 +24,6 @@ http-response ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt requires-body=1,
 
 http-response https://api-weather.andy.works/v1/checkSubscriptions requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/notBoringWeather.js
 */
-#!name=🇨🇳清清情的合集㊙️
-#!desc=自己用，不外传，不负责，不回答，不知道，不了解，不清楚
-#𝑼𝑹𝑳: https://raw.githubusercontent.com/lutqhysky/Surge/Mylove/MySelf/Surge.sgmodule
-[Rule]
-AND,((USER-AGENT,PUClient*), (NOT,((DOMAIN-SUFFIX,rr.tv)))),REJECT
-URL-REGEX,^https?:\/\/api\.rr\.tv\/(?:ad\/getAll$|storage/business/rootName/app/homePage),REJECT
-URL-REGEX,^https?:\/\/api\.rr\.tv\/.*?Version,REJECT
-URL-REGEX,https://api.rr.tv/storage/business/rootName/app/homePage\?dataType=JSON,reject-dict
-########################################################
 
 [Script]
 
