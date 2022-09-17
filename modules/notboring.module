@@ -1,0 +1,11 @@
+#!name=Notboring套装
+#!desc=Notboring天气+闹钟+习惯解锁
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/notboring.png
+#!homepage=https://github.com/deezertidal
+#!author=Marol62926
+[Script]
+
+Notboring天气+闹钟+习惯解锁=http-response,pattern=^https?:\/\/api-weather\.andy\.works\/v\d\/\w{18}$,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/NotBoring/Script/NotBoring.js
+
+[mitm]
+hostname= %APPEND% api-weather.andy.works
