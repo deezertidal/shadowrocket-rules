@@ -186,7 +186,7 @@
 |:white_check_mark:来音智能陪练|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ly.module)|音乐训练
 |:white_check_mark:熊掌记|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/xzj.module)|笔记类
 |:white_check_mark:Notboring|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/notboring.module)|解锁天气 闹钟 习惯
-
+|:white_check_mark:如期|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/rq.module)|扫码
 
 * 如无必要 请勿更新解锁app
 </details>
