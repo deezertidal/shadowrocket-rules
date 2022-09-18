@@ -194,14 +194,15 @@
 <details>
   <summary>:key:机场推荐</summary>   
   
-|:octocat:机场推荐|:link:链接|:pushpin:说明|
+|:octocat:机场推荐|:link:链接| :pushpin:套餐价格概况
 |--|--|--|
-|:white_check_mark:低端机场|[:link:MagicSchool](https://2220.it/register?aff=GNs68S4XWT)|专属八折优惠码shadycn(活动套餐除外)
-|:white_check_mark:低端机场|[:link:EMO](https://yyds.emovpn.top/#/register?code=7KLxhYOS)|
-|:white_check_mark:中端机场|[:link:白月光](https://www.bygcloud.com/#/register?code=DX4iT5B4)|
-|:white_check_mark:中端机场|[:link:安大毒](https://jc.hgdbk.xyz/#/register?code=heNWfiwN)|
-|:white_check_mark:高端机场|[:link:奶昔](https://naixii.com/signupbyemail.aspx?MemberCode=4abe2692a864433d9132614c7da1cd0920220701191029)|
-|:white_check_mark:高端机场|[:link:TAG](https://tagss.pro/#/register?code=0zZLweop)|
+|:white_check_mark:MagicSchool|[:link:官网](https://2220.it/register?aff=GNs68S4XWT)|5元/50G/月，50元/888G/年，本仓库专属八折优惠码shadycn(活动套餐除外)
+|:white_check_mark:EMO|[:link:官网](https://yyds.emovpn.top/#/register?code=7KLxhYOS)|0元300G/月，5元1000G/月
+|:white_check_mark:白月光|[:link:官网](https://www.bygcloud.com/#/register?code=DX4iT5B4)|22元/140G/月，28元/230G/月
+|:white_check_mark:安大毒|[:link:官网](https://jc.hgdbk.xyz/#/register?code=heNWfiwN)|5元/100G/月，90元/10TB/永久
+|:white_check_mark:奶昔|[:link:官网](https://naixii.com/signupbyemail.aspx?MemberCode=4abe2692a864433d9132614c7da1cd0920220701191029)|112元/500G/月，70元/200G/月
+|:white_check_mark:TAG|[:link:官网](https://tagss.pro/#/register?code=0zZLweop)|100元/500G/月，190元/999G/月
+* 推荐月付或季付
 
 </details>  
 
