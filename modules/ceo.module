@@ -1,0 +1,11 @@
+#!name=CEO周课
+#!desc=CEO周课解锁
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ceo.png
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+
+[Script]
+CEO周课=type=http-response,pattern=^https:\/\/user\.xiaozaoapp\.com\/app\/ceouser\/loginAuto ,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ceo.js
+
+[MITM]
+hostname = %APPEND% user.xiaozaoapp.com
