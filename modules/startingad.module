@@ -240,18 +240,6 @@ https://homefront.qunar.com/front/splash/ad - reject
 # ======= S ======= #
 # > 顺丰优选
 ^https://mapi.sfbest.com\/brokerservice-server\/cms\/getPositionById.* - reject
-# > spotify@ddgksf2013
-^https?://spclient.wg.spotify.com/ad-logic/* - reject-img
-^https?://spclient.wg.spotify.com/ads/* - reject-img
-^https?://spclient.wg.spotify.com/.+ad_slot - reject-img
-^https?://spclient.wg.spotify.com/.+banners - reject-img
-^https?://spclient.wg.spotify.com/.+canvases - reject-img
-^https?://spclient.wg.spotify.com/.+cards - reject-img
-^https?://spclient.wg.spotify.com/.+crashlytics - reject-img
-^https?://spclient.wg.spotify.com/.+doubleclick.net - reject-img
-^https?://spclient.wg.spotify.com/.+enabled-tracks - reject-img
-^https?://spclient.wg.spotify.com/.+promoted_offer - reject-img
-^https?:\/\/api\d?\.musical\.ly\/api\/ad\/ - reject-img
 # > 三联中读开屏广告@ddgksf2013
 https://apis.lifeweek.com.cn/api/baseConfig/getIosNewConfig - reject
 # > 顺丰APP屏蔽更新@ddgksf2013
