@@ -1,0 +1,10 @@
+#!name=test
+#!desc=test
+#!author=test
+#!icon=
+
+[Script]
+http-response ^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/fileball.js
+
+[MITM] 
+hostname = api.revenuecat.com
