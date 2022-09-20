@@ -4,10 +4,10 @@
 #!icon=
 
 [Script]
-http-response ^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mdsz.js
-http-response ^https:\/\/license\.pdfexpert\.com\/api\/2\.0\/documents\/subscription\/refresh requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/documents.js
+
+z=type=http-response,pattern=^https:\/\/license\.pdfexpert\.com\/api\/2\.0\/documents\/subscription\/refresh,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/documents.js
 
 
 
 [MITM] 
-hostname=api.revenuecat.com,license.pdfexpert.com
+hostname= %APPEND% license.pdfexpert.com
