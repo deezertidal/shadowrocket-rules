@@ -1,0 +1,13 @@
+#!name=test
+#!desc=test
+#!author=test
+#!icon=
+
+[Script]
+
+http-response,pattern=^https:\/\/api-sub\.meitu\.com\/v2\/user\/vip_info\.json,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Chic.js
+http-response,pattern=^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/fin.js
+http-response,pattern=^https:\/\/(ticktick|dida365)\.com\/api\/v2\/user\/status,requires-body=1,script-path=https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/didaqingdan/Script/didaqingdan.js
+
+[MITM] 
+hostname= %APPEND% api-sub.meitu.com,api.revenuecat.com,ticktick.com,dida365.com
