@@ -5,9 +5,6 @@
 
 [Script]
 
-1=type=http-response,pattern=^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/pandavip.js
-2=type=http-response,pattern=^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mbdt.js
-3=type=http-response,pattern=^https:\/\/api\.sortedapp\.com\/receipts\/verify,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Sorted.js
+
 
 [MITM] 
-hostname= %APPEND% buy.itunes.apple.com,api.revenuecat.com,api.sortedapp.com
