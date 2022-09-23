@@ -189,7 +189,9 @@
 |:white_check_mark:CEO周课|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ceo.module)|CEO周课
 |:white_check_mark:Fileball|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/fileball.module)|文件管理
 |:white_check_mark:1blocker|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/1blocker.module)|浏览器广告屏蔽
-  
+|:white_check_mark:AI换脸秀|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ai.module)|换脸app
+
+
 * 如无必要 请勿更新解锁app
 </details>
 
