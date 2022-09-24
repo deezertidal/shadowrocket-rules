@@ -4,8 +4,8 @@
 #!icon=
 
 [Script]
-z=type=http-response,pattern=^https:\/\/dict\.youdao\.com\/vip\/user\/status,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ydcd.js
-
+z=type=http-response,pattern=^https:\/\/dict\.youdao\.com\/vip\/user\/status,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wyydcd.js
+1=type=http-response,pattern=^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Planny.js
 
 [MITM] 
-hostname = %APPEND% dict.youdao.com
+hostname = %APPEND% dict.youdao.com,api.revenuecat.com
