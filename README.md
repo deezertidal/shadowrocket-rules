@@ -21,6 +21,7 @@
    <summary>:key:模块及说明</summary>    
    
 * #### :bell::bell::bell:小火箭模块建议搭配[基础配置文件](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_basic.conf)使用，避免冗余  
+* #### 若某个模块时而生效时而失效，请检查是否有其他模块的主机名没有加%APPEND%，本仓库模块均添加了%APPEND%
 * #### surge用户也可直接使用小火箭模块
 
 
