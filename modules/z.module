@@ -14,7 +14,6 @@ z=type=http-response,pattern=^https:\/\/dict\.youdao\.com\/vip\/user\/status,req
 脉脉vip=type=http-response,pattern=^https:\//maimai.cn\/bizmember\/vip_center\/me_tab_page_banner,requires-body=1,script-path=https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/maimai/mypage.js
 万年历VIP=type=http-response,pattern=^https:\//r.51wnl-cq.com\/Api\/User\/GetExtInfo,requires-body=1,script-path=https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/wnl.js
 爱企查vip=type=http-response,pattern=^https:\//aiqicha.baidu.com\/usercenter\/getvipinfoajax,requires-body=1,script-path=https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/aiqicha.js
-中国体育直播unlock=type=http-response,pattern=^http:\/\/rest\.zhibo\.tv\/room\/get\-pull\-stream\-info\-v430,requires-body=1,script-path=https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/zgtyzb.js	
 VUEpro=type=http-response,pattern=^https:\/\/api\.vuevideo\.net\/api\/v1\/(users\/.+\/profile|subtitle\/prepare),requires-body=1,script-path=https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/VUE.js
 滴答清单vip=type=http-response,pattern=^https:\/\/(ticktick|dida365)\.com\/api\/v2\/user\/status,requires-body=1,script-path=https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/DiDaQingDan.js
 面包和刺儿通用解锁会员=type=http-response,pattern=^http:\/\/wx\.voxpie\.com\/(api/fmapp_user|api/fmapp_bookinfo),requires-body=1,script-path=https://6678888.xyz/quantumultX/mbfm.js
