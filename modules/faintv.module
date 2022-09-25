@@ -1,0 +1,11 @@
+#!name=FainTV
+#!desc=FainTV解锁会员去广告
+#!homepage=https://github.com/deezertidal
+#!author=
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/faintv.png
+
+[Script]
+FainTV解锁会员去广告=type=http-response,pattern=^http:\/\/ftvn\.hawsing\.com\.tw:3000\/client\/login,requires-body=1,script-path=https://raw.githubusercontent.com/sngxmini/crack/master/s7aa.cn/fatv.js
+
+[MITM]
+hostname = %APPEND% ftvn.hawsing.com
