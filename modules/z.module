@@ -4,6 +4,9 @@
 #!icon=
 
 [Script]
+
+1=type=http-response,pattern=^https:\/\/top-widgets-api\.xiaozujian\.com\/api\/app\/config\/userConfig,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/widgets.js
+2=type=http-response,pattern=^https:\/\/namibox\.com\/appnative\/openbook\/initialize,requires-body=1,script-path=https://raw.githubusercontent.com/Crazy-Z7/Scrip/main/namihe.js
 z=type=http-response,pattern=^https:\/\/dict\.youdao\.com\/vip\/user\/status,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wyydcd.js
 1=type=http-response,pattern=^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Planny.js
 人民日报=type=http-response,pattern=^https:\/\/app\.peopleapp\.com\/Api\/\d+\/HomeApi\/getContentList,requires-body=1,script-path=https://raw.githubusercontent.com/irenemsIrenes/profiles/master/Quantumult/X/js/people-news.js
@@ -40,4 +43,4 @@ keep解锁vip=type=http-response,pattern=https://api.gotokeep.com/(.+/subject|.+
 蜗牛睡眠全功能解锁VIP&付费音乐=type=http-response,pattern=^https:\/\/(snailsleep\.net\/|(music|community)\.snailsleep\.net\/)(snail\/v1\/profile\/get|snail-music\/music\/(sleeping|meditation)\/single\/list),requires-body=1,script-path=https://raw.githubusercontent.com/photonmang/quantumultX/master/wnsm.js
 
 [MITM] 
-hostname = %APPEND% app.peopleapp.com,passport.58.com,app.58.com,dxy.com,open.taou.com,maimai.cn,r.51wnl-cq.com,aiqicha.baidu.com,rest.zhibo.tv,api.vuevideo.net,www.babybooks.top,i.at.qq.com,api.gotokeep.com,irecgo.softin-tech.com,*.kuwo.cn,nmeditation.snailsleep.net,*.snailsleep.net,ticktick.com,dida365.com,wx.voxpie.com,api.neuralprisma.com,diary.7english.cn:2433,biz.lemonyd.com,api.yikaobang.com.cn,license.pdfexpert.com,ttt2.tbrapi.org:8080,c.banghankeji.com,gateway-api.*.com,api.dushu365.com,gateway-api.*.com,api.*.xyz,ws.60he.com,ftvn.hawsing.com.tw:3000,cn1.invit.vip
+hostname = %APPEND% namibox.com,top-widgets-api.xiaozujia.com,app.peopleapp.com,passport.58.com,app.58.com,dxy.com,open.taou.com,maimai.cn,r.51wnl-cq.com,aiqicha.baidu.com,rest.zhibo.tv,api.vuevideo.net,www.babybooks.top,i.at.qq.com,api.gotokeep.com,irecgo.softin-tech.com,*.kuwo.cn,nmeditation.snailsleep.net,*.snailsleep.net,ticktick.com,dida365.com,wx.voxpie.com,api.neuralprisma.com,diary.7english.cn:2433,biz.lemonyd.com,api.yikaobang.com.cn,license.pdfexpert.com,ttt2.tbrapi.org:8080,c.banghankeji.com,gateway-api.*.com,api.dushu365.com,gateway-api.*.com,api.*.xyz,ws.60he.com,ftvn.hawsing.com.tw:3000,cn1.invit.vip
