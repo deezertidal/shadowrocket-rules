@@ -1,0 +1,11 @@
+#!name=微信听书
+#!desc=微信听书解锁
+#!homepage=https://github.com/deezertidal
+#!author=
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/wxts.png
+
+[Script]
+微信听书解锁vip=type=http-response,pattern=^https:\/\/i\.at\.qq\.com\/pay\/memberinfo,requires-body=1,script-path=https://raw.githubusercontent.com/sngxmini/crack/master/wxts/wxts.js
+
+[MITM]
+hostname = %APPEND% i.at.qq.com
