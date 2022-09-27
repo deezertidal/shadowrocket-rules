@@ -1,0 +1,11 @@
+#!name=人民日报去广告
+#!desc=人民日报去广告
+#!homepage=https://github.com/deezertidal
+#!author=
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/rmrb.png
+
+[Script]
+人民日报去广告=type=http-response,pattern=^https:\/\/app\.peopleapp\.com\/Api\/\d+\/HomeApi\/getContentList,requires-body=1,script-path=https://raw.githubusercontent.com/irenemsIrenes/profiles/master/Quantumult/X/js/people-news.js
+
+[MITM]
+hostname = %APPEND% app.peopleapp.com
