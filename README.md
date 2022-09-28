@@ -195,7 +195,7 @@
 |:white_check_mark:青柠海报|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/qnhb.module)|海报设计
 |:white_check_mark:Faintv|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/faintv.module)|视频类
 |:white_check_mark:微信听书|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/wxts.module)|听书
-
+|:white_check_mark:人民日报去广告|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/rmrb.module)|人民日报
 
 * 如无必要 请勿更新解锁app
 </details>
