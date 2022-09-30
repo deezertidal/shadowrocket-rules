@@ -1,0 +1,10 @@
+#!name=微信读书
+#!desc=微信读书无限卡解锁 version:6.0.1/5.4.3
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/wxds.png
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+[Script]
+微信读书=type=http-response,pattern=^https:\/\/i\.weread\.qq\.com\/pay\/memberCardSummary,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/txwxds.js
+
+[MITM]
+hostname = %APPEND% i.weread.qq.com
