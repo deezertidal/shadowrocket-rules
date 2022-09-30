@@ -238,6 +238,8 @@
 |:white_check_mark:Youtube.ipa|[:link:链接地址](https://appdb.to/app/cydia/1900000869)|去广告 后台播放音乐 画中画
 |:white_check_mark:微信双开.ipa|[:link:链接地址](https://github.com/zwf234/WeChat/releases/download/%E5%BE%AE%E4%BF%A1%E7%BE%8E%E5%8C%96/WeChatPro_8.0.27.ipa)|双开
 |:white_check_mark:APP降级工具|[:link:链接地址](https://initnil.com/DowngradeApp.txt)|降级工具
+|:white_check_mark:Tiktok.ipa|[:link:链接地址](https://drive.google.com/file/d/1XMbpcMiv2yYEw6ApYG8sCL9oGNbPpcJ5/view?usp=drivesdk)|内置换区功能
+
 * 安装完Trollstore之后，altstore是可以卸载的，它仅作为安装trollstore的工具
 </details>
 
