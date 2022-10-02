@@ -1,9 +1,8 @@
-#!name=
-#!desc=
-#!homepage=https://github.com/deezertidal
-#!author=
-#!icon=
-
+#!name=1
+#!desc=1
+#!author=1
+#!icon=1
+[Script]
 1=type=http-response,pattern=^https:\/\/api-sub\.meitu\.com\/v2\/user\/vip_info_by_group,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Wink.js
 1=type=http-response,pattern=^https:\/\/api\.apphud\.com\/v1\/subscriptions,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/EFEKT.js
 1=type=http-response,pattern=^https:\/\/pgapi\.ksmobile\.com\/v1\/ios\/auth,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/photoGrid.js
@@ -21,5 +20,5 @@
 
 
 
-
+[MITM]
 hostname = %APPEND% api-sub.meitu.com,api.apphud.com,pgapi.ksmobile.com,api-v3.speedtest.cn,iap.etm.tech,buy.itunes.apple.com,tutugushiapi.tutuerge.com,shared.lc-cn-n1-shared.com,api.revenuecat.com
