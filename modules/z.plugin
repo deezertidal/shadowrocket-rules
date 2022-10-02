@@ -1,0 +1,25 @@
+#!name=1
+#!desc=1
+#!homepage=https://github.com/deezertidal
+#!author=1
+#!icon=1
+[Script]
+http-response ^https:\/\/api-sub\.meitu\.com\/v2\/user\/vip_info_by_group requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Wink.js
+http-response ^https:\/\/api\.apphud\.com\/v1\/subscriptions requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/EFEKT.js
+http-response ^https:\/\/pgapi\.ksmobile\.com\/v1\/ios\/auth requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/photoGrid.js
+http-response ^https:\/\/api-v3\.speedtest\.cn\/user\/info requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wsgj.js
+http-response ^https:\/\/iap\.etm\.tech\/receipts requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wscsds.js
+http-response ^https:\/\/iap\.etm\.tech\/receipts requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Pixelance.js
+http-response ^https:\/\/iap\.etm\.tech\/receipts requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Collart.js
+http-response ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/yzscq.js
+http-response http:\/\/tutugushiapi\.tutuerge\.com requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/abushuiqiangushi.js
+http-response ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mksp.js
+http-response ^https:\/\/shared\.lc-cn-n1-shared\.com\/1\.1\/classes\/Users requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Quike.js
+http-response ^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/vision.js
+http-response ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/aptv.js
+http-response https://buy.itunes.apple.com/verifyReceipt requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/voloco.js
+
+
+
+[MITM]
+hostname = api-sub.meitu.com,api.apphud.com,pgapi.ksmobile.com,api-v3.speedtest.cn,iap.etm.tech,buy.itunes.apple.com,tutugushiapi.tutuerge.com,shared.lc-cn-n1-shared.com,api.revenuecat.com
