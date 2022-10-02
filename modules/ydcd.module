@@ -1,0 +1,11 @@
+#!name=有道词典
+#!desc=有道词典会员解锁
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ydcd.png
+
+[Script]
+有道词典=type=http-response,pattern=^https:\/\/dict\.youdao\.com\/vip\/user\/status,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wyydcd.js
+
+[MITM]
+hostname = %APPEND% dict.youdao.com
