@@ -1,25 +1,15 @@
 #!name=1
 #!desc=1
-#!homepage=https://github.com/deezertidal
 #!author=1
 #!icon=1
 [Script]
-http-response ^https:\/\/api-sub\.meitu\.com\/v2\/user\/vip_info_by_group requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Wink.js
-http-response ^https:\/\/api\.apphud\.com\/v1\/subscriptions requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/EFEKT.js
-http-response ^https:\/\/pgapi\.ksmobile\.com\/v1\/ios\/auth requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/photoGrid.js
-http-response ^https:\/\/api-v3\.speedtest\.cn\/user\/info requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wsgj.js
-http-response ^https:\/\/iap\.etm\.tech\/receipts requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wscsds.js
-http-response ^https:\/\/iap\.etm\.tech\/receipts requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Pixelance.js
-http-response ^https:\/\/iap\.etm\.tech\/receipts requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Collart.js
-http-response ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/yzscq.js
-http-response http:\/\/tutugushiapi\.tutuerge\.com requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/abushuiqiangushi.js
-http-response ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mksp.js
-http-response ^https:\/\/shared\.lc-cn-n1-shared\.com\/1\.1\/classes\/Users requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Quike.js
-http-response ^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/vision.js
-http-response ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/aptv.js
-http-response https://buy.itunes.apple.com/verifyReceipt requires-body=1,script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/voloco.js
+http-response ^https:\/\/qianji\.xxoojoke\.com\/vip\/configios requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/qj.js
+http-response ^https:\/\/api\.memrise\.com\/v1\.18 requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Memrise.js
+http-response ^https?:\/\/poetry\.yuan9\.cn\/api\/(order\/applesuccess|account\/login|User\/loginUserInfo) requires-body=1,script-path=https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/cxs/Script/cxs.js
+http-response ^https:\/\/hi\.weshine\.im\/v3\.0\/account\/profile requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/smbq.js
+http-response https://ssl-api.itranslateapp.com/accounts/v4/subscriptions/verify/ios url script-request-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/iTranslate.js
+http-response ^https?:\/\/account\.wps\.cn\/api\/v3\/mine\/vips requires-body=1,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/WPSDocerVIPuserCrack.js
+http-request ^https?:\/\/.+\.(docer.)?wps.cn\/(user\/v1\/vip|android\/mb\/buy|download\/v1\/ios|partner\/invoke\/usable|(api|rank)\/v1(\/mobile\/mb)?\/detail) requires-body=0,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/WPSDocerVIPowerCrack.js
 
-
-
-[MITM]
-hostname = api-sub.meitu.com,api.apphud.com,pgapi.ksmobile.com,api-v3.speedtest.cn,iap.etm.tech,buy.itunes.apple.com,tutugushiapi.tutuerge.com,shared.lc-cn-n1-shared.com,api.revenuecat.com
+[mitm]
+hostname=*.docer.wps.cn,vipapi.wps.cn,account.wps.cn,qianji.xxoojoke.com,api.memrise.com,poetry.yuan9.cn,hi.weshine.im,ssl-api.itranslateapp.com
