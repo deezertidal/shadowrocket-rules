@@ -203,6 +203,9 @@
 |:white_check_mark:一路听天下|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ylttx.module)|一路听天下
 |:white_check_mark:网速测试大师|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/wscsds.module)|测速
 |:white_check_mark:网速管家|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/wsgj.module)|测速
+|:white_check_mark:EFEKT美易|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/efekt.module)|视频特效
+
+
 * 如无必要 请勿更新解锁app
 </details>
 
