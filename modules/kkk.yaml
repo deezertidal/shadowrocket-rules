@@ -1,0 +1,11 @@
+scriptings:
+  - http_response:
+      name: 酷我音乐完美解锁
+      script_url: https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kw.js
+      match: >-
+        ^https?:\/\/.*\.(kuwo|lrts)\.(cn|me)\/(a\.p|music\.pay|(vip\/(v2|enc)\/(theme|user\/vip))|(EcomResource|(Mobile)?Ad)Serv(er|ice)).*
+      body_required: true
+mitm:
+  hostnames:
+    - '*.kuwo.cn'
+    - '*.lrts.me'
