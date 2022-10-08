@@ -6,4 +6,4 @@
 [MITM]
 hostname= %APPEND% www.freshhome.top
 [Script]
-如期会员=type=http-response，pattern=^https:\/\/www\.freshhome\.top\/mngruqi,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/main/rq.js
+如期会员=type=http-response,pattern=^https:\/\/www\.freshhome\.top\/mngruqi,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/main/rq.js
