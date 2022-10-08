@@ -1,0 +1,10 @@
+#!name=WPS稻壳会员
+#!desc=稻壳会员解锁
+#!homepage=https://github.com/deezertidal
+#!author= yqc007
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/doc.png
+[MITM]
+hostname = %APPEND% *.docer.wps.cn,vipapi.wps.cn,account.wps.cn
+[Script]
+稻壳会员1=type=http-response,pattern=^https?:\/\/account\.wps\.cn\/api\/v3\/mine\/vips,requires-body=1,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/WPSDocerVIPuserCrack.js
+稻壳会员2=type=http-request,pattern=^https?:\/\/.+\.(docer.)?wps.cn\/(user\/v1\/vip|android\/mb\/buy|download\/v1\/ios|partner\/invoke\/usable|(api|rank)\/v1(\/mobile\/mb)?\/detail),requires-body=0,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/WPSDocerVIPowerCrack.js
