@@ -389,3 +389,6 @@
  </details>
 
 ![Image text](https://raw.githubusercontent.com/deezertidal/private/main/icons/sr.png)![Image text](https://raw.githubusercontent.com/deezertidal/freevpn/main/img/award.png)
+关于Egern：  
+本来只是因为有了TF资格 一时兴起移植了egern模块 但有点吃力不讨好 自己本身也意兴阑珊 所以删库了  
+删库之后，本库的star数激增了一会儿，机智如你，小火箭模块可以利用egern官方提供的工具直接转换成egern模块
