@@ -3,13 +3,14 @@
 #!author=1
 #!icon=1
 [Script]
-http-response ^https:\/\/qianji\.xxoojoke\.com\/vip\/configios requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/qj.js
-http-response ^https:\/\/api\.memrise\.com\/v1\.18 requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Memrise.js
-http-response ^https?:\/\/poetry\.yuan9\.cn\/api\/(order\/applesuccess|account\/login|User\/loginUserInfo) requires-body=1,script-path=https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/cxs/Script/cxs.js
-http-response ^https:\/\/hi\.weshine\.im\/v3\.0\/account\/profile requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/smbq.js
-http-response https://ssl-api.itranslateapp.com/accounts/v4/subscriptions/verify/ios url script-request-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/iTranslate.js
-http-response ^https?:\/\/account\.wps\.cn\/api\/v3\/mine\/vips requires-body=1,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/WPSDocerVIPuserCrack.js
-http-request ^https?:\/\/.+\.(docer.)?wps.cn\/(user\/v1\/vip|android\/mb\/buy|download\/v1\/ios|partner\/invoke\/usable|(api|rank)\/v1(\/mobile\/mb)?\/detail) requires-body=0,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/WPSDocerVIPowerCrack.js
+http-response ^https:\/\/commerce-api\.faceu\.mobi\/commerce\/v1\/subscription\/user_info? requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/qyxj.js
+http-response ^https:\/\/api\.duitang\.com\/napi requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/duitang.js
+http-response ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/kprj.js
+http-response ^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/qmzj.js
+http-response ^https:\/\/cn\.invit\.vip\/users\/info requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/dzqjzz.js
+http-response ^https:\/\/api2.mubu.com\/v3\/api\/user/* requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mubu.js
+http-response ^https:\/\/scanner\.jianse\.tv\/api\/users\/loginUser requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/jssmy.js
+http-response http:\/\/data\.ufbae\.com\/User\/GetUser requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/zjbj.js
 
 [mitm]
-hostname=*.docer.wps.cn,vipapi.wps.cn,account.wps.cn,qianji.xxoojoke.com,api.memrise.com,poetry.yuan9.cn,hi.weshine.im,ssl-api.itranslateapp.com
+hostname=commerce-api.faceu.mobi,api.duitang.com,api.revenuecat.com,cn.invit.vip,api2.mubu.com,scanner.jianse.tv,data.ufbae.com,buy.itunes.apple.com
