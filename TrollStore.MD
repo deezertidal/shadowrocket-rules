@@ -1,85 +1,29 @@
 # TrollStore  永久签名
 
-TrollStore一款 iOS 永久签名工具
 
-▎主要特点：永久签名
+汉化操作说明：  
 
- ⁃ 完全免费，永久签名
- ⁃ 无限制安装 IPA，安装后永不过期
- ⁃ 无需帐户/登录/证书，直接安装
- ⁃ 手机端直接签名安装 IPA
- ⁃ 免越狱版，无需越狱，可自签安装使用
- ⁃ 越狱版，需要越狱才能安装使用
- ⁃ 支持系统 iOS 14.0 - 15.1.1
+TrollInstaller2现在也支持arm64设备，现在是在受支持版本（14.0 - 15.5b4）的所有设备上安装TrollStore的最终方法。
 
-▎原理相关：工具原理与发布相关
+请注意，TrollStore永远不会支持任何高于15.5b4或低于14.0的ios版本。
+对于iOS 14 arm64e设备，请使用[此链接](https://api.jailbreaks.app/troll64e)。对于iOS 14 arm64设备，请使用checkra1n + TrollHelper（可在Havoc repo上使用）。
 
+安装指南
 
-TrollStore 免越狱版：
-支持系统： iOS 15.0 - iOS 15.1.1
-支持设备：A10 及更高机型，也就是 iPhone 7 系列及更高机型
+在您的iOS设备上（14.0 - 15.5b4），[点击此链接](https://api.jailbreaks.app/troll)  此链接仅适用于IOS 15
 
-TrollStore 越狱版：
-支持系统：iOS 14 系统
-支持设备：A10 及更高机型，也就是 iPhone 7 系列及更高机型
+应该会出现警报，点击“install”。
 
-▎下载相关：下载与安装 TrollInstaller
+安装完成后，您将在设备上找到一个“GTA Car Tracker”应用程序。
 
-TrollStore 项目地址：
-https://github.com/opa334/TrollStore
+如果此应用程序没有出现，请重新启动您的设备。
 
-在 TrollStore 项目页面，点击 Releases 就可以查看发布的全部版本。
+启动应用程序，点击“install TrollStore”。
 
-TrollStore 下载地址：
-https://github.com/opa334/TrollStore/releases
+等待几秒钟，您的设备将安装TrollStore。
 
-在 TrollStore 的 Releases 下载页面，根据需要，下载安装包。这个安装包，只是一个安装器，用于安装 TrollStore。
+您现在可以删除“GTA Car Tracker”应用程序，不再需要它。
 
-TrollInstaller.ipa：
-免越狱版本，需自签后才能安装
-支持 iOS 15.0 - iOS 15.1.1 系统
+打开TrollStore，在设置选项卡中按“安装ldid”，然后阅读“持久性”下的信息，如果需要持久性，请将持久性助手安装到系统应用程序中。
 
-TrollHelper deb：
-越狱版本，需越狱才能安装
-支持 iOS 14  系统
-
-TrollStore.tar：
-更新包，用于已发布版本的更新。
-
-▎安装相关：用 TrollInstaller 来安装 TrollStore
-
-打开 TrollInstaller，点击底部的 Install 按钮进行安装，安装完成后，会弹窗提示，点击 Close 关闭。
-
-这个时候，返回桌面查看，TrollStore 安装到手机了，为蓝色图标。TrollStore 安装后就可以用来签名安装 IPA 了。
-
-PS：使用 TrollInstaller 安装 TrollStore 过程，如果闪退或重启，请重启设备后再安装。
-
-TrollInstaller：红色图标，是安装器，用于安装 TrollStore 。
-TrollStore：蓝色图标，是永久签名工具，用于签名安装 IPA 。
-
-▎使用相关：
-
- ⁃ 首次操作
-第一次打开TrollStore要先安装 ldid ，才能进行后续的安装 IPA
-
-打开 TrollStore，点击 Settings 进入设置界面，点击 Install ldid 进行安装，安装过程请耐心等待，保持前台。安装完成后，按钮是灰色的，按钮变为：ldid Installed，这样就安装好了。
-
-PS：安装 ldid 的时候，如果报错，一般是网络问题，请切换网络或者使用代理再尝试。
-
- ⁃ 安装说明
-用TrollStore 安装 IPA 很简单：将你想安装的 IPA，分享到 TrollStore，就会自动安装，非常方便，无需其他操作。
-
-▎更新相关：
-
-当 TrollStore 有新版本更新的时候，
-只需在项目中下载 .tar 后缀的更新包，分享至 TrollStore，就可以完成更新，无需卸载旧版重新安装新版。
-
-▎卸载相关：
-
-如果你不想使用 TrollStore 了，点击 Uninstall TrollStore 就可以卸载。卸载完成后，设备会自动注销，所有已安装的永不过期应用会全部消失。
-****
-来自
-🍟 资源分享频道：@yqc_123 
-🍑 套图精选频道：@yqc_91p
-🍋 技术交流群组：@yqc_777
-的分享
+完成后，您现在可以将ipa文件分享至TrollStore，它们将永久安装在您的设备上。
