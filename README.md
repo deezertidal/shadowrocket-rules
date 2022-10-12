@@ -47,7 +47,7 @@
 |:white_check_mark:波点音乐|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/Bodian.module)|波点音乐去广告
 |:white_check_mark:BOOM|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/boom.module)|音乐均衡器
 |:white_check_mark:boxjs|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/boxjs.sgmodule)|含签到脚本
-❌财新|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/caixin.module)|财新会员
+|❌财新|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/caixin.module)|财新会员
 |:white_check_mark:彩云天气|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/caiyun.module)|彩云天气SVIP
 |:white_check_mark:计算器HD|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/calculator.module)|计算器HD会员
 |:white_check_mark:扫描全能王|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/camscanner.sgmodule)|扫描全能王会员
@@ -56,7 +56,7 @@
 |:white_check_mark:dailyyoga|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/dailyyoga.module)|每日瑜伽
 |:white_check_mark:大蓝鲸|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/dalanjing.module)|视听互动
 |:white_check_mark:darkroom|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/darkroom.module)|照片编辑
-❌豆瓣|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/douban.sgmodule)|豆瓣网页播放按钮
+|❌豆瓣|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/douban.sgmodule)|豆瓣网页播放按钮
 |:white_check_mark:读书笔记|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/dsbj.module)|笔记类
 |:white_check_mark:第一弹|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/dyd.module)|二次元游戏综合社区
 |:white_check_mark:儿哥点点|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/egdd.module)|幼儿类
@@ -131,7 +131,7 @@
 |:white_check_mark:tangerine|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/tangerine.module)|银行类
 |:white_check_mark:tenpercent|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/tenpercent.module)|健康类
 |:white_check_mark:迅雷|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/thunder.module)|迅雷会员
-❌TidalPlus|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/TidalPlus.sgmodule)|失效
+|❌TidalPlus|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/TidalPlus.sgmodule)|失效
 |:white_check_mark:tok cam|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/tokcam.module)|相机类
 |:white_check_mark:图图记账|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/tutu.module)|账目类
 |:white_check_mark:vista看天下|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/vista.module)|vista看天下会员
