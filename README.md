@@ -209,7 +209,7 @@
 |:white_check_mark:阿布睡前故事|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/absqgs.module)|儿童类
 |:white_check_mark:collart|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/collart.module)|照片编辑
 |:white_check_mark:博商小麦|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/bsxm.module)|学习类
-
+|:white_check_mark:MEMRISE|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/memrise.module)|外语学习
 
 * 如无必要 请勿更新解锁app
 </details>
