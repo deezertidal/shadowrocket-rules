@@ -210,6 +210,8 @@
 |:white_check_mark:collart|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/collart.module)|照片编辑
 |:white_check_mark:博商小麦|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/bsxm.module)|学习类
 |:white_check_mark:MEMRISE|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/memrise.module)|外语学习
+|:white_check_mark:堆糖|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/duitang.module)|桌面美化
+
 
 * 如无必要 请勿更新解锁app
 </details>
