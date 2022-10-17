@@ -47,7 +47,7 @@
 |:white_check_mark:波点音乐|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/Bodian.module)|波点音乐去广告
 |:white_check_mark:BOOM|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/boom.module)|音乐均衡器
 |:white_check_mark:boxjs|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/boxjs.sgmodule)|含签到脚本
-|❌财新|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/caixin.module)|财新会员
+|:white_check_mark:财新文章解锁|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/caixin.module)|财新会员
 |:white_check_mark:彩云天气|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/caiyun.module)|彩云天气SVIP
 |:white_check_mark:计算器HD|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/calculator.module)|计算器HD会员
 |:white_check_mark:扫描全能王|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/camscanner.sgmodule)|扫描全能王会员
