@@ -212,6 +212,7 @@
 |:white_check_mark:MEMRISE|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/memrise.module)|外语学习
 |:white_check_mark:堆糖|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/duitang.module)|桌面美化
 |:white_check_mark:Flomo|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/flomo.module)|笔记类
+|:white_check_mark:APTV|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/aptv.module)|文件存储
 
 * 如无必要 请勿更新解锁app
 </details>
