@@ -3,6 +3,6 @@
 #!author=1
 #!icon=1
 [Script]
-http-response ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Motivation.js
+
 [MITM]
-hostname=buy.itunes.apple.com
+hostname=
