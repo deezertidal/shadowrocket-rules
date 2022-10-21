@@ -1,0 +1,11 @@
+#!name=百度文库
+#!desc=解锁文档阅读权限
+#!homepage=https://github.com/deezertidal
+#!author=ddgksf2013
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/bdwk.png
+
+[Script]
+百度文库=type=http-response,pattern=^https:\/\/appwk\.baidu\.com\/naapi\/user\/getinfo,requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/baidulibrary.js
+
+[MITM] 
+hostname = %APPEND% appwk.baidu.com
