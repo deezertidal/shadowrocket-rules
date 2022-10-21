@@ -217,8 +217,7 @@
 |:white_check_mark:长相思|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/cxs.module)|学习类
 |:white_check_mark:电子请柬制作|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/dzqj.module)|设计类
 |:white_check_mark:黄油相机|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/hyxj.module)|相机类
-
-
+|:white_check_mark:Lingokids|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/lingokids.module)|幼儿学习类
 
 
 * 如无必要 请勿更新解锁app
