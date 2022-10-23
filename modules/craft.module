@@ -1,0 +1,10 @@
+#!name=Craft
+#!desc=Craft解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/craft.png
+
+[Script]
+Craft=type=http-response,pattern=^https:\/\/api\.craft\.do\/auth\/v2\/profile,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Craft.js
+[MITM] 
+hostname = %APPEND% api.craft.do
