@@ -206,7 +206,7 @@
 |:white_check_mark:黄油相机|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/hyxj.module)|相机类
 |:white_check_mark:Lingokids|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/lingokids.module)|幼儿学习类
 |:white_check_mark:百度文库|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/bdwk.module)|阅读权限解锁
-
+|:white_check_mark:Craft|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/craft.module)|文档类
 * 如无必要 请勿更新解锁app
 </details>
 
