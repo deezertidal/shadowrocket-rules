@@ -1,0 +1,11 @@
+#!name=Panda widget
+#!desc=Panda桌面小组件解锁
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/panda.png
+[Script]
+Panda widget=type=http-response,pattern=^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/pandavip.js
+
+
+[MITM]
+hostname = %APPEND% buy.itunes.apple.com

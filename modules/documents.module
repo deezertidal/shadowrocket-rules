@@ -1,0 +1,10 @@
+#!name=Documents
+#!desc=Documents解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/documents.png
+
+[Script]
+Documents=type=http-request,pattern=^https:\/\/license\.pdfexpert\.com\/api\/2\.0\/documents\/subscription\/refresh,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/documents.js
+[MITM] 
+hostname = %APPEND% license.pdfexpert.com
