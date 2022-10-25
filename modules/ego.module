@@ -1,0 +1,10 @@
+#!nane=Ego Reader
+#!desc=Ego Reader解锁会员
+#!homepage=https://github.com/deezertidal
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ego.png
+
+[Script]
+Ego Reader=type=http-response,pattern=^https?:\/\/api\.pxmage\.com\/egoreader\/user\/info,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/main/ego.js
+
+[MITM]
+hostname = %APPEND% api.pxmage.com
