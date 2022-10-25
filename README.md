@@ -263,7 +263,7 @@
 ### :point_down:打开小火箭 点击配置 点击右上角+号  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1a.png)  
 
-### :point_down:将[配置文件](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_lite.conf)的链接地址复制粘贴至输入框并点击下载  
+### :point_down:将[配置文件](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_basic.conf)的链接地址复制粘贴至输入框并点击下载  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/2.png)  
 
 ### :point_down:查看底部远程文件找到刚刚下载的链接地址——点击——使用配置。  
