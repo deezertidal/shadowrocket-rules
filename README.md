@@ -210,8 +210,8 @@
 |:white_check_mark:Panda小组件|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/panda.module)|桌面美化
 |:white_check_mark:Keep|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/keep.module)|健身类
 |:white_check_mark:Documents|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/documents.module)|文件管理
-  
-  
+|:white_check_mark:Planny|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/planny.module)|任务计划
+|:white_check_mark:Ego Reader|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ego.module)|RSS阅读器
   
 * 如无必要 请勿更新解锁app
 </details>
