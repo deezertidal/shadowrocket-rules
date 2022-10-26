@@ -1,0 +1,10 @@
+#!name=极速扫描仪
+#!desc=极速扫描仪解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/jssmy.png
+
+[Script]
+极速扫描仪=type=http-response,pattern=^https:\/\/scanner\.jianse\.tv\/api\/users\/loginUser,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/jssmy.js
+[MITM] 
+hostname = %APPEND% scanner.jianse.tv
