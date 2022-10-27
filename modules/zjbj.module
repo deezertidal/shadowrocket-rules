@@ -1,0 +1,10 @@
+#!name=指尖笔记
+#!desc=指尖笔记解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/zjbj.png
+
+[Script]
+指尖笔记=type=http-response,pattern=http:\/\/data\.ufbae\.com\/User\/GetUser,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/zjbj.js
+[MITM] 
+hostname = %APPEND% data.ufbae.com
