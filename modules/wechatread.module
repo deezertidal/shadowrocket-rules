@@ -5,7 +5,7 @@
 #!author=ddgksf2013
 
 [Script]
-微信自动阅读积分兑换 = type=http-response,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Script/wechat_auto_read.js,pattern=^https?://mp\.weixin\.qq\.com/s\?.*,max-size=131072,requires-body=true,timeout=10,enable=true
+微信自动阅读积分兑换 = type=http-response,script-path=https://github.com/deezertidal/private/raw/master/js-backup/Script/wechat_auto_read.js,pattern=^https?://mp\.weixin\.qq\.com/s\?.*,max-size=131072,requires-body=true,timeout=10,enable=true
 
 [MITM]
 hostname = %APPEND% mp.weixin.qq.com

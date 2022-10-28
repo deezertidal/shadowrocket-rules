@@ -5,7 +5,7 @@
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/vista.png
 
 [Script]
-Vista看天下=type=http-response,pattern=^https?:\/\/open3\.vistastory\.com\/v\d\/api\/(article\/article_detail|vip\/get_vip|my\/home\/get_home_center),require-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/ktx.js
+Vista看天下=type=http-response,pattern=^https?:\/\/open3\.vistastory\.com\/v\d\/api\/(article\/article_detail|vip\/get_vip|my\/home\/get_home_center),require-body=1,script-path=https://github.com/deezertidal/private/raw/master/js-backup/Crack/ktx.js
 
 [MITM]
 hostname = %APPEND% open3.vistastory.com

@@ -4,6 +4,6 @@
 #!author=ddgksf2013
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/b612.png
 [Script]
-B612咔叽=type=http-response,pattern=https://user-kaji-api.b612kaji.com/v1/purchase/subscription/subscriber/status,requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/612.js
+B612咔叽=type=http-response,pattern=https://user-kaji-api.b612kaji.com/v1/purchase/subscription/subscriber/status,requires-body=1,script-path=https://github.com/deezertidal/private/raw/master/js-backup/Crack/612.js
 [MITM]
 hostname = %APPEND% user-kaji-api.b612kaji.com

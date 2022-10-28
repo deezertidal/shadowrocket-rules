@@ -5,7 +5,7 @@
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/bdwk.png
 
 [Script]
-百度文库=type=http-response,pattern=^https:\/\/appwk\.baidu\.com\/naapi\/user\/getinfo,requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/baidulibrary.js
+百度文库=type=http-response,pattern=^https:\/\/appwk\.baidu\.com\/naapi\/user\/getinfo,requires-body=1,script-path=https://github.com/deezertidal/private/raw/master/js-backup/Crack/baidulibrary.js
 
 [MITM] 
 hostname = %APPEND% appwk.baidu.com

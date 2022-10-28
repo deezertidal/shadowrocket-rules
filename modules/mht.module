@@ -8,4 +8,4 @@
 hostname = %APPEND% comic.321mh.com
 
 [Script]
-漫画台小程序=type=http-response,pattern=^https?:\/\/comic\.321mh\.com\/app_api\/v\d\/getcomicinfo_body,requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/manhuatailite.js
+漫画台小程序=type=http-response,pattern=^https?:\/\/comic\.321mh\.com\/app_api\/v\d\/getcomicinfo_body,requires-body=1,script-path=https://github.com/deezertidal/private/raw/master/js-backup/Crack/manhuatailite.js

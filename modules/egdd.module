@@ -4,6 +4,6 @@
 #!author=ddgksf2013
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/egdd.png
 [Script]
-儿歌点点=type=http-response,pattern=http:\/\/gateway\.ergedd\.com\/dduser\/user\/center\/set,requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/egdd.js
+儿歌点点=type=http-response,pattern=http:\/\/gateway\.ergedd\.com\/dduser\/user\/center\/set,requires-body=1,script-path=https://github.com/deezertidal/private/raw/master/js-backup/Crack/egdd.js
 [MITM]
 hostname = %APPEND% gateway.ergedd.com

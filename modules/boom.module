@@ -1,6 +1,6 @@
 #!name=Boom
 #!desc=Boom
 [Script]
-Boom=type=http-response,pattern=^https:\/\/apimboom2\.globaldelight\.net\/itunesreceipt_v2\.php$,requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/boom.js
+Boom=type=http-response,pattern=^https:\/\/apimboom2\.globaldelight\.net\/itunesreceipt_v2\.php$,requires-body=1,script-path=https://github.com/deezertidal/private/raw/master/js-backup/Crack/boom.js
 [MITM]
 hostname= %APPEND% apimboom2.globaldelight.net

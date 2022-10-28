@@ -4,6 +4,6 @@
 #!author=ddgksf2013
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/hyperweb.png
 [Script]
-HyperWeb=type=http-response,pattern=^https://zy6kcqa01a.execute-api.us-east-2.amazonaws.com/prod/verifyReceipt,requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/hyperweb.js
+HyperWeb=type=http-response,pattern=^https://zy6kcqa01a.execute-api.us-east-2.amazonaws.com/prod/verifyReceipt,requires-body=1,script-path=https://github.com/deezertidal/private/raw/master/js-backup/Crack/hyperweb.js
 [MITM]
 hostname = %APPEND% zy6kcqa01a.execute-api.us-east-2.amazonaws.com
