@@ -1,7 +1,7 @@
 #!name=起伏
 #!desc=起伏
 [Script]
-起伏=type=http-response,pattern=https?:\/\/api\.risingfalling\.com\/api\/vip\/detail,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/qifu.js
+起伏=type=http-response,pattern=https?:\/\/api\.risingfalling\.com\/api\/vip\/detail,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/qifu.js
 [MITM]
 hostname= %APPEND% api.risingfalling.com
 

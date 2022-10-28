@@ -6,4 +6,4 @@
 [MITM]
 hostname = %APPEND% api.flexibits.com
 [Script]
-Fantastical=type=http-response,pattern=^https:\/\/api\.flexibits\.com\/(v1\/auth\/device|v1\/account\/details),requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/fantastical.js
+Fantastical=type=http-response,pattern=^https:\/\/api\.flexibits\.com\/(v1\/auth\/device|v1\/account\/details),requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/fantastical.js

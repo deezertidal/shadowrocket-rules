@@ -6,4 +6,4 @@
 [MITM]
 hostname = %APPEND% www.40sishi.com
 [Script]
-豌豆清单=type=http-response,pattern=^https:\/\/www\.40sishi\.com\/list\/user\/profile$,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/wdqd.js
+豌豆清单=type=http-response,pattern=^https:\/\/www\.40sishi\.com\/list\/user\/profile$,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/wdqd.js

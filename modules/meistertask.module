@@ -6,4 +6,4 @@
 [MITM]
 hostname = %APPEND% www.mindmeister.com
 [Script]
-MeisterTask=type=http-response,pattern=https://www.mindmeister.com/api/v2/licenses/meistertask,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/meistertask.js
+MeisterTask=type=http-response,pattern=https://www.mindmeister.com/api/v2/licenses/meistertask,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/meistertask.js

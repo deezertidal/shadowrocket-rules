@@ -6,4 +6,4 @@
 [MITM]
 hostname = %APPEND% app.yiyan.art
 [Script]
-一言=type=http-response,pattern=^https:\/\/app\.yiyan\.art\/yiyan\/,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/yiyan.js
+一言=type=http-response,pattern=^https:\/\/app\.yiyan\.art\/yiyan\/,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/yiyan.js

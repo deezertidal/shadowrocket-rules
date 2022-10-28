@@ -6,4 +6,4 @@
 [MITM]
 hostname= %APPEND% 106.54.2.168
 [Script]
-Emmo=type=http-response,pattern=^http://106.54.2.168/emmoDiary/user/getUser,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/emmo.js
+Emmo=type=http-response,pattern=^http://106.54.2.168/emmoDiary/user/getUser,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/emmo.js

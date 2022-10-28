@@ -1,6 +1,6 @@
 #!name=ellabook
 #!desc=ellabook
 [Script]
-ellabook=type=http-response,pattern=https?:\/\/bookapi\.ellabook\.cn\/rest\/api\/service$,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/elabook.js
+ellabook=type=http-response,pattern=https?:\/\/bookapi\.ellabook\.cn\/rest\/api\/service$,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/elabook.js
 [MITM]
 hostname= %APPEND% bookapi.ellabook.cn

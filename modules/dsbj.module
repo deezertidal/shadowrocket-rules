@@ -6,4 +6,4 @@
 [MITM]
 hostname = %APPEND% xrckeji.com
 [Script]
-读书笔记=type=http-response,pattern=https://xrckeji.com/union/app/user/query,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/mzjz.js
+读书笔记=type=http-response,pattern=https://xrckeji.com/union/app/user/query,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/mzjz.js

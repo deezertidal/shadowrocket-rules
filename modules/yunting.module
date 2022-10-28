@@ -6,4 +6,4 @@
 [MITM]
 hostname = %APPEND% getway.radio.cn
 [Script]
-云听=type=http-response,pattern=http://getway.radio.cn/app*,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/yt.js
+云听=type=http-response,pattern=http://getway.radio.cn/app*,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/yt.js

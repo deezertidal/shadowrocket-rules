@@ -6,4 +6,4 @@
 [MITM]
 hostname = %APPEND% xianbeikeji.com
 [Script]
-小习惯=type=http-response,pattern=https://xianbeikeji.com/daily/app/user/query,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/mzjz.js
+小习惯=type=http-response,pattern=https://xianbeikeji.com/daily/app/user/query,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/mzjz.js

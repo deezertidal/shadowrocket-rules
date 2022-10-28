@@ -4,6 +4,6 @@
 #!author=ddgksf2013
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/xcz.png
 [Script]
-西窗烛=type=http-response,pattern=https://lchttpapi.xczim.com/*,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/xcz.js
+西窗烛=type=http-response,pattern=https://lchttpapi.xczim.com/*,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/xcz.js
 [MITM]
 hostname = %APPEND% lchttpapi.xczim.com

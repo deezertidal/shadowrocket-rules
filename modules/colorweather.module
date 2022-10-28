@@ -6,4 +6,4 @@
 [MITM]
 hostname = %APPEND% biz.caiyunapp.com
 [Script]
-彩云天气SVIP=type=http-response,pattern=https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user),requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/caiyun.js
+彩云天气SVIP=type=http-response,pattern=https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user),requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/caiyun.js

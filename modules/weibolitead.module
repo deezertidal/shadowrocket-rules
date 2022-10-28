@@ -14,10 +14,10 @@
 ^https?:\/\/weibointl\.api\.weibo\.c(n|om)\/portal\.php.*ads - reject
 
 [Script]
-微博国际版_推荐tab|热门tab=type=http-response,pattern=^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/statuses\/unread_hot_timeline ,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/weibo_json.js
-微博国际版_关注tab去广告=type=http-response,pattern=^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/statuses\/friends_timeline ,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/weibo_json.js
-微博国际版_趋势tab=type=http-response,pattern=^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/cardlist ,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/weibo_json.js
-微博国际版_趋势tab去广告=type=http-response,pattern=^https?:\/\/weibointl\.api\.weibo\.c(n|om)\/portal\.php.*feed&a=trends ,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/weibo_json.js
+微博国际版_推荐tab|热门tab=type=http-response,pattern=^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/statuses\/unread_hot_timeline ,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Script/weibo_json.js
+微博国际版_关注tab去广告=type=http-response,pattern=^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/statuses\/friends_timeline ,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Script/weibo_json.js
+微博国际版_趋势tab=type=http-response,pattern=^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/cardlist ,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Script/weibo_json.js
+微博国际版_趋势tab去广告=type=http-response,pattern=^https?:\/\/weibointl\.api\.weibo\.c(n|om)\/portal\.php.*feed&a=trends ,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Script/weibo_json.js
 
 [MITM]
 hostname = %APPEND% *api.weibo*,sdkapp.uve.weibo.com

@@ -1,6 +1,6 @@
 #!name=布丁锁屏
 #!desc=布丁锁屏
 [Script]
-布丁锁屏=type=http-response,pattern=https?:\/\/screen-lock\.51wnl-cq\.com\/userApi\/saveUser,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/budingsuoping.js
+布丁锁屏=type=http-response,pattern=https?:\/\/screen-lock\.51wnl-cq\.com\/userApi\/saveUser,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/budingsuoping.js
 [MITM]
 hostname= %APPEND% screen-lock.51wnl-cq.com

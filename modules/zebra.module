@@ -6,4 +6,4 @@
 [MITM]
 hostname = %APPEND% zebra.maka.im
 [Script]
-斑马海报=type=http-response,pattern=https://zebra.maka.im/api/user/info,requires-body=1,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/bmhb.js
+斑马海报=type=http-response,pattern=https://zebra.maka.im/api/user/info,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/bmhb.js
