@@ -213,7 +213,7 @@
 |:white_check_mark:Planny|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/planny.module)|任务计划
 |:white_check_mark:Ego Reader|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ego.module)|RSS阅读器
 |:white_check_mark:极速扫描仪|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/jssmy.module)|扫描
-
+|:white_check_mark:指尖笔记|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/zjbj.module)|笔记
 
 
 
