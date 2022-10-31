@@ -1,0 +1,10 @@
+#!name=Agenda
+#!desc=Agenda解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=Alex0510
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/agenda.png
+
+[Script]
+Agenda=type=http-response,pattern=^https:\/\/accounts\.agenda\.com\/users\/.*\/license,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Agenda.js
+[MITM] 
+hostname = %APPEND% accounts.agenda.com
