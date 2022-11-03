@@ -22,18 +22,18 @@ bi+空格+关键词(Bing)
 */
 
 [URL Rewrite]
-^https:\/\/www\.google\.com\/search\?q=wk(\+|%20)([^&]+).+ 302 https://zh.wikipedia.org/wiki/$2
-^https:\/\/www\.google\.com\/search\?q=bd(\+|%20)([^&]+).+ 302 https://www.baidu.com/s?wd=$2
-^https:\/\/www\.google\.com\/search\?q=gh(\+|%20)([^&]+).+ 302 https://github.com/search?q=$2
-^https:\/\/www\.google\.com\/search\?q=gi(\+|%20)([^&]+).+ 302 https://www.google.com/search?&tbm=isch&q=$2
-^https:\/\/www\.google\.com\/search\?q=yd(\+|%20)([^&]+).+ 302 https://dict.youdao.com/search?q=$2
-^https:\/\/www\.google\.com\/search\?q=trc(\+|%20)([^&]+).+ 302 https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=$2
-^https:\/\/www\.google\.com\/search\?q=tre(\+|%20)([^&]+).+ 302 https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=$2
-^https:\/\/www\.google\.com\/search\?q=db(\+|%20)([^&]+).+ 302 https://www.douban.com/search?q=$2
-^https:\/\/www\.google\.com\/search\?q=zh(\+|%20)([^&]+).+ 302 https://www.zhihu.com/search?q=$2
-^https:\/\/www\.google\.com\/search\?q=wb(\+|%20)([^&]+).+ 302 https://s.weibo.com/weibo/$2
-^https:\/\/www\.google\.com\/search\?q=ddg(\+|%20)([^&]+).+ 302 https://duckduckgo.com/?ia=about&q=$2
-^https:\/\/www\.google\.com\/search\?q=bi(\+|%20)([^&]+).+ 302 http://www.bing.com/search?q=$2
+^https:\/\/www\.google\.com\/search\?q=wk(\+|%20)([^&]+).+ https://zh.wikipedia.org/wiki/$2 302
+^https:\/\/www\.google\.com\/search\?q=bd(\+|%20)([^&]+).+ https://www.baidu.com/s?wd=$2 302
+^https:\/\/www\.google\.com\/search\?q=gh(\+|%20)([^&]+).+ https://github.com/search?q=$2 302
+^https:\/\/www\.google\.com\/search\?q=gi(\+|%20)([^&]+).+ https://www.google.com/search?&tbm=isch&q=$2 302
+^https:\/\/www\.google\.com\/search\?q=yd(\+|%20)([^&]+).+ https://dict.youdao.com/search?q=$2 302
+^https:\/\/www\.google\.com\/search\?q=trc(\+|%20)([^&]+).+ https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=$2 302
+^https:\/\/www\.google\.com\/search\?q=tre(\+|%20)([^&]+).+ https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=$2 302
+^https:\/\/www\.google\.com\/search\?q=db(\+|%20)([^&]+).+ https://www.douban.com/search?q=$2 302
+^https:\/\/www\.google\.com\/search\?q=zh(\+|%20)([^&]+).+ https://www.zhihu.com/search?q=$2 302
+^https:\/\/www\.google\.com\/search\?q=wb(\+|%20)([^&]+).+ https://s.weibo.com/weibo/$2 302
+^https:\/\/www\.google\.com\/search\?q=ddg(\+|%20)([^&]+).+ https://duckduckgo.com/?ia=about&q=$2 302
+^https:\/\/www\.google\.com\/search\?q=bi(\+|%20)([^&]+).+ http://www.bing.com/search?q=$2 302
 
 [MITM]
 hostname = %APPEND% www.google.com
