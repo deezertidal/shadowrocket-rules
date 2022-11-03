@@ -18,6 +18,7 @@ db+空格+关键词(豆瓣)
 zh+空格+关键词(知乎)
 wb+空格+关键词(微博)
 ddg+空格+关键词(DuckDuckGo)
+bi+空格+关键词(Bing)
 */
 
 [URL Rewrite]
@@ -32,6 +33,7 @@ ddg+空格+关键词(DuckDuckGo)
 ^https:\/\/www\.google\.com\/search\?q=zh(\+|%20)([^&]+).+ 302 https://www.zhihu.com/search?q=$2
 ^https:\/\/www\.google\.com\/search\?q=wb(\+|%20)([^&]+).+ 302 https://s.weibo.com/weibo/$2
 ^https:\/\/www\.google\.com\/search\?q=ddg(\+|%20)([^&]+).+ 302 https://duckduckgo.com/?ia=about&q=$2
+^https:\/\/www\.google\.com\/search\?q=bi(\+|%20)([^&]+).+ 302 http://www.bing.com/search?q=$2
 
 [MITM]
 hostname = %APPEND% www.google.com
