@@ -4,22 +4,6 @@
 #!author=deezertidal
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/multisearch.png
 
-/*
-自用 请根据需求自行修改
-默认Google搜索
-wk+空格+关键词(维基百科)
-bd+空格+关键词(百度)
-gh+空格+关键词(GitHub)
-gi+空格+关键词(Google 图片)
-yd+空格+关键词(有道词典)
-trc+空格+关键词(Google 译至中)
-tre+空格+关键词(Google 译至英)
-db+空格+关键词(豆瓣)
-zh+空格+关键词(知乎)
-wb+空格+关键词(微博)
-ddg+空格+关键词(DuckDuckGo)
-bi+空格+关键词(Bing)
-*/
 
 [URL Rewrite]
 ^https:\/\/www\.google\.com\/search\?q=wk(\+|%20)([^&]+).+ https://zh.wikipedia.org/wiki/$2 302
