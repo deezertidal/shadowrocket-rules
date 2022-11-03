@@ -103,7 +103,7 @@
 |:white_check_mark:皮皮虾|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ppx.module)|皮皮虾去广告
 |:white_check_mark:起伏|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/qifu.module)|助眠app
 |:white_check_mark:七猫小说|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/qmxs.module)|七猫小说解锁
-|:white_check_mark:Qsearch|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/Qsearch.sgmodule)|多功能搜索，使用方法见模块说明
+|:white_check_mark:多重搜索|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/multisearch.module)|使用方法见模块说明
 |:white_check_mark:人人视频|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/rrsp.module)|人人视频/多多视频去广告
 |:white_check_mark:时光手账|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/sgsz.module)|笔记类
 |:white_check_mark:shadowlinkVPN|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/shadowlinkVPN.module)|解锁VIP节点
@@ -216,7 +216,6 @@
 |:white_check_mark:指尖笔记|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/zjbj.module)|笔记
 |:white_check_mark:钱迹|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/qj.module)|记账
 |:white_check_mark:Agenda|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/agenda.module)|笔记
-
 
 * 如无必要 请勿更新解锁app
 </details>
