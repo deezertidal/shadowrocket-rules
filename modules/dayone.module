@@ -1,0 +1,10 @@
+#!name=Day One
+#!desc=Day One解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/dayone.png
+
+[Script]
+Day One=type=http-response,pattern=https://dayone.app/api/v2/users/(receipt|account-status),requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/dayone.js
+[MITM] 
+hostname = %APPEND% dayone.app
