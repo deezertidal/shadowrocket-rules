@@ -1,0 +1,9 @@
+#!name=MoneyThings
+#!desc=MoneyThings解锁会员
+
+
+[Script]
+
+MoneyThings=type=http-response,pattern=^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/MoneyThings.js
+[MITM]
+hostname = %APPEND% api.revenuecat.com

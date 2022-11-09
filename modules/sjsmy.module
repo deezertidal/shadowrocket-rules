@@ -1,0 +1,10 @@
+#!name=手机扫描仪
+#!desc=手机扫描仪会员解锁
+#!homepage=https://github.com/deezertidal
+#!author=lutqhysky
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/sjsmy.png
+
+[Script]
+手机扫描仪= type=http-response,pattern=^https?:\/\/saomiao\.34354\.com\/api\/open\/member\/level$,requires-body=1,script-path= https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/yidondsaomianyi/Script/jdsmy.js
+[MITM]
+hostname= %APPEND% saomiao.34354.com
