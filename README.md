@@ -85,7 +85,6 @@
 |:white_check_mark:myplate|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/myplate.module)|健康类
 |:white_check_mark:netflix_rating|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/netflix_rating.sgmodule)|奈飞显示豆瓣评分
 |:white_check_mark:nicegram|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/nicegram.module)|nicegram会员解锁
-|:white_check_mark:nomocam|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/nomocam.module)|相机类
 |:white_check_mark:notability|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/notability.module)|笔记类
 |:white_check_mark:Now冥想|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/now.module)|助眠app
 |:white_check_mark:奶由壁纸|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/nybz.module)|桌面美化类
