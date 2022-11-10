@@ -219,7 +219,7 @@
 |:white_check_mark:Day One|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/dayone.module)|日记类
 |:white_check_mark:Usage|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/usage.module)|小组件
 |:white_check_mark:谜底时钟|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/mdsz.module)|日历小组件
-
+|:white_check_mark:MoneyThings|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/moneythings.module)|钱包类
 
 
 
