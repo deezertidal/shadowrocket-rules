@@ -5,7 +5,7 @@
 #!homepage=https://github.com/deezertidal
 
 [Script]
-Pandora订阅管理=type=http-response,pattern=^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt ,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Pandora.js
+Pandora订阅管理=type=http-response,pattern=^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Pandora.js
 
 [mitm]
 hostname= %APPEND% buy.itunes.apple.com
