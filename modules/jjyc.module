@@ -1,0 +1,11 @@
+#!name=尽简衣橱
+#!desc=尽简衣橱解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/jjyc.png
+
+[Script]
+尽简衣橱=type=http-response,pattern=^https:\/\/closet\.jinjian\.tech\/api\/v3\/apple_app_store\/resolve_receipt,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/jjyc.js
+
+[MITM] 
+hostname = %APPEND% closet.jinjian.tech
