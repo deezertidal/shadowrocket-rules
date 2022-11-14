@@ -222,6 +222,13 @@
 |:white_check_mark:MoneyThings|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/moneythings.module)|钱包类
 |:white_check_mark:手机扫描仪|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/sjsmy.module)|扫描
 |:white_check_mark:Sorted|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/sorted.module)|日历
+|:white_check_mark:尽简衣橱|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/jjyc.module)|衣橱管理
+
+
+
+
+
+
 
 * 如无必要 请勿更新解锁app
 </details>
