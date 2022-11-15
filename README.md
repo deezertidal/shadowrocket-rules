@@ -224,7 +224,7 @@
 |:white_check_mark:Sorted|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/sorted.module)|日历
 |:white_check_mark:尽简衣橱|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/jjyc.module)|衣橱管理
 |:white_check_mark:看理想|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/klx.module)|媒体类
-
+|:white_check_mark:目标地图|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/mbdt.module)|任务管理类
 
 
 
