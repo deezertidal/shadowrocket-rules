@@ -1,0 +1,8 @@
+#!name=PDF Viewer
+#!desc=PDF Viewer解锁会员
+#!homepage=https://github.com/deezertidal
+#!author= 89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/pdfviewer.png
+[MITM]
+hostname = 
+[Script]
