@@ -228,7 +228,8 @@
 |:white_check_mark:拼图酱|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ptj.module)|图片编辑
 |:white_check_mark:向日葵阅读|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/xrk.module)|阅读类
 |:white_check_mark:卡片日记|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/kprj.module)|日记类
-
+|:white_check_mark:莉景天气|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ljtq.module)|天气类
+|:white_check_mark:Motivation|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/motivation.module)|组件类
 
 * 如无必要 请勿更新解锁app
 </details>
