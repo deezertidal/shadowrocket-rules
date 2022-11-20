@@ -230,6 +230,11 @@
 |:white_check_mark:卡片日记|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/kprj.module)|日记类
 |:white_check_mark:莉景天气|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ljtq.module)|天气类
 |:white_check_mark:Motivation|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/motivation.module)|组件类
+|:white_check_mark:PDF Viewer|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/pdfviewer.module)|文档编辑
+|:white_check_mark:Percenton|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/percento.module)|账目管理
+|:white_check_mark:Pixelance|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/pixelance.module)|图片编辑
+
+
 
 * 如无必要 请勿更新解锁app
 </details>
