@@ -3,6 +3,6 @@
 [Script]
 彩云天气pro=type=http-response,pattern=https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user),requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/caiyun.js
 [MITM]
-hostname= %APPEND% biz.caiyunapp.com
+hostname= %APPEND% biz.caiyunapp.com,ad.caiyunapp.com
 [URL Rewrite]
 ^https:\/\/ad\.caiyunapp\.com\/ _ reject
