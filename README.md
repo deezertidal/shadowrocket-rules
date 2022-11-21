@@ -233,7 +233,8 @@
 |:white_check_mark:PDF Viewer|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/pdfviewer.module)|文档编辑
 |:white_check_mark:Percento|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/percento.module)|账目管理
 |:white_check_mark:Pixelance|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/pixelance.module)|图片编辑
-
+|:white_check_mark:Retake|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/retake.module)|照片修复
+|:white_check_mark:色采|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/sc.module)|图片编辑
 
 
 * 如无必要 请勿更新解锁app
