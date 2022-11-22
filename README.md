@@ -235,6 +235,10 @@
 |:white_check_mark:Pixelance|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/pixelance.module)|图片编辑
 |:white_check_mark:Retake|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/retake.module)|照片修复
 |:white_check_mark:色采|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/sc.module)|图片编辑
+|:white_check_mark:闪萌表情|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/smbq.module)|表情类
+|:white_check_mark:音频剪辑|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ypjj.module)|音频剪辑
+
+
 
 
 * 如无必要 请勿更新解锁app
