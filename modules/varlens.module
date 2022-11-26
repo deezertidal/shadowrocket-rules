@@ -1,0 +1,9 @@
+#!name=Varlens
+#!desc=Varlens解锁会员
+#!homepage=https://github.com/deezertidal
+#!author= I-am-R-E
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/varlens.png
+[MITM]
+hostname = %APPEND% mid.zineapi.com
+[Script]
+Varlens=type=http-response,pattern=^https:\/\/mid\.zineapi\.com\/@varlens\/api\/user\/info\/,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Varlens.js
