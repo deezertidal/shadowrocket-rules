@@ -237,7 +237,7 @@
 |:white_check_mark:色采|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/sc.module)|图片编辑
 |:white_check_mark:闪萌表情|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/smbq.module)|表情类
 |:white_check_mark:音频剪辑|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ypjj.module)|音频剪辑
-
+|:white_check_mark:Varlens|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/varlens.module)|相机类
 
 
 
