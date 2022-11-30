@@ -1,0 +1,15 @@
+#!name=7分钟HIIT运动
+#!desc=7分钟HIIT运动解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/seven.png
+
+[Script]
+7分钟HIIT运动=type=http-response,pattern=^https:\/\/api\.sevenworkouts\.com\/api\/v(\d)\/(verify-purchases|account/verify-purchases),requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Seven.js
+
+[URL Rewrite]
+^https:\/\/api\.sevenworkouts\.com\/api\/v1\/account\/subscription-purchases - reject
+^https:\/\/api\.sevenworkouts\.com\/api\/v1\/buyers\/ - reject
+
+[MITM] 
+hostname = %APPEND% api.sevenworkouts.com

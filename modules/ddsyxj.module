@@ -1,0 +1,10 @@
+#!name=叮叮水印相机
+#!desc=叮叮水印相机解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=Alex0510
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ddsyxj.png
+
+[Script]
+叮叮水印相机=type=http-response,pattern=https://zip.jinzitao.com/refreshuinfo,requires-body=1,script-path=https://raw.githubusercontent.com/Alex0510/Eric/master/surge/Script/ddCamera.js
+[MITM] 
+hostname = %APPEND% zip.jinzitao.com
