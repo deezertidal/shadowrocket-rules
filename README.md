@@ -239,6 +239,14 @@
 |:white_check_mark:音频剪辑|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ypjj.module)|音频剪辑
 |:white_check_mark:Varlens|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/varlens.module)|相机类
 |:white_check_mark:一木记账|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ymjz.module)|记账类
+|:white_check_mark:Drafts|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/drafts.module)|文档编辑类
+
+
+
+
+
+
+
 
 
 * 如无必要 请勿更新解锁app
