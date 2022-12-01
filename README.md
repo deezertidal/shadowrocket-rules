@@ -240,7 +240,7 @@
 |:white_check_mark:Varlens|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/varlens.module)|相机类
 |:white_check_mark:一木记账|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ymjz.module)|记账类
 |:white_check_mark:Drafts|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/drafts.module)|文档编辑类
-
+|:white_check_mark:叮叮水印相机|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ddsyxj.module)|相机类
 
 
 
