@@ -242,7 +242,7 @@
 |:white_check_mark:Drafts|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/drafts.module)|文档编辑类
 |:white_check_mark:叮叮水印相机|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ddsyxj.module)|相机类
 |:white_check_mark:Emote|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/emote.module)|表情类
-
+|:white_check_mark:灵敢足迹|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/lgzj.module)|旅行类
 
 
 
