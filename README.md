@@ -244,7 +244,7 @@
 |:white_check_mark:Emote|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/emote.module)|表情类
 |:white_check_mark:灵敢足迹|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/lgzj.module)|旅行类
 |:white_check_mark:7分钟HIIT运动|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/seven.module)|健康类
-
+|:white_check_mark:私密相册管家|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/smxcgj.module)|相册
 
 
 
