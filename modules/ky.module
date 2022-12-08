@@ -1,0 +1,11 @@
+#!name=咖映
+#!desc=咖映会员解锁
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ky.png
+
+[Script]
+咖映=type=http-response,pattern=^https:\/\/gw\.aoscdn\.com\/base\/vip\/client\/authorizations,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/yk.js
+
+[MITM] 
+hostname = %APPEND% gw.aoscdn.com
