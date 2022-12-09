@@ -249,7 +249,7 @@
 |:white_check_mark:TODO清单|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/todo.module)|计划任务类
 |:white_check_mark:淘票票评分|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/tpp.module)|支付宝内淘票票评分
 |:white_check_mark:天天豆|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ttd.module)|日记类
-
+|:white_check_mark:咖映|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ky.module)|直播类
 
 
 
