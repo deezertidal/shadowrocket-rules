@@ -250,7 +250,7 @@
 |:white_check_mark:淘票票评分|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/tpp.module)|支付宝内淘票票评分
 |:white_check_mark:天天豆|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ttd.module)|日记类
 |:white_check_mark:咖映|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ky.module)|直播类
-
+|:white_check_mark:VCUS|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/vcus.module)|视频编辑
 
 
 
