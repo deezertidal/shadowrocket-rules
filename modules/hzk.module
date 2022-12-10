@@ -1,0 +1,10 @@
+#!name=汇中考
+#!desc=汇中考解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/hzk.png
+
+[Script]
+汇中考=type=http-response,pattern=^http[s]?:\/\/www.zhongkao66.com,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/hzk.js
+[MITM] 
+hostname = %APPEND% www.zhongkao66.com

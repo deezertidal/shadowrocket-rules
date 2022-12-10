@@ -1,0 +1,10 @@
+#!name=幻休
+#!desc=幻休解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/hx.png
+
+[Script]
+幻休=type=http-response,pattern=^https:\/\/api\.shaolinzen\.com\/user\/v1\/info,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/HX.js
+[MITM] 
+hostname = %APPEND% api.shaolinzen.com

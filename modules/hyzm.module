@@ -1,0 +1,10 @@
+#!name=绘影字幕
+#!desc=绘影字幕解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/hyzm.png
+
+[Script]
+绘影字幕=type=http-response,pattern=^https:\/\/api\.bluepulse\.cn\/bluepulse-caption-server-front\/api\/v1\/\/user\/app-vip-info,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/hyzm.js
+[MITM] 
+hostname = %APPEND% api.bluepulse.cn
