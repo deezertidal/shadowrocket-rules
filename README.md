@@ -252,7 +252,7 @@
 |:white_check_mark:咖映|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ky.module)|直播类
 |:white_check_mark:VCUS|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/vcus.module)|视频编辑
 |:white_check_mark:傲软PDF编辑|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/arpdfbj.module)|PDF编辑
-
+|:white_check_mark:傲软投屏|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/artp.module)|投屏
 
 
 
