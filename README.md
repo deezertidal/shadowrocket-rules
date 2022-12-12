@@ -254,7 +254,7 @@
 |:white_check_mark:傲软PDF编辑|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/arpdfbj.module)|PDF编辑
 |:white_check_mark:傲软投屏|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/artp.module)|投屏
 |:white_check_mark:幻休|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/hx.module)|助眠APP
-
+|:white_check_mark:绘影字幕|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/hyzm.module)|字幕app
 
 
 
