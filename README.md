@@ -256,6 +256,15 @@
 |:white_check_mark:幻休|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/hx.module)|助眠APP
 |:white_check_mark:绘影字幕|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/hyzm.module)|字幕app
 |:white_check_mark:汇中考|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/hzk.module)|学习类
+|:white_check_mark:iScreen|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/iscreen.module)|桌面美化类
+
+
+
+
+
+
+
+
 
 
 * 如无必要 请勿更新解锁app
