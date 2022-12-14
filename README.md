@@ -271,18 +271,6 @@
 </details>
 
 
-<details>
-  <summary>:key:机场推荐</summary>   
-  
-|:octocat:机场推荐|:link:链接| :pushpin:套餐价格概况
-|--|--|--|
-|:white_check_mark:MagicSchool|[:link:官网](https://2220.it/register?aff=GNs68S4XWT)|9.9元/120G/月，19.9元/260G/月，本仓库专属八折优惠码shadycn(活动套餐除外)
-|:white_check_mark:EMO|[:link:官网](https://yyds.emovpn.top/#/register?code=7KLxhYOS)|0元300G/月，5元1000G/月
-|:white_check_mark:白月光|[:link:官网](https://www.bygcloud.com/#/register?code=DX4iT5B4)|IEPL专线。66元/140G/季，84元/230G/季（半年付95折码BYG05OFFHA，年付9折码BYG10OFFAN）
-* 推荐月付或季付
-
-</details>  
-
 
 <details>
   <summary>:key:Substore脚本</summary>  
@@ -447,4 +435,9 @@
 
  </details>
 
-![Image text](https://raw.githubusercontent.com/deezertidal/private/main/icons/sr.png)![Image text](https://raw.githubusercontent.com/deezertidal/freevpn/main/img/award.png)
+|:octocat:机场推荐|:link:链接| :pushpin:套餐价格概况
+|--|--|--|
+|:white_check_mark:MagicSchool|[:link:官网](https://2220.it/register?aff=GNs68S4XWT)|9.9元/120G/月，19.9元/260G/月，本仓库专属八折优惠码shadycn(活动套餐除外)
+|:white_check_mark:EMO|[:link:官网](https://yyds.emovpn.top/#/register?code=7KLxhYOS)|0元300G/月，5元1000G/月
+|:white_check_mark:白月光|[:link:官网](https://www.bygcloud.com/#/register?code=DX4iT5B4)|IEPL专线。66元/140G/季，84元/230G/季（半年付95折码BYG05OFFHA，年付9折码BYG10OFFAN）
+* 推荐月付或季付
