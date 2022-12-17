@@ -1,7 +1,5 @@
 # :rocket:小火箭配置文件及模块    
-#### 首先请添加机场订阅链接至小火箭，请自行注册购买  
-#### [公益机场分享](https://github.com/deezertidal/freevpn/blob/main/README.md)  
-****
+
   
 
 <details>
