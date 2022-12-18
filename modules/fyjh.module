@@ -1,0 +1,10 @@
+#!name=飞鱼计划
+#!desc=飞鱼计划解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/fyjh.png
+
+[Script]
+飞鱼计划=type=http-response,pattern=^https:\/\/getway-plan\.abuddz\.com\/api\/sync\/putNeedUpdateData,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/fyjh.js
+[MITM] 
+hostname = %APPEND% getway-plan.abuddz.com

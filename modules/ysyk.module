@@ -1,0 +1,10 @@
+#!name=一书一课
+#!desc=一书一课解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ysyk.png
+
+[Script]
+一书一课=type=http-response,pattern=^https:\/\/api\.chiyue365\.com,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ysyk.js
+[MITM] 
+hostname = %APPEND% api.chiyue365.com
