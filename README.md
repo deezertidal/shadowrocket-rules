@@ -258,7 +258,7 @@
 |:white_check_mark:小组件盒子|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/xzjhz.module)|桌面美化类
 |:white_check_mark:佐糖|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/zt.module)|图片处理
 |:white_check_mark:飞鱼计划|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/fyjh.module)|生活记录工具
-
+|:white_check_mark:过期啦|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/gql.module)|保质期提醒
 
 
 
