@@ -1,0 +1,11 @@
+#!name=可拍
+#!desc=可拍解锁会员
+#!homepage=https://github.com/deezertidal
+#!author= 89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/kepai.png
+
+[MITM]
+hostname = %APPEND% fxshot-api.afunapp.com
+
+[Script]
+可拍=type=http-response,pattern=http:\/\/fxshot-api\.afunapp\.com\/order_api\/apple_query,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/kp.js

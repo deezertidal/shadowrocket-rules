@@ -1,0 +1,10 @@
+#!name=格志日记
+#!desc=格志日记解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=yqc007
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/gzrj.png
+
+[Script]
+格志日记=type=http-response,pattern=^https?:\/\/diary-id\.sumi\.io\/api\/profile$,requires-body=1,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/GridDiary2ProCrack.js
+[MITM] 
+hostname = %APPEND% diary-id.sumi.io

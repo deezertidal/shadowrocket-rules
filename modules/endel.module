@@ -1,0 +1,10 @@
+#!name=Endel
+#!desc=Endel解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/endel.png
+
+[Script]
+Endel=type=http-response,pattern=^https:\/\/api-production\.endel\.io\/v4\/call,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Endel.js
+[MITM] 
+hostname = %APPEND% api-production.endel.io

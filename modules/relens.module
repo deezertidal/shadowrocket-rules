@@ -1,0 +1,11 @@
+#!name=Relens大光圈单反相机
+#!desc=Relens大光圈单反相机解锁会员
+#!homepage=https://github.com/deezertidal
+#!author= 89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/relens.png
+
+[MITM]
+hostname = %APPEND% buy.itunes.apple.com
+
+[Script]
+Relens大光圈单反相机=type=http-response,pattern=^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Relens.js

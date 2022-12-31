@@ -1,0 +1,10 @@
+#!name=电视家
+#!desc=电视家解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/dsj.png
+
+[Script]
+电视家=type=http-response,pattern=^http[s]?:\/\/123.56.125.184,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/dsj.js
+[MITM] 
+hostname = %APPEND% 123.56.125.184

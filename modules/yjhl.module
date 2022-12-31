@@ -1,0 +1,11 @@
+#!name=一键换脸
+#!desc=一键换脸解锁会员
+#!homepage=https://github.com/deezertidal
+#!author= 89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/yjhl.png
+
+[MITM]
+hostname = %APPEND% c-api.wjpaa.cn
+
+[Script]
+一键换脸=type=http-response,pattern=^https:\/\/c-api\.wjpaa\.cn\/capi\/wxRegisterLogin,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/yjhl.js
