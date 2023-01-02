@@ -261,7 +261,7 @@
 |:white_check_mark:过期啦|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/gql.module)|保质期提醒
 |:white_check_mark:乃糖小组件|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/nt.module)|桌面美化类
 |:white_check_mark:一书一课|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ysyk.module)|学习类
-
+|:white_check_mark:充电助手|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/cdzs.module)|电池助手
 
 
 
