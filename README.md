@@ -262,7 +262,7 @@
 |:white_check_mark:乃糖小组件|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/nt.module)|桌面美化类
 |:white_check_mark:一书一课|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ysyk.module)|学习类
 |:white_check_mark:充电助手|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/cdzs.module)|电池助手
-|:white_check_mark:电视家|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/cdzs.module)|视频媒体
+|:white_check_mark:电视家|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/dsj.module)|视频媒体
 
 
 * 如无必要 请勿更新解锁app
