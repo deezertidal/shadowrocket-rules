@@ -264,6 +264,17 @@
 |:white_check_mark:充电助手|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/cdzs.module)|电池助手
 |:white_check_mark:电视家|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/dsj.module)|视频媒体
 |:white_check_mark:Endel|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/endel.module)|助眠类
+|:white_check_mark:格至日记|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/gzrj.module)|日记类
+
+
+
+
+
+
+
+
+
+
 
 * 如无必要 请勿更新解锁app
 </details>
