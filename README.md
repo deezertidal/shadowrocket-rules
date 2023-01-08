@@ -303,6 +303,7 @@
 |:white_check_mark:微信双开.ipa|[:link:链接地址](https://github.com/zwf234/WeChat/releases/download/%E5%BE%AE%E4%BF%A1%E7%BE%8E%E5%8C%96/WeChatPro_8.0.27.ipa)|双开
 |:white_check_mark:APP降级工具|[:link:链接地址](https://initnil.com/DowngradeApp.txt)|降级工具
 |:white_check_mark:Tiktok.ipa|[:link:链接地址](https://drive.google.com/file/d/1XMbpcMiv2yYEw6ApYG8sCL9oGNbPpcJ5/view?usp=drivesdk)|内置换区功能
+|:white_check_mark:No homebar|[:link:链接地址](https://appdb.to/app/cydia/1900001061)|隐藏屏幕底部横条
 |:white_check_mark:其他.ipa|[:link:链接地址](https://appdb.to/search/?type=cydia)，[:link:链接地址](https://ipa.store)|
 
 </details>
