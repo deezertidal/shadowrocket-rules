@@ -5,6 +5,4 @@
 #!author=Alex0510
 
 [Script]
-有道云笔记=type=http-response,pattern=https://note.youdao.com/yws/(mapi/payment|api/self),requires-body=1 ,script-path=https://raw.githubusercontent.com/demo2099/jscool/master/Script/ydybj.js
-[MITM]
-hostname = %APPEND% note.youdao.com
+有道云笔记=type=http-response,pattern=https://note.youdao.com/yws/(mapi/payment|api/self),requires-body=1 ,script-path=https://raw.githubusercontent.com/Alex0510/Eric/master/surge/Script/ydybj.js
