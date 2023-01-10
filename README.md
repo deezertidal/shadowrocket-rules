@@ -267,7 +267,7 @@
 |:white_check_mark:格至日记|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/gzrj.module)|日记类
 |:white_check_mark:高德地图去广告|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/gddt.module)|地图
 |:white_check_mark:好事发生|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/hsfs.module)|日记类
-
+|:white_check_mark:简讯|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/jianxun.module)|阅读类
 
 
 
