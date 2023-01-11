@@ -229,10 +229,6 @@ https://jdread-api.jd.com/jdread/api/popup reject
 
 # > kfc
 ^https?:\/\/res.kfc.com.cn\/advertisement\/ reject
-# > kuwo
-^https?:\/\/rich\.kuwo\.cn\/AdService\/kaiping\/.+ reject
-^https?:\/\/.+\.kwcdn\.kuwo\.cn\/star\/upload\/.+ reject
-^https?:\/\/mobilead\.kuwo\.cn\/EcomResourceServer\/adBubble\/.+ reject
 # > kuaikan
 ^https?:\/\/api.kkmh.com\/v\d\/(ad|advertisement)\/ reject
 # > ku'an
