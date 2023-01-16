@@ -270,7 +270,7 @@
 |:white_check_mark:简讯|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/jianxun.module)|阅读类
 |:white_check_mark:可拍|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/kepai.module)|视频编辑
 |:white_check_mark:Lifeviewer|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/lifeviewer.module)|视频编辑
-
+|:white_check_mark:Relens|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/relens.module)|相机类
 
 
 
