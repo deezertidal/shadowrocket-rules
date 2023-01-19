@@ -272,7 +272,7 @@
 |:white_check_mark:Lifeviewer|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/lifeviewer.module)|视频编辑
 |:white_check_mark:Relens|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/relens.module)|相机类
 |:white_check_mark:Vivacut|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/vivacut.module)|视频编辑
-
+|:white_check_mark:Watchout|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/watchout.module)|桌面美化
 
 
 
