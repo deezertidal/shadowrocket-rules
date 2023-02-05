@@ -1,0 +1,8 @@
+#!name=生活指数
+#!desc=生活指数提醒
+#!author=deezertidal
+#!icon= https://raw.githubusercontent.com/deezertidal/private/main/icons/lifeindex.png
+#!openUrl=https://github.com/deezertidal/private
+
+[Script]
+生活指数 = type=cron,script-path=https://raw.githubusercontent.com/deezertidal/private/main/lifeindex.js,cronexpr="7 7 7 ? * *",timeout=10,script-update-interval=0,enable=true
