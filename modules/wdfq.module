@@ -1,0 +1,14 @@
+#!name=我的番茄
+#!desc=我的番茄解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/wdfq.png
+
+
+
+[Script]
+我的番茄=type=http-response,pattern=https://api.revenuecat.com/v1/(receipts|subscribers)/*,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wdfq.js
+
+
+[MITM] 
+hostname = %APPEND% api.revenuecat.com
