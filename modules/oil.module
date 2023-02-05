@@ -1,0 +1,7 @@
+#!name=油价提醒
+#!desc=江苏油价（自行申请apikey更改省份）
+#!author=deezertidal
+#!icon= https://raw.githubusercontent.com/deezertidal/private/main/icons/lifeindex.png
+#!openUrl=https://github.com/deezertidal/private
+[Script]
+江苏油价提醒 = type=cron,script-path=https://raw.githubusercontent.com/deezertidal/private/main/oil.js,cronexpr="9 9 9 * * ?",timeout=10,script-update-interval=0,enable=true
