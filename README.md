@@ -280,7 +280,7 @@
 |:white_check_mark:生活指数定时提醒|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/lifeindex.module)|生活提醒
 |:white_check_mark:油价提醒|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/oil.module)|油价提醒
 |:white_check_mark:海报工厂|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/hbgc.module)|图片编辑
-
+|:white_check_mark:我的番茄|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/wdfq.module)|时间管理
 
 * 如无必要 请勿更新解锁app
 </details>
