@@ -1,0 +1,20 @@
+#!name=日杂相机
+#!desc=日杂相机解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/rzxj.png
+
+
+
+
+[Script]
+日杂相机=type=http-response,pattern=^https:\/\/rzres86api\.imendon\.com\/v2\/purchase\/vip\/verification,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/rzxj.js
+
+[URL Rewrite]
+^https:\/\/rzres86api\.imendon\.com\/v2\/advert\/homelist _ reject
+^https:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/stats\/batch\/?aid=5000546&version_code=4\.8\.0\.8&device_platform=iphone _ reject
+
+
+
+[MITM] 
+hostname = %APPEND% rzres86api.imendon.com,rzres86api.imendon.com,api-access.pangolin-sdk-toutiao.com
