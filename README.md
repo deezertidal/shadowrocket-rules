@@ -282,7 +282,7 @@
 |:white_check_mark:海报工厂|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/hbgc.module)|图片编辑
 |:white_check_mark:我的番茄|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/wdfq.module)|时间管理
 |:white_check_mark:FoMz|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/fomz.module)|相机类
-
+|:white_check_mark:日杂相机|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/rzxj.module)|相机类
 
 
 
