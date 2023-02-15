@@ -1,0 +1,15 @@
+#!name=Mondly
+#!desc=Mondly解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/mondly.png
+
+
+
+[Script]
+Mondly=type=http-response,pattern=^https:\/\/api\.mondlylanguages\.com\/v3\/ios\/user\/sync,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Mondly.js
+
+
+
+[MITM] 
+hostname = %APPEND% api.mondlylanguages.com
