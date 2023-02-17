@@ -283,7 +283,7 @@
 |:white_check_mark:我的番茄|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/wdfq.module)|时间管理
 |:white_check_mark:FoMz|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/fomz.module)|相机类
 |:white_check_mark:日杂相机|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/rzxj.module)|相机类
-
+|:white_check_mark:古诗词大全|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/gscdq.module)|学习类
 
 
 
