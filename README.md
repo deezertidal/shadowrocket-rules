@@ -321,6 +321,7 @@
 |:white_check_mark:Appstore++|[:link:链接地址](https://ipa.store/2886.html)|降级工具
 |:white_check_mark:Tiktok.ipa|[:link:链接地址](https://drive.google.com/file/d/1XMbpcMiv2yYEw6ApYG8sCL9oGNbPpcJ5/view?usp=drivesdk)|内置换区功能
 |:white_check_mark:No homebar|[:link:链接地址](https://appdb.to/app/cydia/1900001061)|隐藏屏幕底部横条
+|:white_check_mark:Trollspeed.ipa|[:link:链接地址](https://drive.google.com/file/d/17HIcHpiclJnFi_pAVpc71rTsDAL3JKCn/view)|显示网速
 |:white_check_mark:其他.ipa|[:link:链接地址](https://appdb.to/search/?type=cydia)，[:link:链接地址](https://ipa.store)|
 
 </details>
