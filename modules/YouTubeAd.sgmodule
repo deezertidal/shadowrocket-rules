@@ -1,17 +1,15 @@
-#!name=Block YouTube Advertising
-#!desc=仅用于视频广告（by 神机规则）
-
-[Rule]
-AND,((PROTOCOL,UDP),(DEST-PORT,443)),REJECT-NO-DROP
+#!name = YouTube去广告
+#!desc =支持pip，后台播放
+#!author = Maasea 
+#!homepage = https://github.com/deezertidal
+#!icon = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
 
 [URL Rewrite]
-(^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+?)&ctier=L(&.+?),ctier,(.+) $1$2$3 header
-^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?)).+&oad - reject
+^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad _ REJECT-IMG
 
-^https?:\/\/youtubei\.googleapis\.com\/youtubei\/v\d\/player\/ad_break - reject
-^https?:\/\/(www|s)\.youtube\.com\/api\/stats\/ads - reject
-^https?:\/\/(www|s)\.youtube\.com\/(pagead|ptracking) - reject
-^https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adcontext - reject
+[Script]
+youtube = type=http-response,script-path= https://raw.githubusercontent.com/Maasea/sgmodule/master/Script/Youtube/youtube.js,pattern=^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting)\?,max-size=131072,requires-body=true,binary-mode=true,timeout=10,script-update-interval=0,enable=true
+
 
 [MITM]
-hostname = %APPEND% -redirector*.googlevideo.com,*.googlevideo.com,www.youtube.com,s.youtube.com,youtubei.googleapis.com
+hostname = %APPEND% *.googlevideo.com, youtubei.googleapis.com
