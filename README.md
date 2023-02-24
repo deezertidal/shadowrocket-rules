@@ -286,7 +286,7 @@
 |:white_check_mark:古诗词大全|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/gscdq.module)|学习类
 |:white_check_mark:Mondly|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/mondly.module)|外语学习类
 |:white_check_mark:猫头鹰文件|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/mtywj.module)|文件管理
-
+|:white_check_mark:YouTube去广告|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/YouTubeAd.sgmodule)|画中画，后台播放
 
 
 
