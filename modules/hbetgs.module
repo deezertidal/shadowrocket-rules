@@ -1,0 +1,15 @@
+#!name=汉堡儿童故事
+#!desc=汉堡儿童故事解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/hbetgs.png
+
+
+
+[Script]
+汉堡儿童故事=type=http-response,pattern=^http[s]?:\/\/www.babybooks.top\/v0\/profile,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/hbetgs.js
+
+
+[MITM] 
+
+hostname = %APPEND% www.babybooks.top

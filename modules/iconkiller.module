@@ -1,0 +1,16 @@
+#!name=icon Killer
+#!desc=icon Killer解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/iconkiller.png
+
+
+
+
+[Script]
+icon Killer=type=http-response,pattern=^http[s]?:\/\/api.yonekura.cn\/3.6.8\/uicommon\/getuser,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/lcon.js
+
+
+[MITM] 
+
+hostname = %APPEND% api.yonekura.cn

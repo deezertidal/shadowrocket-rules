@@ -1,0 +1,16 @@
+#!name=字体册
+#!desc=字体册解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ztc.png
+
+
+
+
+[Script]
+字体册=type=http-response,pattern=^https:\/\/api\.yonekura\.cn\/3\.7\.0\/uicommon\/getuser,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ztc.js
+
+
+[MITM] 
+
+hostname = %APPEND% api.yonekura.cn

@@ -1,0 +1,16 @@
+#!name=一寸证件照
+#!desc=一寸证件照解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/yczjz.png
+
+
+
+
+[Script]
+一寸证件照=type=http-response,pattern=^http[s]?:\/\/idp2api.netpock.com\/api\/user_info,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/yczjz.js
+
+
+
+[MITM] 
+hostname = %APPEND% idp2api.netpock.com
