@@ -288,7 +288,7 @@
 |:white_check_mark:猫头鹰文件|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/mtywj.module)|文件管理
 |:white_check_mark:YouTube去广告|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/YouTubeAd.sgmodule)|画中画，后台播放
 |:white_check_mark:汉堡儿童故事|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/hbetgs.sgmodule)|早教类
-
+|:white_check_mark:iconKiller|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/iconkiller.sgmodule)|更改ios图标
 
 
 
