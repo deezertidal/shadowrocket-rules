@@ -289,7 +289,7 @@
 |:white_check_mark:YouTube去广告|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/YouTubeAd.sgmodule)|画中画，后台播放
 |:white_check_mark:汉堡儿童故事|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/hbetgs.sgmodule)|早教类
 |:white_check_mark:iconKiller|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/iconkiller.sgmodule)|更改ios图标
-
+|:white_check_mark:一寸证件照|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/yczjz.sgmodule)|证件照
 
 
 
