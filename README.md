@@ -290,6 +290,9 @@
 |:white_check_mark:汉堡儿童故事|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/hbetgs.module)|早教类
 |:white_check_mark:iconKiller|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/iconkiller.module)|更改ios图标
 |:white_check_mark:一寸证件照|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/yczjz.module)|证件照
+|:white_check_mark:中华诗词库|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/zhsck.module)|学习类
+
+
 
 
 
