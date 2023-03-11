@@ -1,0 +1,14 @@
+#!name=AdGuard
+#!desc=AdGuard 美区 解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=yqc007
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/adguard.png
+
+
+[Script]
+AdGuard=type=http-response,pattern=^https?:\/\/mobile-api\.adguard\.org\/api\/.+\/ios_validate_receipt,requires-body=1,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/AdGuardProCrack.js
+
+
+
+[MITM] 
+hostname = %APPEND% mobile-api.adguard.org
