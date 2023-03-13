@@ -293,7 +293,7 @@
 |:white_check_mark:中华诗词库|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/zhsck.module)|学习类
 |:white_check_mark:字体册|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ztc.module)|系统美化
 |:white_check_mark:配音|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/peiyin.module)|配音app
-
+|:white_check_mark:AdGuard|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/adguard.module)|去广告app
 
 
 * 如无必要 请勿更新解锁app
