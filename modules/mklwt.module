@@ -5,6 +5,6 @@
 #!author=CheeryTodo
 
 [Script]
-马卡龙玩图=type=http-response,pattern=https://app.api.versa-ai.com/pay/order/iap/check,requires-body=1 ,script-path=https://raw.githubusercontent.com/demo2099/jscool/master/Script/mkl.js
+马卡龙玩图=type=http-response,pattern=https://app.api.versa-ai.com/pay/order/iap/check,requires-body=1 ,script-path=https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/js/mklwt.js
 [MITM]
 hostname = %APPEND% app.api.versa-ai.com

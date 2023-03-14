@@ -5,7 +5,7 @@
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/klx.png
 
 [Script]
-看理想=type=http-response,pattern=^https:\/\/api\.vistopia\.com\.cn\/api,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/kanlixiang.js
+看理想=type=http-response,pattern=^https:\/\/api\.vistopia\.com\.cn\/api,requires-body=1,script-path=https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/js/klx.js
 
 [MITM] 
 hostname = %APPEND% api.vistopia.com.cn

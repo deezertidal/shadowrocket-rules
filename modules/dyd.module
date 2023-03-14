@@ -5,6 +5,6 @@
 #!author=MiaoMiao
 
 [Script]
-第一弹去广告+原画=type=http-response,pattern=^https:\/\/api\.diyidan\.net\/v0\.3\/(user\/personal_homepage|vip_user\/info|tv_series\/index\?appChanne),requires-body=1 ,script-path=https://raw.githubusercontent.com/demo2099/jscool/master/Script/Diyidan.js
+第一弹去广告+原画=type=http-response,pattern=^https:\/\/api\.diyidan\.net\/v0\.3\/(user\/personal_homepage|vip_user\/info|tv_series\/index\?appChanne),requires-body=1 ,script-path=https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/js/dyd.js
 [MITM]
 hostname = %APPEND% api.diyidan.net

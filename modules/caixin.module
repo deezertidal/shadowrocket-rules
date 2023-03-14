@@ -1,7 +1,7 @@
 #!name=财新会员
 #!desc=财新会员
 [Script]
-财新会员=type=http-request,pattern=^https?:\/\/gateway\.caixin\.com\/api\/app\-api\/auth\/(validate|validateAudioAuth),requires-body=0,script-path=https://github.com/deezertidal/private/raw/master/js-backup/Crack/caixin.js
+财新会员=type=http-request,pattern=^https?:\/\/gateway\.caixin\.com\/api\/app\-api\/auth\/(validate|validateAudioAuth),requires-body=0,script-path=https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/js/caixin.js
 [MITM]
 hostname= %APPEND% gateway.caixin.com
 
