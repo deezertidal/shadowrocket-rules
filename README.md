@@ -41,7 +41,6 @@
 |:white_check_mark:dailyyoga|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/dailyyoga.module)|每日瑜伽
 |:white_check_mark:大蓝鲸|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/dalanjing.module)|视听互动
 |:white_check_mark:darkroom|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/darkroom.module)|照片编辑
-|❌豆瓣|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/douban.sgmodule)|豆瓣网页播放按钮
 |:white_check_mark:读书笔记|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/dsbj.module)|笔记类
 |:white_check_mark:第一弹|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/dyd.module)|二次元游戏综合社区
 |:white_check_mark:儿哥点点|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/egdd.module)|幼儿类
