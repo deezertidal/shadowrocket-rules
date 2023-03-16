@@ -1,0 +1,15 @@
+#!name=AI Remove Background-Collart
+#!desc=AI Remove Background解锁会员
+#!homepage=https://github.com/deezertidal
+#!author=yqc007
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/arbc.png
+
+
+[Script]
+AI Remove Background-Collart=type=http-response,pattern=^https:\/\/iap\.etm\.tech\/receipts,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Photo.js
+
+
+
+
+[MITM] 
+hostname = %APPEND% iap.etm.tech
