@@ -114,7 +114,6 @@
 |:white_check_mark:tangerine|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/tangerine.module)|银行类
 |:white_check_mark:tenpercent|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/tenpercent.module)|健康类
 |:white_check_mark:迅雷|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/thunder.module)|迅雷会员
-|❌TidalPlus|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/TidalPlus.sgmodule)|失效
 |:white_check_mark:tok cam|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/tokcam.module)|相机类
 |:white_check_mark:图图记账|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/tutu.module)|账目类
 |:white_check_mark:vista看天下|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/vista.module)|vista看天下会员
