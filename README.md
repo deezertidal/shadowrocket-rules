@@ -167,7 +167,6 @@
 |:white_check_mark:微信阅读积分兑换|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/wechatread.module)|请查阅脚本内教程
 |:white_check_mark:来音智能陪练|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ly.module)|音乐训练
 |:white_check_mark:熊掌记|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/xzj.module)|笔记类
-|❌Notboring|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/notboring.module)|解锁天气 闹钟 习惯
 |:white_check_mark:如期|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/rq.module)|扫码
 |:white_check_mark:CEO周课|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ceo.module)|CEO周课
 |:white_check_mark:Fileball|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/fileball.module)|文件管理
