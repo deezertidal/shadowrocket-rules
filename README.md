@@ -293,6 +293,9 @@
 |:white_check_mark:AdGuard|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/adguard.module)|去广告app
 
 
+
+
+
 * 如无必要 请勿更新解锁app
 </details>
 
