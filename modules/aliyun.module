@@ -1,0 +1,16 @@
+#!name=阿里云盘签到
+#!desc=阿里云盘定时签到
+#!homepage=https://github.com/deezertidal
+#!author=lowking
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/aliyun.png
+
+[Script]
+阿里云盘签到=type=cron,cronexp="0 10 0 * * ?",wake-system=1,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js
+
+
+#cookie获取成功后请禁用
+阿里云盘签到cookie=type=http-response,pattern=https:\/\/auth.aliyundrive.com\/v2\/account\/token,requires-body=1,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js
+
+
+[MITM] 
+hostname= %APPEND% auth.aliyundrive.com
