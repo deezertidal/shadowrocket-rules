@@ -291,7 +291,7 @@
 |:white_check_mark:字体册|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ztc.module)|系统美化
 |:white_check_mark:配音|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/peiyin.module)|配音app
 |:white_check_mark:AdGuard|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/adguard.module)|去广告app
-
+|:white_check_mark:阿里云盘签到|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/aliyun.module)|阿里云盘签到
 
 
 
