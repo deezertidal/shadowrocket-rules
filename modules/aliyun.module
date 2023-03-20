@@ -9,7 +9,7 @@
 
 
 #cookie获取成功后请禁用
-阿里云盘签到cookie=type=http-response,pattern=https:\/\/auth.aliyundrive.com\/v2\/account\/token,requires-body=1,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js
+# 阿里云盘签到cookie=type=http-response,pattern=https:\/\/auth.aliyundrive.com\/v2\/account\/token,requires-body=1,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js
 
 
 [MITM] 
