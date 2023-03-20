@@ -138,7 +138,6 @@
 |:white_check_mark:亦飞GIF|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/yifeigif.module)|照片编辑
 |:white_check_mark:一甜相机|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/yitian.module)|一甜相机解锁
 |:white_check_mark:一言|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/yiyan.module)|一言解锁
-|:white_check_mark:youtube去广告|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/YouTubeAd.sgmodule)|不适合最新版
 |:white_check_mark:云听|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/yunting.module)|云听解锁
 |:white_check_mark:语文趣配音|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ywqpy.module)|配音类
 |:white_check_mark:斑马海报|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/zebra.module)|设计类
