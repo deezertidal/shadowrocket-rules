@@ -1,6 +1,8 @@
-#!name=酷我音乐解锁
-#!desc=解锁酷我音乐数字专辑
-#!author=king
+#!name=酷我音乐会员
+#!desc=听书+下载+解锁数字专辑
+#!homepage=https://github.com/deezertidal
+#!author=nameking77
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/kuwosvip.png
 [Script]
 酷我音乐完美解锁=type=http-response,pattern=^https?:\/\/.*\.(kuwo|lrts)\.(cn|me)\/(a\.p|music\.pay|(vip\/(v2|enc)\/(theme|user\/vip))|(EcomResource|(Mobile)?Ad)Serv(er|ice)).*,requires-body=1,script-path=https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kw.js 
 
