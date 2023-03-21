@@ -192,7 +192,7 @@
 |:white_check_mark:MEMRISE|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/memrise.module)|外语学习
 |:white_check_mark:堆糖|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/duitang.module)|桌面美化
 |:white_check_mark:Flomo|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/flomo.module)|笔记类
-|:white_check_mark:APTV|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/aptv.module)|文件存储
+|:white_check_mark:APTV|[:link:链接地址](shadowrocket://install?module=https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/aptv.module)|文件存储
 |:white_check_mark:香哈菜谱大全|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/cp.module)|菜谱
 |:white_check_mark:长相思|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/cxs.module)|学习类
 |:white_check_mark:电子请柬制作|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/dzqj.module)|设计类
