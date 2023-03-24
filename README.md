@@ -318,7 +318,7 @@
 |:octocat:签名工具|:link:链接|:pushpin:操作说明|
 |--|--|--|
 |:white_check_mark:TrollStore 永久签名|[:link:教程](https://github.com/deezertidal/shadowrocket-rules/blob/main/TrollStore.MD)|支持iOS14.0-15.4.1
-|:white_check_mark:Youtube.ipa|[:link:链接地址](https://github.com/qnblackcat/uYouPlus/releases/download/v18.01.6-2.3.1/uYouPlus_18.01.6_2.3.1.ipa)|去广告 后台播放音乐 画中画
+|:white_check_mark:Youtube.ipa|[:link:链接地址](https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa)|去广告 后台播放音乐 画中画
 |:white_check_mark:微信双开.ipa|[:link:链接地址](https://github.com/zwf234/WeChat/releases)|双开
 |:white_check_mark:Appstore++|[:link:链接地址](https://ipa.store/2886.html)|降级工具
 |:white_check_mark:Tiktok.ipa|[:link:链接地址](https://drive.google.com/file/d/1XMbpcMiv2yYEw6ApYG8sCL9oGNbPpcJ5/view?usp=drivesdk)|内置换区功能
