@@ -1,7 +1,8 @@
-# [task_local]
-# 0 0 8 ? * * https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/js/oil.js, enabled=true
+/*
+[task_local]
+0 0 8 ? * * https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/js/oil.js, enabled=true
 const apiurl = "https://apis.tianapi.com/oilprice/index?key=d718b0f7c2b6d71cb3a9814e90bf847f&prov=%E6%B1%9F%E8%8B%8F";
-
+*/
 $task.fetch({ url: apiurl }).then(response => {
     var obj = JSON.parse(response.body);
     var prov = obj.result.prov;

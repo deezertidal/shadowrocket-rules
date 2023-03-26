@@ -1,6 +1,7 @@
-# [task_local]
-# 0 0 7 ? * * https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/js/lifeindex.js, enabled=true
-
+/*
+[task_local]
+0 0 7 ? * * https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/js/lifeindex.js, enabled=true
+*/
 const apiurl = "https://www.tianqiapi.com/life/lifepro?appid=79171417&appsecret=LP9yfUKd"  //自行申请apikey,个人apikey请勿滥用
 
 $task.fetch({ url: apiurl }).then(response => {
