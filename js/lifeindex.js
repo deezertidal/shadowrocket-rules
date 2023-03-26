@@ -1,6 +1,6 @@
 /*
 [task_local]
-0 0 7 ? * * https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/js/lifeindex.js, enabled=true
+0 0 7 ? * * https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/js/lifeindex.js, tag=生活指数, enabled=true
 */
 const apiurl = "https://www.tianqiapi.com/life/lifepro?appid=79171417&appsecret=LP9yfUKd"  //自行申请apikey,个人apikey请勿滥用
 
