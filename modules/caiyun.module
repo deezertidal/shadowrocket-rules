@@ -3,6 +3,6 @@
 [Script]
 彩云天气pro=type=http-response,pattern=^http[s]?:\/\/biz\.(caiyunapp|cyapi)\.(com|cn)\/v2\/user.*$,requires-body=1,script-path=https://raw.githubusercontent.com/WeiRen0/Scripts/main/cytq.js
 [MITM]
-hostname= %APPEND% *.caiyunapp.*,*cyapi*
+hostname= %APPEND% *.caiyunapp.com,*.cyapi.com,*.cyapi.cn ,*.caiyunapp.cn
 [URL Rewrite]
 ^https:\/\/ad\.caiyunapp\.com\/ _ reject
