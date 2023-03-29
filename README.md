@@ -7,7 +7,7 @@
    
 * #### :bell::bell::bell:小火箭模块建议搭配[基础配置文件](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_basic.conf)使用，避免冗余  
 * #### ！！！若某个模块时而生效时而失效，请检查其他模块的主机名前是否添加了%APPEND%，没有添加会导致导致其他模块失效。本仓库模块均添加了%APPEND%
-* #### surge用户也可直接使用小火箭模块
+
 
 
   
@@ -298,40 +298,10 @@
 * 如无必要 请勿更新解锁app
 </details>
 
-
-
-<details>
-  <summary>:key:Substore脚本</summary>  
-  
-|:octocat:Sub-Store脚本|:link:链接|:pushpin:操作说明|
-|--|--|--|
-|:white_check_mark:脚本操作：重命名|[:link:链接地址](https://raw.githubusercontent.com/qwerzl/rename.js/main/rename.js#input=zh&output=zh&airport=你需要的机场名)|SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改自己的机场名）
-|:white_check_mark:脚本过滤：筛选80 443端口|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/port-filter.js)|SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接
-|:white_check_mark:脚本过滤：筛选80,443，vmess,ws节点(免流节点)|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/nodes-filter.js)|SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接
-|:white_check_mark:脚本操作：修改host混淆|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/vmess-host.js)|SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改参数）
-</details>
-
-
-<details>
-  <summary>:key:永久签名工具及IPA</summary>  
-  
-|:octocat:签名工具|:link:链接|:pushpin:操作说明|
-|--|--|--|
-|:white_check_mark:TrollStore 永久签名|[:link:教程](https://github.com/deezertidal/shadowrocket-rules/blob/main/TrollStore.MD)|支持iOS14.0-15.4.1
-|:white_check_mark:Youtube.ipa|[:link:链接地址](https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa)|去广告 后台播放音乐 画中画
-|:white_check_mark:微信双开.ipa|[:link:链接地址](https://github.com/zwf234/WeChat/releases)|双开
-|:white_check_mark:Appstore++|[:link:链接地址](https://ipa.store/2886.html)|降级工具
-|:white_check_mark:Tiktok.ipa|[:link:链接地址](https://drive.google.com/file/d/1XMbpcMiv2yYEw6ApYG8sCL9oGNbPpcJ5/view?usp=drivesdk)|内置换区功能
-|:white_check_mark:No homebar|[:link:链接地址](https://appdb.to/app/cydia/1900001061)|隐藏屏幕底部横条
-|:white_check_mark:Trollspeed.ipa|[:link:链接地址](https://drive.google.com/file/d/17HIcHpiclJnFi_pAVpc71rTsDAL3JKCn/view)|显示网速
-|:white_check_mark:其他.ipa|[:link:链接地址](https://appdb.to/search/?type=cydia)，[:link:链接地址](https://ipa.store)|
-
-</details>
-
-
 <details>
   <summary>:key:配置使用教程</summary>
-  
+
+[配置文件链接](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_basic.conf)   
 ### :point_down:打开小火箭 点击配置 点击右上角+号  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1a.png)  
 
@@ -379,6 +349,37 @@
 <br>
 <br>
 </details>
+
+<details>
+  <summary>:key:Substore脚本</summary>  
+  
+|:octocat:Sub-Store脚本|:link:链接|:pushpin:操作说明|
+|--|--|--|
+|:white_check_mark:脚本操作：重命名|[:link:链接地址](https://raw.githubusercontent.com/qwerzl/rename.js/main/rename.js#input=zh&output=zh&airport=你需要的机场名)|SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改自己的机场名）
+|:white_check_mark:脚本过滤：筛选80 443端口|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/port-filter.js)|SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接
+|:white_check_mark:脚本过滤：筛选80,443，vmess,ws节点(免流节点)|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/nodes-filter.js)|SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接
+|:white_check_mark:脚本操作：修改host混淆|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/vmess-host.js)|SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改参数）
+</details>
+
+
+<details>
+  <summary>:key:永久签名工具及IPA</summary>  
+  
+|:octocat:签名工具|:link:链接|:pushpin:操作说明|
+|--|--|--|
+|:white_check_mark:TrollStore 永久签名|[:link:教程](https://github.com/deezertidal/shadowrocket-rules/blob/main/TrollStore.MD)|支持iOS14.0-15.4.1
+|:white_check_mark:Youtube.ipa|[:link:链接地址](https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa)|去广告 后台播放音乐 画中画
+|:white_check_mark:微信双开.ipa|[:link:链接地址](https://github.com/zwf234/WeChat/releases)|双开
+|:white_check_mark:Appstore++|[:link:链接地址](https://ipa.store/2886.html)|降级工具
+|:white_check_mark:Tiktok.ipa|[:link:链接地址](https://drive.google.com/file/d/1XMbpcMiv2yYEw6ApYG8sCL9oGNbPpcJ5/view?usp=drivesdk)|内置换区功能
+|:white_check_mark:No homebar|[:link:链接地址](https://appdb.to/app/cydia/1900001061)|隐藏屏幕底部横条
+|:white_check_mark:Trollspeed.ipa|[:link:链接地址](https://drive.google.com/file/d/17HIcHpiclJnFi_pAVpc71rTsDAL3JKCn/view)|显示网速
+|:white_check_mark:其他.ipa|[:link:链接地址](https://appdb.to/search/?type=cydia)，[:link:链接地址](https://ipa.store)|
+
+</details>
+
+
+
 
 
  <details>
