@@ -1,0 +1,29 @@
+name: auto
+
+on:
+  schedule:
+    - cron: '0 1,13 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Generate file
+      run: |
+        if [ -f js/d.txt ]; then
+          echo $(date "+%Y%m%d%H%M") > js/d.txt
+        else
+          date "+%Y%m%d%H%M" > js/d.txt
+        fi
+    - name: Commit files
+      run: |
+        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"
+        git add js/d.txt
+        git commit -m "d"
+        git push
