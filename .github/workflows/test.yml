@@ -23,7 +23,7 @@ jobs:
     - name: Commit files
       run: |
         git config --global user.email "you@example.com"
-        git config --global user.name "Your Name"
+        git config --global user.name " "
         git add js/d.txt
         git commit -m "d"
         git push
