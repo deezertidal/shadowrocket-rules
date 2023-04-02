@@ -476,4 +476,4 @@
 |:white_check_mark:EMO|[:link:官网](https://yyds.emovpn.top/#/register?code=7KLxhYOS)|0元300G/月；5元1000G/月
 ****
 * 不是大佬 没有TG群组 仅分享不负责维护  
-* [:link:个人博客](https://yfamily.ml)
+* [:link:个人博客](https://ybnet.ga)
