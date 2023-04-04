@@ -1,9 +1,0 @@
-#!name=Tidal Plus失效中
-#!desc=解锁 Tidal订阅
-
-[Script]
-
-TidalPlus = type=http-request,pattern=^https?:\/\/api\.tidal\.com\/v1\/(pages\/album|(user|track|page)s\/(\d+)\/(state|subscription|lyrics|onboarding|playbackinfopostpaywall)),requires-body=0,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/TIDALHiFiPlusCrack.js
-
-[MITM]
-hostname = %APPEND% api.tidal.com
