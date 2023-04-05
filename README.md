@@ -475,5 +475,5 @@
 |:white_check_mark:魔法学院|[:link:官网](https://2220.it/register?aff=GNs68S4XWT)|半年35元，每月50G；10元/120G/月
 |:white_check_mark:EMO|[:link:官网](https://yyds.emovpn.top/#/register?code=7KLxhYOS)|0元300G/月；5元1000G/月
 ****
-* 不是大佬 没有TG群组 仅分享不负责维护  
-* [:link:个人博客](https://ybnet.ga)
+
+* ## [:link:个人博客](https://ybnet.ga)
