@@ -23,7 +23,7 @@ jobs:
       - name: Commit changes
         run: |
           git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
+          git config --global user.name "me"
           git add reject.txt
-          git commit -m "Copy file and delete line with analytics.google.com"
+          git commit -m "updated"
           git push
