@@ -21,6 +21,6 @@ jobs:
       - name: Commit changes
         run: |
           git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
-          git commit -am "Update d.txt and reject.txt"
+          git config --global user.name "action"
+          git commit -am "reject.txt"
           git push
