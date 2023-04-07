@@ -2,7 +2,7 @@ name: update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0,6,12,18 * * *'
+    - cron: '0 */3 * * *'
 jobs:
   copy-file:
     runs-on: ubuntu-latest
