@@ -1,4 +1,3 @@
-
 name: update
 on:
   workflow_dispatch:
@@ -23,7 +22,11 @@ jobs:
       - name: Commit changes
         run: |
           git config --global user.email "you@example.com"
-          git config --global user.name "me"
+          git config --global user.name "0"
           git add reject.txt
-          git commit -m "updated"
-          git push
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit."
+          else
+            git commit -m "updated"
+            git push
+          fi
