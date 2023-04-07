@@ -19,7 +19,7 @@ jobs:
             sed -i '1i # $(date "+%Y%m%d%H%M")' reject.txt
           fi
       - name:update2
-        run: cp https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt ./reject.txt && sed -i '/analytics.google.com/d' ./reject.txt
+        run:cp https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt ./reject.txt && sed -i '/analytics.google.com/d' ./reject.txt
       - name: update3
         run: |
           git config --global user.email "1"
