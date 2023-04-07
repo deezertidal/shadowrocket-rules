@@ -8,23 +8,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Create or update reject.txt
+        uses: actions/checkout@v3
+      - name: Create empty file
+        run: touch js/$(date +%Y%m%d%H%M).txt
+      - name: Update file
         run: |
-          if [ -f reject.txt ]; then
-            sed -i '1i # $(date "+%Y%m%d%H%M")' reject.txt
-          else
-            echo "# $(date "+%Y%m%d%H%M")" > reject.txt
-          fi
-      - name: Update reject.txt
-        run: |
-          curl -O https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt
-          sed -i "/analytics.google.com/d" anti-ad-surge2.txt
-          mv anti-ad-surge2.txt reject.txt
+          curl -O https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt && sed -i "/analytics.google.com/d" anti-ad-surge2.txt && mv anti-ad-surge2.txt reject.txt
       - name: Commit changes
         run: |
-          git config --global user.email "jrull5400@gmail.com"
-          git config --global user.name "deezertidal"
-          git add reject.txt
-          git commit -m "Copy file and delete line with analytics.google.com"
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+          git add .
+          git commit -m "Update file"
           git push
