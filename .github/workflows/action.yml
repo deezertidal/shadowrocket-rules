@@ -10,23 +10,23 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
       - name: Create reject.txt
-        run: touch reject.txt
+        run: |
+          touch reject.txt
+          echo "# $(date '+%Y%m%d%H%M') - Initial commit" > reject.txt
       - name: Update reject.txt
         run: |
-          if [ -f reject.txt ]; then
-            sed -i '1i # $(date "+%Y%m%d%H%M")' reject.txt
-          fi
-      - name: Update reject.txt again
-        run: |
-          curl -O https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt && sed -i "/analytics.google.com/d" anti-ad-surge2.txt && mv anti-ad-surge2.txt reject.txt
+          curl -O https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt
+          sed -i "/analytics.google.com/d" anti-ad-surge2.txt
+          mv anti-ad-surge2.txt reject.txt
       - name: Commit changes
         run: |
           git config --global user.email "you@example.com"
-          git config --global user.name "0"
+          git config --global user.name "Your Name"
           git add reject.txt
           if [ -z "$(git status --porcelain)" ]; then
-            echo "No changes to commit."
+            sed -i "1s/^/# $(date '+%Y%m%d%H%M') - /" reject.txt
+            echo "No changes to commit. Added timestamp to reject.txt."
           else
-            git commit -m "updated"
+            git commit -m "Copy file and delete line with analytics.google.com"
             git push
           fi
