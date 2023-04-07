@@ -1,10 +1,8 @@
 name: update
-
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 0,6,12,18 * * *'
-
 jobs:
   copy-file:
     runs-on: ubuntu-latest
@@ -19,20 +17,11 @@ jobs:
             sed -i '1i # $(date "+%Y%m%d%H%M")' reject.txt
           fi
       - name:update2
-name: update2
-on:
-  push:
-    branches:
-      - master
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Copy anti-ad-surge2.txt
-        run: cp https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt ./reject.txt && sed -i "/analytics.google.com/d" ./reject.txt
-      - name: update3
+        run: |
+          cp https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt ./reject.txt && sed -i "/analytics.google.com/d" ./reject.txt
+      - name:update3
         run: |
           git config --global user.email "1"
           git config --global user.name "1"
           git commit -am "Copy file and delete line with analytics.google.com"
-          git push
+          git push 
