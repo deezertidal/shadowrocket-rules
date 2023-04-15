@@ -301,6 +301,8 @@
   <summary>:key:配置使用教程</summary>
 
 [配置文件链接](https://ybnet.ga/config/shadowrocket_basic.conf)   
+[更多教程](https://ybnet.ga/manual.html)
+<br>
 ### :point_down:打开小火箭 点击配置 点击右上角+号  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1a.png)  
 
