@@ -14,6 +14,7 @@
   
 |:octocat:模块|:link:链接|:pushpin:说明|
 |--|--|--|
+|:white_check_mark:4in1|[:link:链接地址](https://ybnet.ga/module/4in1.module)|模块合集
 |:white_check_mark:accuweather解锁|[:link:链接地址](https://ybnet.ga/module/accu.module)|天气app
 |:white_check_mark:AdBlock|[:link:链接地址](https://ybnet.ga/module/AdBlock.module)|整体去广告
 |:white_check_mark:alarmy|[:link:链接地址](https://ybnet.ga/module/alarmy.module)|使命闹钟
