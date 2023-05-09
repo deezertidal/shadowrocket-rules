@@ -297,7 +297,12 @@
 
 * 如无必要 请勿更新解锁app
 </details>
+<details>
+  <summary>:key:代理规则</summary>
 
+[代理规则](https://ybnet.ga/rule.html)   
+
+</details>
 <details>
   <summary>:key:配置使用教程</summary>
 
