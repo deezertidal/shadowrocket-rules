@@ -7,12 +7,12 @@ jobs:
   copy_rule_folder:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository 1
+      - name: Checkout repository A
         uses: actions/checkout@v3
         with:
           repository: deezertidal/deezertidal.github.io
           ref: master
-          path: repository-1
+          path: repository-A
 
       - name: Checkout repository B
         uses: actions/checkout@v3
@@ -25,9 +25,10 @@ jobs:
         run: cp -r ./deezertidal.github.io/rule ./shadowrocket-rules/
 
       - name: Commit and push changes to repository B
-        run: |
-          git config --global user.email "<email>"
-          git config --global user.name "<username>"
-          git add .
-          git commit -m "Copy rule folder from public repository A to public repository B"
-          git push origin main
+        uses: stefanzweifel/git-auto-commit-action@v4.9.2
+        with:
+          commit_message: "Copy rule folder from public repository A to public repository B"
+          commit_options: "--author='<username> <<email>>'"
+          branch: main
+          directory: ./hadowrocket-rules/
+          token: ${{ secrets.GITHUB_TOKEN }}
