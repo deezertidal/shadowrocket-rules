@@ -1,0 +1,33 @@
+name: Copy rule folder from public repository A to public repository B
+
+on:
+  workflow_dispatch:
+
+jobs:
+  copy_rule_folder:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository 1
+        uses: actions/checkout@v3
+        with:
+          repository: deezertidal/deezertidal.github.io
+          ref: master
+          path: repository-1
+
+      - name: Checkout repository B
+        uses: actions/checkout@v3
+        with:
+          repository: deezertidal/shadowrocket-rules
+          ref: main
+          path: repository-B
+
+      - name: Copy rule folder from repository A to repository B
+        run: cp -r ./deezertidal.github.io/rule ./shadowrocket-rules/
+
+      - name: Commit and push changes to repository B
+        run: |
+          git config --global user.email "<email>"
+          git config --global user.name "<username>"
+          git add .
+          git commit -m "Copy rule folder from public repository A to public repository B"
+          git push origin main
