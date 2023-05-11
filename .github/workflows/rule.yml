@@ -4,7 +4,7 @@ on:
   schedule:
   - cron: '30 0/2 * * *'
 jobs:
-  build:
+  job1:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo1
@@ -45,3 +45,88 @@ jobs:
           git add .
           git commit -m "sync ybnet.ga"
           git push origin main
+
+  job2:
+    needs: job1
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo1
+        uses: actions/checkout@v3 
+        with:
+          repository: deezertidal/shadowrocket-rules
+          ref: main
+          path: shadowrocket-rules
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout repo2
+        uses: actions/checkout@v3 
+        with:
+          repository: deezertidal/QuantumultX-Rewrite
+          ref: master
+          path: QuantumultX-Rewrite
+          token: ${{ secrets.GITHUB_TOKEN }} 
+      - name: Copy rule
+        run: |
+          cd QuantumultX-Rewrite
+          shopt -s extglob
+          rsync -rv ./rule ../QuantumultX-Rewrite/
+      - name: Check if or
+        id: check_changes
+        run: |
+          cd QuantumultX-Rewrite
+          modified=$(git status --porcelain)
+          if [ -n "$modified" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+      - name: Push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          cd QuantumultX-Rewrite
+          git config --global user.name 'ybnet.ga'
+          git config --global user.email 'action@example.com'
+          git add .
+          git commit -m "sync ybnet.ga"
+          git push origin master
+  job3:
+    needs: [job1, job2]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo1
+        uses: actions/checkout@v3 
+        with:
+          repository: deezertidal/shadowrocket-rules
+          ref: main
+          path: shadowrocket-rules
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout repo2
+        uses: actions/checkout@v3 
+        with:
+          repository: deezertidal/private
+          ref: main
+          path: private
+          token: ${{ secrets.GITHUB_TOKEN }} 
+      - name: Copy rule
+        run: |
+          cd shadowrocket-rules
+          shopt -s extglob
+          rsync -rv ./rule ../private/
+      - name: Check if or
+        id: check_changes
+        run: |
+          cd private
+          modified=$(git status --porcelain)
+          if [ -n "$modified" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+      - name: Push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          cd private
+          git config --global user.name 'ybnet.ga'
+          git config --global user.email 'action@example.com'
+          git add .
+          git commit -m "sync ybnet.ga"
+          git push origin master
