@@ -129,4 +129,4 @@ jobs:
           git config --global user.email 'action@example.com'
           git add .
           git commit -m "sync ybnet.ga"
-          git push origin master
+          git push origin main
