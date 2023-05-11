@@ -56,14 +56,14 @@ jobs:
           repository: deezertidal/shadowrocket-rules
           ref: main
           path: shadowrocket-rules
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
       - name: Checkout repo2
         uses: actions/checkout@v3 
         with:
           repository: deezertidal/QuantumultX-Rewrite
           ref: master
           path: QuantumultX-Rewrite
-          token: ${{ secrets.GITHUB_TOKEN }} 
+          token: ${{ secrets.PAT }} 
       - name: Copy rule
         run: |
           cd shadowrocket-rules
