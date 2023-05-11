@@ -298,9 +298,61 @@
 * 如无必要 请勿更新解锁app
 </details>
 <details>
-  <summary>:key:代理规则</summary>
+  <summary>:key:代理规则</summary>  
 
-[代理规则](https://ybnet.ga/rule.html)   
+|:octocat:规则|:link:链接|
+|--|--|
+|:white_check_mark:ASN-China|[:link:链接地址](https://ybnet.ga/rule/ASN-CN.list)
+|:white_check_mark:ASN-轻量|[:link:链接地址](https://ybnet.ga/rule/ASN-lite.list)
+|:white_check_mark:ChinaIPs|[:link:链接地址](https://ybnet.ga/rule/IPs-CN.list)
+|:white_check_mark:人工智能|[:link:链接地址](https://ybnet.ga/rule/ai.list)
+|:white_check_mark:去广告|[:link:链接地址](https://ybnet.ga/rule/AdvertisingLite.list)
+|:white_check_mark:Anti-AD|[:link:链接地址](https://ybnet.ga/rule/AntiAD.list)
+|:white_check_mark:微软服务|[:link:链接地址](https://ybnet.ga/rule/Microsoft.list)
+|:white_check_mark:苹果服务|[:link:链接地址](https://ybnet.ga/rule/Apple.list)
+|:white_check_mark:AppStore|[:link:链接地址](https://ybnet.ga/rule/AppStore.list)
+|:white_check_mark:Telegram|[:link:链接地址](https://ybnet.ga/rule/Telegram.list)
+|:white_check_mark:微博|[:link:链接地址](https://ybnet.ga/rule/Weibo.list)
+|:white_check_mark:微信|[:link:链接地址](https://ybnet.ga/rule/WeChat.list)
+|:white_check_mark:Twitter|[:link:链接地址](https://ybnet.ga/rule/Twitter.list)
+|:white_check_mark:Spotify|[:link:链接地址](https://ybnet.ga/rule/Spotify.list)
+|:white_check_mark:PayPal|[:link:链接地址](https://ybnet.ga/rule/PayPal.list)
+|:white_check_mark:FaceBook|[:link:链接地址](https://ybnet.ga/rule/Facebook.list)
+|:white_check_mark:Reddit|[:link:链接地址](https://ybnet.ga/rule/Reddit.list)
+|:white_check_mark:Discord|[:link:链接地址](https://ybnet.ga/rule/Discord.list)
+|:white_check_mark:YouTube|[:link:链接地址](https://ybnet.ga/rule/YouTube.list)
+|:white_check_mark:YouTubeMusic|[:link:链接地址](https://ybnet.ga/rule/YouTubeMusic.list)
+|:white_check_mark:Netflix|[:link:链接地址](https://ybnet.ga/rule/Netflix.list)
+|:white_check_mark:Disney|[:link:链接地址](https://ybnet.ga/rule/Disney.list)
+|:white_check_mark:BiliBili|[:link:链接地址](https://ybnet.ga/rule/BiliBili.list)
+|:white_check_mark:国内媒体|[:link:链接地址](https://ybnet.ga/rule/ChinaMedia.list)
+|:white_check_mark:国外媒体|[:link:链接地址](https://ybnet.ga/rule/ProxyMedia.list)
+|:white_check_mark:Google|[:link:链接地址](https://ybnet.ga/rule/Google.list)
+|:white_check_mark:OneDrive|[:link:链接地址](https://ybnet.ga/rule/OneDrive.list)
+|:white_check_mark:AppleMusic|[:link:链接地址](https://ybnet.ga/rule/AppleMusic.list)
+|:white_check_mark:Line|[:link:链接地址](https://ybnet.ga/rule/Line.list)
+|:white_check_mark:TikTok|[:link:链接地址](https://ybnet.ga/rule/TikTok.list)
+|:white_check_mark:Cloudflare|[:link:链接地址](https://ybnet.ga/rule/Cloudflare.list)
+|:white_check_mark:维基百科|[:link:链接地址](https://ybnet.ga/rule/Wikipedia.list)
+|:white_check_mark:BBC|[:link:链接地址](https://ybnet.ga/rule/BBC.list)
+|:white_check_mark:亚马逊|[:link:链接地址](https://ybnet.ga/rule/Amazon.list)
+|:white_check_mark:Instagram|[:link:链接地址](https://ybnet.ga/rule/Instagram.list)
+|:white_check_mark:Whatsapp|[:link:链接地址](https://ybnet.ga/rule/Whatsapp.list)
+|:white_check_mark:巴哈姆特|[:link:链接地址](https://ybnet.ga/rule/Bahamut.list)
+|:white_check_mark:HBO|[:link:链接地址](https://ybnet.ga/rule/HBO.list)
+|:white_check_mark:Fox|[:link:链接地址](https://ybnet.ga/rule/Fox.list)
+|:white_check_mark:Hulu|[:link:链接地址](https://ybnet.ga/rule/Hulu.list)
+|:white_check_mark:KKBOX|[:link:链接地址](https://ybnet.ga/rule/KKBOX.list)
+|:white_check_mark:TIDAL|[:link:链接地址](https://ybnet.ga/rule/TIDAL.list)
+|:white_check_mark:TVB|[:link:链接地址](https://ybnet.ga/rule/TVB.list)
+|:white_check_mark:Emby|[:link:链接地址](https://ybnet.ga/rule/Emby.list)
+|:white_check_mark:网易云音乐|[:link:链接地址](https://ybnet.ga/rule/NetEaseMusic.list)
+|:white_check_mark:GitHub|[:link:链接地址](https://ybnet.ga/rule/GitHub.list)
+|:white_check_mark:Dropbox|[:link:链接地址](https://ybnet.ga/rule/Dropbox.list)
+|:white_check_mark:Duckduckgo|[:link:链接地址](https://ybnet.ga/rule/Duckduckgo.list)
+|:white_check_mark:国外代理|[:link:链接地址](https://ybnet.ga/rule/Proxy.list)
+|:white_check_mark:国内直连|[:link:链接地址](https://ybnet.ga/rule/China.list)
+
 
 </details>
 <details>
