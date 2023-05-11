@@ -44,6 +44,7 @@ jobs:
           git config --global user.email 'action@example.com'
           git add .
           git commit -m "sync ybnet.ga"
+          git pull --rebase origin main
           git push origin main
 
   job2:
@@ -87,6 +88,7 @@ jobs:
           git config --global user.email 'action@example.com'
           git add .
           git commit -m "sync ybnet.ga"
+          git pull --rebase origin master
           git push origin master
   job3:
     needs: [job1, job2]
@@ -129,6 +131,7 @@ jobs:
           git config --global user.email 'action@example.com'
           git add .
           git commit -m "sync ybnet.ga"
+          git pull --rebase origin main
           git push origin main
   job4:
     needs: [job1, job2, job3]
@@ -171,4 +174,5 @@ jobs:
           git config --global user.email 'action@example.com'
           git add .
           git commit -m "sync ybnet.ga"
+          git pull --rebase origin master
           git push origin master
