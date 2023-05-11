@@ -1,34 +1,47 @@
-name: Copy rule folder from public repository A to public repository B
-
+name: Copy rule
 on:
   workflow_dispatch:
-
+  schedule:
+  - cron: '30 0/2 * * *'
 jobs:
-  copy_rule_folder:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository A
-        uses: actions/checkout@v3
+      - name: Checkout repo1
+        uses: actions/checkout@v3 
         with:
           repository: deezertidal/deezertidal.github.io
-          ref: master
-          path: repository-A
-
-      - name: Checkout repository B
-        uses: actions/checkout@v3
+          ref: master 
+          path: deezertidal.github.io
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout repo2
+        uses: actions/checkout@v3 
         with:
           repository: deezertidal/shadowrocket-rules
-          ref: main
-          path: repository-B
-
-      - name: Copy rule folder from repository A to repository B
-        run: cp -r ./deezertidal.github.io/rule ./shadowrocket-rules/
-
-      - name: Commit and push changes to repository B
-        uses: stefanzweifel/git-auto-commit-action@v4.9.2
-        with:
-          commit_message: "Copy rule folder from public repository A to public repository B"
-          commit_options: "--author='<username> <<email>>'"
-          branch: main
-          directory: ./hadowrocket-rules/
-          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main 
+          path: shadowrocket-rules
+          token: ${{ secrets.GITHUB_TOKEN }} 
+      - name: Copy rule
+        run: |
+          cd deezertidal.github.io
+          shopt -s extglob
+          rsync -rv ./rule ../shadowrocket-rules/
+      - name: Check if or
+        id: check_changes
+        run: |
+          cd shadowrocket-rules
+          modified=$(git status --porcelain)
+          if [ -n "$modified" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+      - name: Push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          cd shadowrocket-rules
+          git config --global user.name 'ybnet.ga'
+          git config --global user.email 'action@example.com'
+          git add .
+          git commit -m "sync ybnet.ga"
+          git push origin main
