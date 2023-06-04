@@ -1,9 +1,17 @@
-DOMAIN-SUFFIX,bahamut.akamaized.net
-DOMAIN-SUFFIX,bahamut.com.tw
-DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,gamer.com.tw
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,hinet.net
-DOMAIN-SUFFIX,viblast.com
-USER-AGENT,Anime*
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>503 backend read error</title>
+  </head>
+  <body>
+    <h1>Error 503 backend read error</h1>
+    <p>backend read error</p>
+    <h3>Error 54113</h3>
+    <p>Details: cache-iad-kiad7000054-IAD 1685875388 2493409514</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
