@@ -1,7 +1,7 @@
 #!name=VSCO
 #!desc=vsco解锁
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/vsco.png
-#!homepage=https://github.com/deezertidal
+#!homepage=https://yfamily.ml
 #!author=NobyDa
 [Script]
 VSCO=type=http-request,pattern=^https?:\/\/api\.revenuecat\.com\/v\d\/subscribers\/,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/vsco.js

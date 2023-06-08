@@ -2,7 +2,7 @@
 #!desc=Pandora订阅管理会员
 #!author=89996462
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/pandora.png
-#!homepage=https://github.com/deezertidal
+#!homepage=https://yfamily.ml
 
 [Script]
 Pandora订阅管理=type=http-response,pattern=^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Pandora.js
