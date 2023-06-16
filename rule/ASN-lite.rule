@@ -1,4 +1,4 @@
-# 由yfamily.ml自动维护 202306161335
+# 由yfamily.ml自动维护 202306161643
 payload:
   - IP-ASN,4134
   - IP-ASN,4538
@@ -29,7 +29,6 @@ payload:
   - IP-ASN,9394
   - IP-ASN,9401
   - IP-ASN,9405
-  - IP-ASN,9406
   - IP-ASN,9801
   - IP-ASN,9802
   - IP-ASN,9803
@@ -461,7 +460,6 @@ payload:
   - IP-ASN,138169
   - IP-ASN,138369
   - IP-ASN,138371
-  - IP-ASN,138373
   - IP-ASN,138378
   - IP-ASN,138393
   - IP-ASN,138407
@@ -591,6 +589,7 @@ payload:
   - IP-ASN,210041
   - IP-ASN,210714
   - IP-ASN,211051
+  - IP-ASN,211843
   - IP-ASN,212237
   - IP-ASN,212371
   - IP-ASN,212793
