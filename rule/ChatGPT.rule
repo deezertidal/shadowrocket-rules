@@ -1,11 +1,3 @@
-# NAME: OpenAI
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-28 18:23:59
-# DOMAIN: 2
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 4
-# TOTAL: 7
 payload:
   - DOMAIN,cdn.auth0.com
   - DOMAIN,o33249.ingest.sentry.io

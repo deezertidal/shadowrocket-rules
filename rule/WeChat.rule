@@ -1,14 +1,3 @@
-# NAME: WeChat
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-28 18:22:39
-# DOMAIN: 7
-# DOMAIN-KEYWORD: 234
-# DOMAIN-SUFFIX: 22
-# IP-CIDR: 13
-# IP-CIDR6: 64
-# USER-AGENT: 2
-# TOTAL: 342
 payload:
   - DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
   - DOMAIN,dldir1.qq.com

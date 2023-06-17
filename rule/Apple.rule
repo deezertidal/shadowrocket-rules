@@ -1,14 +1,3 @@
-# NAME: Apple
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-28 18:18:45
-# DOMAIN: 7
-# DOMAIN-KEYWORD: 5
-# DOMAIN-SUFFIX: 1544
-# IP-CIDR: 10
-# PROCESS-NAME: 6
-# USER-AGENT: 7
-# TOTAL: 1579
 payload:
   - DOMAIN-KEYWORD,apple-support.akadns.net
   - DOMAIN-KEYWORD,apple.com.akadns.net
