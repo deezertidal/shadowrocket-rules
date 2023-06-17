@@ -1,3 +1,12 @@
+# NAME: HBO
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-06-12 02:11:10
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 47
+# PROCESS-NAME: 1
+# USER-AGENT: 2
+# TOTAL: 51
 payload:
   - DOMAIN,wmff.warnermediacdn.com
   - DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net

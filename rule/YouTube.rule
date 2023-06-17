@@ -1,3 +1,13 @@
+# NAME: YouTube
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-05-28 18:18:42
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 178
+# IP-CIDR: 2
+# IP-CIDR6: 1
+# USER-AGENT: 3
+# TOTAL: 185
 payload:
   - DOMAIN-SUFFIX,ggpht.cn
   - DOMAIN-SUFFIX,ggpht.com
