@@ -239,6 +239,8 @@ payload:
   - IP-CIDR,15.152.176.0/22,no-resolve
   - IP-CIDR,15.152.24.0/26,no-resolve
   - IP-CIDR,15.152.24.128/29,no-resolve
+  - IP-CIDR,15.156.152.184/29,no-resolve
+  - IP-CIDR,15.156.152.192/29,no-resolve
   - IP-CIDR,15.160.55.112/29,no-resolve
   - IP-CIDR,15.161.135.164/30,no-resolve
   - IP-CIDR,15.161.135.64/26,no-resolve
