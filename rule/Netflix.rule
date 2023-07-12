@@ -917,6 +917,8 @@ payload:
   - IP-CIDR,44.242.181.32/28,no-resolve
   - IP-CIDR,45.57.0.0/17,no-resolve
   - IP-CIDR,51.16.103.16/28,no-resolve
+  - IP-CIDR,51.16.103.32/27,no-resolve
+  - IP-CIDR,51.16.183.64/27,no-resolve
   - IP-CIDR,52.0.0.0/15,no-resolve
   - IP-CIDR,52.10.0.0/15,no-resolve
   - IP-CIDR,52.12.0.0/15,no-resolve
