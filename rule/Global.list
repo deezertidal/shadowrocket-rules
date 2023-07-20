@@ -1,4 +1,4 @@
-# 由yfamily.vercel.app自动维护 202307200442
+# 由yfamily.vercel.app自动维护 202307200643
 DOMAIN-KEYWORD,64memo
 DOMAIN-KEYWORD,aHR0cHM6Ly95ZWNsLm5ldA
 DOMAIN-KEYWORD,amazon
@@ -13381,6 +13381,7 @@ DOMAIN-SUFFIX,moxaftp.box.com
 DOMAIN-SUFFIX,moyu2.com
 DOMAIN-SUFFIX,moyuv5.com
 DOMAIN-SUFFIX,mozhua.net
+DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,moztw.org
 DOMAIN-SUFFIX,mp.truth.gq
 DOMAIN-SUFFIX,mp3buscador.com
@@ -19000,6 +19001,7 @@ DOMAIN-SUFFIX,tx2600.net
 DOMAIN-SUFFIX,tx668.vip
 DOMAIN-SUFFIX,tx88.vip
 DOMAIN-SUFFIX,txmblr.com
+DOMAIN-SUFFIX,txt.fyi
 DOMAIN-SUFFIX,txvip888.com
 DOMAIN-SUFFIX,txxx.com
 DOMAIN-SUFFIX,ty.112.b0ne.com
@@ -26580,3 +26582,4 @@ IP-CIDR,91.108.20.0/22
 IP-CIDR,91.108.4.0/22
 IP-CIDR,91.108.56.0/22
 IP-CIDR,91.108.8.0/22
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleNews/AppleNews.list,PROXY
