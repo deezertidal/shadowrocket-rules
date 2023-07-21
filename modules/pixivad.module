@@ -1,0 +1,8 @@
+#!name=Pixiv 去广告
+#!desc=去除应用最下方广告
+
+
+[MITM]
+hostname = %APPEND% oauth.secure.pixiv.net
+[Script]
+Pixiv去广告=type=http-response,pattern=^https?:\/\/oauth\.secure\.pixiv\.net\/(auth\/token),requires-body=1,script-path=https://github.com/ddgksf2013/Scripts/raw/master/pixivAds.js
