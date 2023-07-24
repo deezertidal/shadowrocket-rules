@@ -1,4 +1,4 @@
-# 由yfamily.vercel.app自动维护 202307241643
+# 由yfamily.vercel.app自动维护 202307241842
 payload:
   - IP-CIDR,1.0.1.0/24
   - IP-CIDR,1.0.2.0/23
@@ -12896,8 +12896,7 @@ payload:
   - IP-CIDR,46.8.203.0/24
   - IP-CIDR,47.112.0.0/13
   - IP-CIDR,47.120.0.0/15
-  - IP-CIDR,47.122.0.0/18
-  - IP-CIDR,47.122.64.0/19
+  - IP-CIDR,47.122.0.0/17
   - IP-CIDR,47.123.0.0/16
   - IP-CIDR,47.246.0.0/22
   - IP-CIDR,47.246.10.0/24
