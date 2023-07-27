@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,aiv-cdn.net
   - DOMAIN-SUFFIX,aiv-delivery.net
   - DOMAIN-SUFFIX,amazon.jobs
+  - DOMAIN-SUFFIX,amazontools.com
   - DOMAIN-SUFFIX,amazonuniversity.jobs
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,media-amazon.com
@@ -212,6 +213,7 @@ payload:
   - IP-CIDR,192.173.64.0/18,no-resolve
   - IP-CIDR,198.38.96.0/19,no-resolve
   - IP-CIDR,198.45.48.0/20,no-resolve
+  - IP-CIDR,203.75.84.0/24,no-resolve
   - IP-CIDR,207.45.72.0/22,no-resolve
   - IP-CIDR,208.75.76.0/22,no-resolve
   - DOMAIN-SUFFIX,dmc.nico
