@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,twttr.net
   - DOMAIN-SUFFIX,twvid.com
   - DOMAIN-SUFFIX,vine.co
+  - DOMAIN-SUFFIX,x.com
   - DOMAIN-KEYWORD,twitter
   - IP-CIDR,192.133.76.0/22,no-resolve
   - IP-CIDR,199.16.156.0/22,no-resolve
