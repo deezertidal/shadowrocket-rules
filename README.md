@@ -532,6 +532,7 @@
 
 |:octocat:机场推荐|:link:链接| :pushpin:套餐价格概况
 |--|--|--|
+|:white_check_mark:飞机云|[:link:官网](https://feijicloud.com/auth/register?code=iMgM)|9.99元/50G/月，15.99元/100G/月,25.99元/200G/月，35.99元/300G/月,49.99元/600G/月
 |:white_check_mark:白月光|[:link:官网](https://www.bygcloud.com/#/register?code=DX4iT5B4)|IEPL专线。99元/150G/季度；126元/250G/季度；156元/400G/季度
 |:white_check_mark:泡泡狗|[:link:官网](https://www.paopao.dog/#/register?code=nnaNrj7S)|7.5元/70G/月；12.5元/110G/月；20元/210G/月
 |:white_check_mark:魔戒|[:link:官网](https://mojie.me/#/register?code=tq2kydAz)|15元130G不限时；42元420G不限时；69元750G不限时
