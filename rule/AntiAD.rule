@@ -1,4 +1,4 @@
-# 由yfamily.vercel.app自动维护 202309222243
+# 由yfamily.vercel.app自动维护 202309230132
 payload:
   - DOMAIN-SUFFIX,0-000.store
   - DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -15254,6 +15254,7 @@ payload:
   - DOMAIN-SUFFIX,argos.citruserve.com
   - DOMAIN-SUFFIX,arguebakery.com
   - DOMAIN-SUFFIX,arguerepetition.com
+  - DOMAIN-SUFFIX,arguesdevex.cfd
   - DOMAIN-SUFFIX,argumentsmaymadly.com
   - DOMAIN-SUFFIX,argxdhrjhett.xyz
   - DOMAIN-SUFFIX,argyresthia.com
@@ -58498,6 +58499,7 @@ payload:
   - DOMAIN-SUFFIX,linkunder.ru
   - DOMAIN-SUFFIX,linkus.buddybet.com
   - DOMAIN-SUFFIX,linkvans.com
+  - DOMAIN-SUFFIX,linkvertise.com
   - DOMAIN-SUFFIX,linkvet.insights.md
   - DOMAIN-SUFFIX,linkwall.ru
   - DOMAIN-SUFFIX,linkwash.de
@@ -81883,6 +81885,7 @@ payload:
   - DOMAIN-SUFFIX,revsci.net
   - DOMAIN-SUFFIX,revsci.tvguide.com
   - DOMAIN-SUFFIX,revsolder.com
+  - DOMAIN-SUFFIX,revstats.com
   - DOMAIN-SUFFIX,revstripe.com
   - DOMAIN-SUFFIX,revsw.net
   - DOMAIN-SUFFIX,revulsionwash.com
@@ -99890,6 +99893,7 @@ payload:
   - DOMAIN-SUFFIX,track.pplnk.com
   - DOMAIN-SUFFIX,track.price.ru
   - DOMAIN-SUFFIX,track.pricespider.com
+  - DOMAIN-SUFFIX,track.privacyatclearbit.com
   - DOMAIN-SUFFIX,track.promptfile.com
   - DOMAIN-SUFFIX,track.publeadmedia.com
   - DOMAIN-SUFFIX,track.pushbullet.com
@@ -108985,6 +108989,7 @@ payload:
   - DOMAIN-SUFFIX,wl.gl
   - DOMAIN-SUFFIX,wl.hd.sohu.com
   - DOMAIN-SUFFIX,wl.houyi.baofeng.net
+  - DOMAIN-SUFFIX,wl.spotify.com
   - DOMAIN-SUFFIX,wl.xsoftmall.com
   - DOMAIN-SUFFIX,wl.yna.co.kr
   - DOMAIN-SUFFIX,wl963.com
@@ -115918,6 +115923,7 @@ payload:
   - IP-CIDR,172.255.6.248/32
   - IP-CIDR,172.255.6.252/32
   - IP-CIDR,172.255.6.254/32
+  - IP-CIDR,172.255.6.59/32
   - IP-CIDR,174.123.15.43/32
   - IP-CIDR,174.139.53.195/32
   - IP-CIDR,180.76.171.28/32
@@ -115926,6 +115932,7 @@ payload:
   - IP-CIDR,188.42.84.110/32
   - IP-CIDR,188.42.84.137/32
   - IP-CIDR,188.42.84.159/32
+  - IP-CIDR,188.42.84.160/32
   - IP-CIDR,188.42.84.162/32
   - IP-CIDR,188.42.84.21/32
   - IP-CIDR,188.42.84.23/32
@@ -115936,11 +115943,13 @@ payload:
   - IP-CIDR,203.195.121.11/32
   - IP-CIDR,203.195.121.119/32
   - IP-CIDR,203.195.121.134/32
+  - IP-CIDR,203.195.121.184/32
   - IP-CIDR,203.195.121.195/32
   - IP-CIDR,203.195.121.209/32
   - IP-CIDR,203.195.121.217/32
   - IP-CIDR,203.195.121.219/32
   - IP-CIDR,203.195.121.224/32
+  - IP-CIDR,203.195.121.229/32
   - IP-CIDR,203.195.121.24/32
   - IP-CIDR,203.195.121.28/32
   - IP-CIDR,203.195.121.29/32
@@ -115950,6 +115959,7 @@ payload:
   - IP-CIDR,203.195.121.46/32
   - IP-CIDR,203.195.121.70/32
   - IP-CIDR,203.195.121.72/32
+  - IP-CIDR,203.195.121.73/32
   - IP-CIDR,203.195.121.74/32
   - IP-CIDR,211.167.105.131/32
   - IP-CIDR,213.232.113.250/32
@@ -115970,6 +115980,7 @@ payload:
   - IP-CIDR,23.109.248.183/32
   - IP-CIDR,23.109.248.20/32
   - IP-CIDR,23.109.248.229/32
+  - IP-CIDR,23.109.248.247/32
   - IP-CIDR,23.109.248.29/32
   - IP-CIDR,23.109.82.119/32
   - IP-CIDR,23.109.82.173/32
@@ -115983,6 +115994,7 @@ payload:
   - IP-CIDR,23.109.87.14/32
   - IP-CIDR,23.109.87.182/32
   - IP-CIDR,23.109.87.192/32
+  - IP-CIDR,23.109.87.213/32
   - IP-CIDR,23.109.87.217/32
   - IP-CIDR,23.109.87.42/32
   - IP-CIDR,23.109.87.45/32
