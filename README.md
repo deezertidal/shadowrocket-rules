@@ -55,7 +55,6 @@
 |:white_check_mark:番茄小说|[:link:链接地址](https://yfamily.vercel.app/module/fanqie.module)|番茄小说去广告
 |:white_check_mark:fantastical|[:link:链接地址](https://yfamily.vercel.app/module/fantastical.module)|日历类
 |:white_check_mark:fimo|[:link:链接地址](https://yfamily.vercel.app/module/fimo.module)|相机类
-|:white_check_mark:ft中文网|[:link:链接地址](https://yfamily.vercel.app/module/ft.module)|财经类
 |:white_check_mark:grammarly|[:link:链接地址](https://yfamily.vercel.app/module/grammarly.module)|外语类
 |:white_check_mark:grow|[:link:链接地址](https://yfamily.vercel.app/module/grow.module)|健康类
 |:white_check_mark:烘焙小屋|[:link:链接地址](https://yfamily.vercel.app/module/hbxw.module)|食谱类
