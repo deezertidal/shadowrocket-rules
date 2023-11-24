@@ -2,6 +2,8 @@ payload:
   - DOMAIN-KEYWORD,apple-support.akadns.net
   - DOMAIN-KEYWORD,apple.com.akadns.net
   - DOMAIN-KEYWORD,apple.com.edgekey.net
+  - DOMAIN-KEYWORD,buy.itunes.apple.com
+  - DOMAIN-KEYWORD,smp-device
   - DOMAIN-KEYWORD,testflight
   - DOMAIN-KEYWORD,icloud.com.akadns.net
   - IP-CIDR,139.178.128.0/18,no-resolve
