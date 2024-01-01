@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN-SUFFIX,i-joox.com
+  - DOMAIN-SUFFIX,joox.com
+  - DOMAIN-SUFFIX,sanook.com
+  - DOMAIN-KEYWORD,jooxweb-api
+  - IP-CIDR,119.28.182.0/23,no-resolve
+  - IP-CIDR,203.205.234.0/23,no-resolve

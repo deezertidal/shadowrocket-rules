@@ -1,0 +1,4 @@
+DOMAIN,teams.events.data.microsoft.com
+DOMAIN-SUFFIX,teams.cdn.live.net
+DOMAIN-SUFFIX,teams.live.com
+DOMAIN-SUFFIX,teams.microsoft.com

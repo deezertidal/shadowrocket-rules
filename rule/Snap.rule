@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN,impala-media-production.s3.amazonaws.com
+  - DOMAIN-SUFFIX,sc-cdn.net
+  - DOMAIN-SUFFIX,snap-dev.net
+  - DOMAIN-SUFFIX,snap.com
+  - DOMAIN-SUFFIX,snapads.com
+  - DOMAIN-SUFFIX,snapchat.com
+  - DOMAIN-SUFFIX,snapkit.co
