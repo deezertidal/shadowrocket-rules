@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,api.imem.app
   - DOMAIN,api.swiftgram.app
   - DOMAIN-SUFFIX,comments.app
   - DOMAIN-SUFFIX,contest.com
