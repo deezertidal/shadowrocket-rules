@@ -434,6 +434,7 @@ payload:
   - IP-CIDR,18.196.161.184/29,no-resolve
   - IP-CIDR,18.196.161.192/28,no-resolve
   - IP-CIDR,18.196.161.80/28,no-resolve
+  - IP-CIDR,18.199.68.0/22,no-resolve
   - IP-CIDR,18.200.212.0/23,no-resolve
   - IP-CIDR,18.202.216.48/29,no-resolve
   - IP-CIDR,18.206.107.160/29,no-resolve
