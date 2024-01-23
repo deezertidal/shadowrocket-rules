@@ -56,6 +56,9 @@ payload:
   - DOMAIN,gamer2-cds.cdn.hinet.net
   - DOMAIN-SUFFIX,bahamut.com.tw
   - DOMAIN-SUFFIX,gamer.com.tw
+  - DOMAIN-SUFFIX,bilibili.tv
+  - DOMAIN-SUFFIX,bstarstatic.com
+  - DOMAIN,pic-bstarstatic.akamaized.net
   - DOMAIN-KEYWORD,voddazn
   - DOMAIN,d151l6v8er5bdm.cloudfront.net
   - DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net
@@ -105,7 +108,6 @@ payload:
   - DOMAIN-SUFFIX,hbomax.com
   - DOMAIN-SUFFIX,hbomaxcdn.com
   - DOMAIN-SUFFIX,hbonow.com
-  - DOMAIN-KEYWORD,.hbogoasia.
   - DOMAIN-KEYWORD,hbogoasia
   - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
   - DOMAIN,bcbolthboa-a.akamaihd.net

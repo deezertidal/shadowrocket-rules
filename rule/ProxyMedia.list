@@ -71,6 +71,11 @@ DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
 
+USER-AGENT,app/bstar*
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,bstarstatic.com
+DOMAIN,pic-bstarstatic.akamaized.net
+
 USER-AGENT,DAZN*
 DOMAIN-KEYWORD,voddazn
 DOMAIN,d151l6v8er5bdm.cloudfront.net
@@ -136,7 +141,6 @@ DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hbonow.com
 
 USER-AGENT,HBO%20GO%20PROD*
-DOMAIN-KEYWORD,.hbogoasia.
 DOMAIN-KEYWORD,hbogoasia
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN,bcbolthboa-a.akamaihd.net
