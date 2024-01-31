@@ -52,7 +52,6 @@ payload:
   - DOMAIN-SUFFIX,amazon.co.jp
   - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-SUFFIX,amazonaws.com
-  - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,anaconda.com
   - DOMAIN-SUFFIX,anchor.fm
   - DOMAIN-SUFFIX,ancsconf.org
@@ -63,6 +62,7 @@ payload:
   - DOMAIN-SUFFIX,aol.com
   - DOMAIN-SUFFIX,aolcdn.com
   - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,api.amplitude.com
   - DOMAIN-SUFFIX,api.mixpanel.com
   - DOMAIN-SUFFIX,api.termius.com
   - DOMAIN-SUFFIX,apk-dl.com
@@ -178,7 +178,6 @@ payload:
   - DOMAIN-SUFFIX,content.office.net
   - DOMAIN-SUFFIX,coursehero.com
   - DOMAIN-SUFFIX,crisp.chat
-  - DOMAIN-SUFFIX,crittercism.com
   - DOMAIN-SUFFIX,culturalspot.org
   - DOMAIN-SUFFIX,culturedcode.com
   - DOMAIN-SUFFIX,cygames.jp
@@ -253,6 +252,7 @@ payload:
   - DOMAIN-SUFFIX,feedly.com
   - DOMAIN-SUFFIX,feedsportal.com
   - DOMAIN-SUFFIX,fiftythree.com
+  - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,flexibits.com
   - DOMAIN-SUFFIX,flickr.com
   - DOMAIN-SUFFIX,flipboard.com
@@ -484,7 +484,6 @@ payload:
   - DOMAIN-SUFFIX,parallels.com
   - DOMAIN-SUFFIX,parse.com
   - DOMAIN-SUFFIX,parsevideo.com
-  - DOMAIN-SUFFIX,paste.ee
   - DOMAIN-SUFFIX,pastie.org
   - DOMAIN-SUFFIX,pcloud.com
   - DOMAIN-SUFFIX,pdfexpert.com
