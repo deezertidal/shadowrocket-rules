@@ -39,7 +39,16 @@ USER-AGENT,com.apple.trustd*
 USER-AGENT,AppleTV*
 USER-AGENT,com.apple.tv*
 PROCESS-NAME,/System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService
+PROCESS-NAME,CoreLocationAgent
+PROCESS-NAME,WeatherWidget
+PROCESS-NAME,apsd
+PROCESS-NAME,com.apple.Maps
+PROCESS-NAME,findmydevice-user-agent
+PROCESS-NAME,fmfd
+PROCESS-NAME,mapspushd
+PROCESS-NAME,netbiosd
 PROCESS-NAME,storedownloadd
+PROCESS-NAME,trustd
 PROCESS-NAME,com.apple.geod
 PROCESS-NAME,Music
 PROCESS-NAME,News
