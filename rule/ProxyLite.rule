@@ -20,7 +20,6 @@ payload:
   - DOMAIN,production-openaicom-storage.azureedge.net
   - DOMAIN,search.yahoo.co.jp
   - DOMAIN,tv.apple.com
-  - DOMAIN,voice.telephony.goog
   - DOMAIN,wego.here.com
   - DOMAIN-SUFFIX,1password.com
   - DOMAIN-SUFFIX,4everproxy.com
@@ -178,6 +177,7 @@ payload:
   - DOMAIN-SUFFIX,content.office.net
   - DOMAIN-SUFFIX,coursehero.com
   - DOMAIN-SUFFIX,crisp.chat
+  - DOMAIN-SUFFIX,crittercism.com
   - DOMAIN-SUFFIX,culturalspot.org
   - DOMAIN-SUFFIX,culturedcode.com
   - DOMAIN-SUFFIX,cygames.jp
@@ -441,6 +441,7 @@ payload:
   - DOMAIN-SUFFIX,newsweek.com
   - DOMAIN-SUFFIX,newyorker.com
   - DOMAIN-SUFFIX,newyorktimes.com
+  - DOMAIN-SUFFIX,nextmedia.com
   - DOMAIN-SUFFIX,nhncorp.jp
   - DOMAIN-SUFFIX,nianticlabs.com
   - DOMAIN-SUFFIX,nicovideo.jp
@@ -484,6 +485,7 @@ payload:
   - DOMAIN-SUFFIX,parallels.com
   - DOMAIN-SUFFIX,parse.com
   - DOMAIN-SUFFIX,parsevideo.com
+  - DOMAIN-SUFFIX,paste.ee
   - DOMAIN-SUFFIX,pastie.org
   - DOMAIN-SUFFIX,pcloud.com
   - DOMAIN-SUFFIX,pdfexpert.com

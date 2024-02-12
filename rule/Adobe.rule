@@ -1,12 +1,5 @@
 payload:
-  - DOMAIN,adobeereg.com
   - DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
-  - DOMAIN,crl.versign.net
-  - DOMAIN,ood.opsource.net
-  - DOMAIN,practivate.adobe
-  - DOMAIN,practivate.adobe.ipp
-  - DOMAIN,practivate.adobe.newoa
-  - DOMAIN,practivate.adobe.ntp
   - DOMAIN-SUFFIX,10xfotolia.com
   - DOMAIN-SUFFIX,2o7.net
   - DOMAIN-SUFFIX,acrobat.com
@@ -136,7 +129,6 @@ payload:
   - DOMAIN-SUFFIX,tenbyfotolia.com
   - DOMAIN-SUFFIX,thawte.com
   - DOMAIN-SUFFIX,toutapp.com
-  - DOMAIN-SUFFIX,tubemogul.com
   - DOMAIN-SUFFIX,typekit.com
   - DOMAIN-SUFFIX,typekit.net
   - DOMAIN-SUFFIX,verisign.com

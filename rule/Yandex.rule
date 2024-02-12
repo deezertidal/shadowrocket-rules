@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,dzen.ru
   - DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
   - DOMAIN-SUFFIX,ya.ru
   - DOMAIN-SUFFIX,yadi.sk
@@ -26,8 +25,6 @@ payload:
   - DOMAIN-SUFFIX,yandex.lv
   - DOMAIN-SUFFIX,yandex.md
   - DOMAIN-SUFFIX,yandex.net
-  - DOMAIN-SUFFIX,yandex.org
-  - DOMAIN-SUFFIX,yandex.pl
   - DOMAIN-SUFFIX,yandex.ru
   - DOMAIN-SUFFIX,yandex.st
   - DOMAIN-SUFFIX,yandex.sx
@@ -35,7 +32,6 @@ payload:
   - DOMAIN-SUFFIX,yandex.tm
   - DOMAIN-SUFFIX,yandex.ua
   - DOMAIN-SUFFIX,yandex.uz
-  - DOMAIN-SUFFIX,yandexcloud.net
   - DOMAIN-SUFFIX,yastatic.net
   - IP-CIDR,100.43.64.0/19,no-resolve
   - IP-CIDR,141.8.128.0/18,no-resolve

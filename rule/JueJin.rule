@@ -1,6 +1,7 @@
 payload:
-  - DOMAIN-SUFFIX,juejin.cn
+  - DOMAIN-SUFFIX,b-gold-cdn.xitu.io
   - DOMAIN-SUFFIX,juejin.im
+  - DOMAIN-SUFFIX,mirror-gold-cdn.xitu.io
   - DOMAIN-SUFFIX,p1-juejin.byteimg.com
   - DOMAIN-SUFFIX,p2-juejin.byteimg.com
   - DOMAIN-SUFFIX,p3-juejin.byteimg.com
@@ -10,4 +11,3 @@ payload:
   - DOMAIN-SUFFIX,p7-juejin.byteimg.com
   - DOMAIN-SUFFIX,p8-juejin.byteimg.com
   - DOMAIN-SUFFIX,p9-juejin.byteimg.com
-  - DOMAIN-SUFFIX,xitu.io

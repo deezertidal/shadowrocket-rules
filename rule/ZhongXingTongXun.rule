@@ -1,4 +1,13 @@
 payload:
+  - DOMAIN-SUFFIX,3gcare.cn
+  - DOMAIN-SUFFIX,nubia.cc
+  - DOMAIN-SUFFIX,nubia.cn
+  - DOMAIN-SUFFIX,nubia.com
+  - DOMAIN-SUFFIX,nubia.com.cn
+  - DOMAIN-SUFFIX,nubia.mobi
+  - DOMAIN-SUFFIX,nubia.net.cn
+  - DOMAIN-SUFFIX,redmagic.com
+  - DOMAIN-SUFFIX,shouhubao.com.cn
   - DOMAIN-SUFFIX,zte.com.cn
   - DOMAIN-SUFFIX,zte.net
   - DOMAIN-SUFFIX,ztedevice.com
@@ -7,5 +16,6 @@ payload:
   - DOMAIN-SUFFIX,ztehotel.com
   - DOMAIN-SUFFIX,ztehotel.com.cn
   - DOMAIN-SUFFIX,ztehotel.net
+  - DOMAIN-SUFFIX,ztemall.com
   - DOMAIN-SUFFIX,ztems.com
   - DOMAIN-SUFFIX,zxingyun.com

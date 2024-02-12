@@ -1,5 +1,5 @@
-DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN,vsmarketplacebadge.apphb.com
+DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
 DOMAIN-SUFFIX,21vbluecloud.net
@@ -493,6 +493,11 @@ DOMAIN-SUFFIX,officeppe.net
 DOMAIN-SUFFIX,officewebapps.cn
 DOMAIN-SUFFIX,omniroot.com
 DOMAIN-SUFFIX,onecollector.cloudapp.aria
+DOMAIN-SUFFIX,onedrive.co
+DOMAIN-SUFFIX,onedrive.co.uk
+DOMAIN-SUFFIX,onedrive.eu
+DOMAIN-SUFFIX,onedrive.net
+DOMAIN-SUFFIX,onedrive.org
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,onenote.net
 DOMAIN-SUFFIX,onestore.ms
@@ -651,14 +656,8 @@ DOMAIN-SUFFIX,xbx.lv
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
 DOMAIN-SUFFIX,1drv.com
-DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,onedrive.co
-DOMAIN-SUFFIX,onedrive.co.uk
 DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,onedrive.eu
-DOMAIN-SUFFIX,onedrive.net
-DOMAIN-SUFFIX,onedrive.org
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,spoprod-a.akamaihd.net

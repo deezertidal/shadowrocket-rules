@@ -34,9 +34,9 @@ USER-AGENT,locationd*
 USER-AGENT,passd*
 USER-AGENT,Music*
 USER-AGENT,AppleNews*
+USER-AGENT,AppleTV*
 USER-AGENT,com.apple.news*
 USER-AGENT,com.apple.trustd*
-USER-AGENT,AppleTV*
 USER-AGENT,com.apple.tv*
 PROCESS-NAME,/System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService
 PROCESS-NAME,CoreLocationAgent
@@ -47,10 +47,8 @@ PROCESS-NAME,findmydevice-user-agent
 PROCESS-NAME,fmfd
 PROCESS-NAME,mapspushd
 PROCESS-NAME,netbiosd
-PROCESS-NAME,storedownloadd
 PROCESS-NAME,trustd
 PROCESS-NAME,com.apple.geod
 PROCESS-NAME,Music
-PROCESS-NAME,News
 PROCESS-NAME,LookupViewService
 PROCESS-NAME,TV

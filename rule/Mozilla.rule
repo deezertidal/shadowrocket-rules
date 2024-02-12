@@ -1,19 +1,14 @@
 payload:
   - DOMAIN-SUFFIX,bugzilla.org
   - DOMAIN-SUFFIX,crates.io
-  - DOMAIN-SUFFIX,developer.allizom.org
   - DOMAIN-SUFFIX,docs.rs
   - DOMAIN-SUFFIX,extensionworkshop.com
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,firefox.com.cn
   - DOMAIN-SUFFIX,firefoxusercontent.com
   - DOMAIN-SUFFIX,getpocket.com
-  - DOMAIN-SUFFIX,mdn.allizom.net
-  - DOMAIN-SUFFIX,mdn.dev
   - DOMAIN-SUFFIX,mdn.mozillademos.org
-  - DOMAIN-SUFFIX,mdn.mozit.cloud
-  - DOMAIN-SUFFIX,mdnplay.dev
-  - DOMAIN-SUFFIX,mdnyalp.dev
+  - DOMAIN-SUFFIX,media.prod.mdn.mozit.cloud
   - DOMAIN-SUFFIX,mofoprod.net
   - DOMAIN-SUFFIX,mozilla.com
   - DOMAIN-SUFFIX,mozilla.community
