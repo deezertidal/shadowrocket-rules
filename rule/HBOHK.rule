@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,wmff.warnermediacdn.com
   - DOMAIN-SUFFIX,hboasia.com
   - DOMAIN-SUFFIX,hboasia1-i.akamaihd.net
   - DOMAIN-SUFFIX,hboasia2-i.akamaihd.net
@@ -16,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,hbogoasia.sg
   - DOMAIN-SUFFIX,hbogoasia.tw
   - DOMAIN-SUFFIX,hbogoprod-vod.akamaized.net
+  - DOMAIN-SUFFIX,hbomaxcdn.com
   - DOMAIN-SUFFIX,now-ashare.com
   - DOMAIN-SUFFIX,now-tv.com
   - DOMAIN-SUFFIX,now.com.hk

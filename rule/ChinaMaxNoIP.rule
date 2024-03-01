@@ -1,10 +1,10 @@
 payload:
+  - DOMAIN-SUFFIX,alibaba
+  - DOMAIN-SUFFIX,tmall
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,ms
-  - DOMAIN-SUFFIX,alibaba
   - DOMAIN-SUFFIX,citic
   - DOMAIN-SUFFIX,sohu
-  - DOMAIN-SUFFIX,tmall
   - DOMAIN-SUFFIX,unicom
   - DOMAIN-SUFFIX,wang
   - DOMAIN-SUFFIX,xn--1qqw23a
@@ -45,7 +45,6 @@ payload:
   - DOMAIN-KEYWORD,aliyun
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,beplay
-  - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,bilibili
