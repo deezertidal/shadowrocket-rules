@@ -1,13 +1,14 @@
 
 # 🔔[个人网站](https://whatshub.top)
 ### :rocket:小火箭配置文件及模块    
-
+* #### [模块直装地址](https://whatshub.top/shadowrocket)
+* #### [小火箭配置教程](https://whatshub.top/manual)
+* #### [分流规则](https://whatshub.top/rule)
 <details>
    <summary>:key:模块及说明</summary>    
    
 * #### :bell::bell::bell:小火箭模块建议搭配[基础配置文件](https://whatshub.top/config/shadowrocket_basic.conf)使用，避免冗余  
 * #### ！！！若某个模块时而生效时而失效，请检查其他模块的主机名前是否添加了%APPEND%，没有添加会导致导致其他模块失效。本仓库模块均添加了%APPEND%
-* #### [模块直装地址](https://whatshub.top/shadowrocket.html)
 
 
 
@@ -356,62 +357,7 @@
 
 
 </details>
-<details>
-  <summary>:key:配置使用教程</summary>
 
-[配置文件链接](https://whatshub.top/config/shadowrocket_basic.conf)   
-[更多教程](https://whatshub.top/manual.html)
-<br>
-### :point_down:打开小火箭 点击配置 点击右上角+号  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1a.png)  
-
-### :point_down:将[配置文件](https://whatshub.top/config/shadowrocket_basic.conf)的链接地址复制粘贴至输入框并点击下载  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/2.png)  
-
-### :point_down:查看底部远程文件找到刚刚下载的链接地址——点击——使用配置。  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/3.png)  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/4.png)  
-
-### :point_down:点击配置文件右侧ⓘ  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/5.png)  
-### :point_down:打开HTTPS解密   
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/6.png)  
-### :point_down:生成新证书  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/7.png)  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/8.png)  
-### :point_down:允许安装  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/9.png)  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/10.png)  
-### :point_down:打开iphone设置 点击已下载的描述文件  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/11.png)  
-### :point_down:安装描述文件  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/12.png)  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/13.png)  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/14.png)  
-### :point_down:返回设置 关于手机 拉到底部 点击证书信任设置 
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/14.5.png)  
-### :point_down:勾选信任证书  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/15.png)  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/16.png)  
-### :point_down:返回小火箭 勾选确认  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/17.png)  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/18.png)  
-### :point_down:效果预览图  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/preview.png)  
-</details>
-
- <details>
-  <summary>:key:模块使用教程</summary>
-
-### :point_down:打开小火箭——点击配置——进入模块  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1sg.png)  
-### :point_down:点击右上角“+”号——将模块链接地址复制粘贴至输入框——下载  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/2sg.png)  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/3sg.png)  
-
-<br>
-<br>
-</details>
 
 <details>
   <summary>:key:Substore脚本</summary>  
