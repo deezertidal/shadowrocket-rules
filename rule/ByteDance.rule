@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,2333333333333.com
   - DOMAIN-SUFFIX,365yg.com
+  - DOMAIN-SUFFIX,activity-zhendingtech.com
   - DOMAIN-SUFFIX,activitybyte.com
   - DOMAIN-SUFFIX,aihst8.com
   - DOMAIN-SUFFIX,amemv.cn
@@ -13,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,bdurl.net
   - DOMAIN-SUFFIX,bdxiguaimg.com
   - DOMAIN-SUFFIX,bdxiguastatic.com
+  - DOMAIN-SUFFIX,bdxiguavod.com
   - DOMAIN-SUFFIX,betastar.cn
   - DOMAIN-SUFFIX,bqtalk.com
   - DOMAIN-SUFFIX,buydouke.com
@@ -20,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,byteactivity.com
   - DOMAIN-SUFFIX,bytecdn.cn
   - DOMAIN-SUFFIX,bytecdn.com
+  - DOMAIN-SUFFIX,bytecdntp.com
   - DOMAIN-SUFFIX,byted-static.com
   - DOMAIN-SUFFIX,byted.org
   - DOMAIN-SUFFIX,bytedance.cn
@@ -82,12 +85,24 @@ payload:
   - DOMAIN-SUFFIX,faceu.com.cn
   - DOMAIN-SUFFIX,faceu.mobi
   - DOMAIN-SUFFIX,faceu.net
+  - DOMAIN-SUFFIX,fanqieopen.com
+  - DOMAIN-SUFFIX,fanqieopenpic.com
+  - DOMAIN-SUFFIX,fanqieopenstatic.com
+  - DOMAIN-SUFFIX,fanqieopenvod.com
+  - DOMAIN-SUFFIX,fanqiesdk.com
+  - DOMAIN-SUFFIX,fanqiesdkpic.com
+  - DOMAIN-SUFFIX,fanqiesdkstatic.com
+  - DOMAIN-SUFFIX,fanqiesdkvod.com
   - DOMAIN-SUFFIX,feelgood.cn
   - DOMAIN-SUFFIX,feiliao.com
   - DOMAIN-SUFFIX,feishu.cn
   - DOMAIN-SUFFIX,feishucdn.com
+  - DOMAIN-SUFFIX,fqnovel-op.com
   - DOMAIN-SUFFIX,fqnovel.com
+  - DOMAIN-SUFFIX,fqnovelim.com
+  - DOMAIN-SUFFIX,fqnovelop.com
   - DOMAIN-SUFFIX,fqnovelpic.com
+  - DOMAIN-SUFFIX,fqnovelstatic.com
   - DOMAIN-SUFFIX,fqnovelvod.com
   - DOMAIN-SUFFIX,fullluckcalendar.com
   - DOMAIN-SUFFIX,gifshow.com
@@ -136,6 +151,7 @@ payload:
   - DOMAIN-SUFFIX,ieshuoshan.cn
   - DOMAIN-SUFFIX,ieshuoshan.com
   - DOMAIN-SUFFIX,ieshuoshan.net
+  - DOMAIN-SUFFIX,ihaohaoxuexi.com
   - DOMAIN-SUFFIX,ihst8.com
   - DOMAIN-SUFFIX,ihuoshanimg.com
   - DOMAIN-SUFFIX,ihuoshanvod.com
@@ -169,6 +185,7 @@ payload:
   - DOMAIN-SUFFIX,mobilelegends.com
   - DOMAIN-SUFFIX,moonton.com
   - DOMAIN-SUFFIX,muyewx.com
+  - DOMAIN-SUFFIX,ndcpp.com
   - DOMAIN-SUFFIX,neihancommunity.cn
   - DOMAIN-SUFFIX,neihancommunity.com
   - DOMAIN-SUFFIX,neihancommunity.net
@@ -179,6 +196,10 @@ payload:
   - DOMAIN-SUFFIX,neihanshequ.com
   - DOMAIN-SUFFIX,nhlink.cn
   - DOMAIN-SUFFIX,nhurl.cn
+  - DOMAIN-SUFFIX,novelfm.com
+  - DOMAIN-SUFFIX,novelfmpic.com
+  - DOMAIN-SUFFIX,novelfmstatic.com
+  - DOMAIN-SUFFIX,novelfmvod.com
   - DOMAIN-SUFFIX,nvsgames.cn
   - DOMAIN-SUFFIX,oceanengine.cn
   - DOMAIN-SUFFIX,oceanengine.com
@@ -189,6 +210,7 @@ payload:
   - DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
   - DOMAIN-SUFFIX,panplayable-toutiao-b.com
   - DOMAIN-SUFFIX,panplayable-toutiao.com
   - DOMAIN-SUFFIX,pglstatp-toutiao-b.com
@@ -196,6 +218,9 @@ payload:
   - DOMAIN-SUFFIX,pipix.com
   - DOMAIN-SUFFIX,qmoji.mobi
   - DOMAIN-SUFFIX,qmoji.net
+  - DOMAIN-SUFFIX,qznovelpic.com
+  - DOMAIN-SUFFIX,qznovelstatic.com
+  - DOMAIN-SUFFIX,qznovelvod.com
   - DOMAIN-SUFFIX,ribaoapi.com
   - DOMAIN-SUFFIX,ribaocdn.com
   - DOMAIN-SUFFIX,samasty.com
