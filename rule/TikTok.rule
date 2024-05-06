@@ -4,7 +4,6 @@ payload:
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
   - DOMAIN-SUFFIX,bytedapm.com
   - DOMAIN-SUFFIX,bytegecko-i18n.com
-  - DOMAIN-SUFFIX,bytegecko.com
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,capcut.com
   - DOMAIN-SUFFIX,ibytedtos.com
@@ -23,5 +22,6 @@ payload:
   - DOMAIN-SUFFIX,tiktokd.org
   - DOMAIN-SUFFIX,tiktokmusic.app
   - DOMAIN-SUFFIX,tiktokv.com
+  - DOMAIN-SUFFIX,tiktokv.us
   - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,tiktok
