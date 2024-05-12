@@ -56,9 +56,6 @@ payload:
   - DOMAIN,gamer2-cds.cdn.hinet.net
   - DOMAIN-SUFFIX,bahamut.com.tw
   - DOMAIN-SUFFIX,gamer.com.tw
-  - DOMAIN-SUFFIX,bilibili.tv
-  - DOMAIN-SUFFIX,bstarstatic.com
-  - DOMAIN,pic-bstarstatic.akamaized.net
   - DOMAIN-KEYWORD,voddazn
   - DOMAIN,d151l6v8er5bdm.cloudfront.net
   - DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net
@@ -243,8 +240,10 @@ payload:
   - DOMAIN-SUFFIX,olevod.tv
   - DOMAIN-SUFFIX,olevodtv.com
   - DOMAIN-KEYWORD,openai
+  - DOMAIN,gemini.google.com
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,client-api.arkoselabs.com
   - DOMAIN-SUFFIX,events.statsigapi.net
   - DOMAIN-SUFFIX,featuregates.org
