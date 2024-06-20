@@ -124,6 +124,7 @@ payload:
   - DOMAIN-SUFFIX,youpin.cn
   - DOMAIN-SUFFIX,youpin.com.cn
   - DOMAIN-SUFFIX,zhutidasai.com
+  - IP-CIDR,110.43.63.242/32,no-resolve
   - IP-CIDR,120.133.33.222/32,no-resolve
   - IP-CIDR,47.241.176.221/32,no-resolve
   - IP-CIDR,58.220.58.152/31,no-resolve
