@@ -11,7 +11,6 @@ DOMAIN,az668014.vo.msecnd.net
 DOMAIN,beta.music.apple.com
 DOMAIN,books.apple.com
 DOMAIN,cdp.cloud.unity3d.com
-DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,clubhouse.pubnubapi.com
 DOMAIN,copilot.microsoft.com
 DOMAIN,disk.yandex.com
@@ -20,9 +19,6 @@ DOMAIN,location.microsoft.com
 DOMAIN,login.microsoftonline.com
 DOMAIN,ocsp.int-x3.letsencrypt.org
 DOMAIN,openaiapi-site.azureedge.net
-DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-DOMAIN,openaicomproductionae4b.blob.core.windows.net
-DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,search.yahoo.co.jp
 DOMAIN,self.events.data.microsoft.com
 DOMAIN,tv.apple.com
@@ -215,6 +211,7 @@ DOMAIN-SUFFIX,dlive.tv
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dnsimple.com
 DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,doub.io
 DOMAIN-SUFFIX,dowjones.com
 DOMAIN-SUFFIX,dribbble.com
