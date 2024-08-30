@@ -177,6 +177,8 @@ DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN-SUFFIX,itv.com
 DOMAIN-SUFFIX,itvstatic.com
 
+DOMAIN-SUFFIX,iwara.tv
+
 USER-AGENT,JOOX*
 USER-AGENT,WeMusic*
 DOMAIN-KEYWORD,jooxweb-api
@@ -297,7 +299,6 @@ DOMAIN-SUFFIX,olevod.tv
 DOMAIN-SUFFIX,olevodtv.com
 
 DOMAIN-KEYWORD,openai
-DOMAIN,gemini.google.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chatgpt.com

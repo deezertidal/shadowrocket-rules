@@ -59,6 +59,7 @@ payload:
   - DOMAIN-SUFFIX,cas.org
   - DOMAIN-SUFFIX,cell.com
   - DOMAIN-SUFFIX,clarivate.com
+  - DOMAIN-SUFFIX,computer.org
   - DOMAIN-SUFFIX,computingreviews.com
   - DOMAIN-SUFFIX,cqvip.com
   - DOMAIN-SUFFIX,crossref.org
@@ -90,6 +91,8 @@ payload:
   - DOMAIN-SUFFIX,ic.ac.uk
   - DOMAIN-SUFFIX,icevirtuallibrary.com
   - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN-SUFFIX,ieeecomputer.org
+  - DOMAIN-SUFFIX,ieeecomputersociety.org
   - DOMAIN-SUFFIX,imf.org
   - DOMAIN-SUFFIX,imperial.ac.uk
   - DOMAIN-SUFFIX,imperial.insendi.com
