@@ -1,10 +1,10 @@
 payload:
+  - DOMAIN-SUFFIX,alibaba
+  - DOMAIN-SUFFIX,tmall
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,ms
-  - DOMAIN-SUFFIX,alibaba
   - DOMAIN-SUFFIX,citic
   - DOMAIN-SUFFIX,sohu
-  - DOMAIN-SUFFIX,tmall
   - DOMAIN-SUFFIX,unicom
   - DOMAIN-SUFFIX,wang
   - DOMAIN-SUFFIX,xn--1qqw23a
@@ -546,6 +546,7 @@ payload:
   - IP-CIDR,103.140.152.0/23,no-resolve
   - IP-CIDR,103.140.192.0/23,no-resolve
   - IP-CIDR,103.140.228.0/23,no-resolve
+  - IP-CIDR,103.140.246.0/24,no-resolve
   - IP-CIDR,103.140.46.0/23,no-resolve
   - IP-CIDR,103.140.70.0/23,no-resolve
   - IP-CIDR,103.140.8.0/23,no-resolve
@@ -3742,7 +3743,6 @@ payload:
   - IP-CIDR,154.72.44.0/24,no-resolve
   - IP-CIDR,154.72.47.0/24,no-resolve
   - IP-CIDR,154.8.128.0/17,no-resolve
-  - IP-CIDR,154.82.100.0/23,no-resolve
   - IP-CIDR,154.83.28.0/24,no-resolve
   - IP-CIDR,154.86.116.0/24,no-resolve
   - IP-CIDR,155.102.0.0/16,no-resolve
@@ -17570,6 +17570,7 @@ payload:
   - IP-CIDR,2a06:1281:8100::/40,no-resolve
   - IP-CIDR,2a06:1281:8200::/39,no-resolve
   - IP-CIDR,2a06:1281:8400::/38,no-resolve
+  - IP-CIDR,2a06:1281:8800::/40,no-resolve
   - IP-CIDR,2a06:1281:8f00::/40,no-resolve
   - IP-CIDR,2a06:1281:b000::/38,no-resolve
   - IP-CIDR,2a06:1287:3901:1::/64,no-resolve
