@@ -34,8 +34,8 @@ USER-AGENT,locationd*
 USER-AGENT,passd*
 USER-AGENT,Music*
 USER-AGENT,AppleNews*
-USER-AGENT,AppleTV*
 USER-AGENT,com.apple.news*
+USER-AGENT,AppleTV*
 USER-AGENT,com.apple.trustd*
 USER-AGENT,com.apple.tv*
 PROCESS-NAME,CoreLocationAgent
