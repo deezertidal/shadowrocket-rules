@@ -1,11 +1,11 @@
 payload:
-  - DOMAIN-SUFFIX,alibaba
-  - DOMAIN-SUFFIX,tmall
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,ms
+  - DOMAIN-SUFFIX,alibaba
   - DOMAIN-SUFFIX,citic
   - DOMAIN-SUFFIX,icbc
   - DOMAIN-SUFFIX,sohu
+  - DOMAIN-SUFFIX,tmall
   - DOMAIN-SUFFIX,unicom
   - DOMAIN-SUFFIX,wang
   - DOMAIN-SUFFIX,xn--1qqw23a

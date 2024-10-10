@@ -1,14 +1,14 @@
 payload:
-  - DOMAIN-SUFFIX,alibaba
-  - DOMAIN-SUFFIX,taobao
-  - DOMAIN-SUFFIX,tmall
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,ms
+  - DOMAIN-SUFFIX,alibaba
   - DOMAIN-SUFFIX,alipay
   - DOMAIN-SUFFIX,baidu
   - DOMAIN-SUFFIX,citic
   - DOMAIN-SUFFIX,icbc
   - DOMAIN-SUFFIX,sohu
+  - DOMAIN-SUFFIX,taobao
+  - DOMAIN-SUFFIX,tmall
   - DOMAIN-SUFFIX,unicom
   - DOMAIN-SUFFIX,wang
   - DOMAIN-SUFFIX,xn--1qqw23a
@@ -15934,6 +15934,7 @@ payload:
   - IP-CIDR,2404:2280:154::/48,no-resolve
   - IP-CIDR,2404:2280:158::/46,no-resolve
   - IP-CIDR,2404:2280:15c::/47,no-resolve
+  - IP-CIDR,2404:2280:15f::/48,no-resolve
   - IP-CIDR,2404:2280:181::/48,no-resolve
   - IP-CIDR,2404:2280:183::/48,no-resolve
   - IP-CIDR,2404:2280:193::/48,no-resolve
