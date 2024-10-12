@@ -20512,7 +20512,6 @@ payload:
   - IP-CIDR,211.153.0.0/16,no-resolve
   - IP-CIDR,211.154.0.0/16,no-resolve
   - IP-CIDR,211.154.0.0/19,no-resolve
-  - IP-CIDR,211.154.0.0/20,no-resolve
   - IP-CIDR,211.154.128.0/17,no-resolve
   - IP-CIDR,211.154.32.0/20,no-resolve
   - IP-CIDR,211.154.48.0/21,no-resolve
