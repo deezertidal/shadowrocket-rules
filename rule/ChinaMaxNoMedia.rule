@@ -4,7 +4,6 @@ payload:
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,ms
   - DOMAIN-SUFFIX,citic
-  - DOMAIN-SUFFIX,icbc
   - DOMAIN-SUFFIX,sohu
   - DOMAIN-SUFFIX,unicom
   - DOMAIN-SUFFIX,wang
@@ -39,6 +38,7 @@ payload:
   - DOMAIN-SUFFIX,xn--vuq861b
   - DOMAIN-SUFFIX,xn--xhq521b
   - DOMAIN-SUFFIX,xn--zfr164b
+  - DOMAIN-SUFFIX,icbc
   - DOMAIN-KEYWORD,.tmall.com
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alipay
@@ -3724,7 +3724,6 @@ payload:
   - IP-CIDR,154.48.227.0/24,no-resolve
   - IP-CIDR,154.48.237.0/24,no-resolve
   - IP-CIDR,154.48.252.0/24,no-resolve
-  - IP-CIDR,154.7.126.0/23,no-resolve
   - IP-CIDR,154.72.42.0/24,no-resolve
   - IP-CIDR,154.72.44.0/24,no-resolve
   - IP-CIDR,154.72.47.0/24,no-resolve
@@ -15955,7 +15954,7 @@ payload:
   - IP-CIDR,2404:2280:147::/48,no-resolve
   - IP-CIDR,2404:2280:150::/48,no-resolve
   - IP-CIDR,2404:2280:152::/48,no-resolve
-  - IP-CIDR,2404:2280:154::/48,no-resolve
+  - IP-CIDR,2404:2280:154::/47,no-resolve
   - IP-CIDR,2404:2280:158::/46,no-resolve
   - IP-CIDR,2404:2280:15c::/47,no-resolve
   - IP-CIDR,2404:2280:15f::/48,no-resolve
@@ -17664,11 +17663,7 @@ payload:
   - IP-CIDR,2a09:54c6:b600::/39,no-resolve
   - IP-CIDR,2a09:54c6:b800::/39,no-resolve
   - IP-CIDR,2a09:54c6:bf00::/40,no-resolve
-  - IP-CIDR,2a09:54c6:c100::/40,no-resolve
-  - IP-CIDR,2a09:54c6:c200::/39,no-resolve
-  - IP-CIDR,2a09:54c6:c400::/38,no-resolve
-  - IP-CIDR,2a09:54c6:c800::/40,no-resolve
-  - IP-CIDR,2a09:54c6:cf00::/40,no-resolve
+  - IP-CIDR,2a09:54c6:c000::/36,no-resolve
   - IP-CIDR,2a09:7c45:0:1000::/52,no-resolve
   - IP-CIDR,2a09:7c45:0:100::/56,no-resolve
   - IP-CIDR,2a09:7c45:0:10::/60,no-resolve
@@ -18903,6 +18898,7 @@ payload:
   - IP-CIDR,2a0f:7803:db88::/48,no-resolve
   - IP-CIDR,2a0f:7803:db8c::/48,no-resolve
   - IP-CIDR,2a0f:7803:dd00::/41,no-resolve
+  - IP-CIDR,2a0f:7803:f7a0::/44,no-resolve
   - IP-CIDR,2a0f:7803:f7f0::/44,no-resolve
   - IP-CIDR,2a0f:7803:f800::/43,no-resolve
   - IP-CIDR,2a0f:7803:f840::/44,no-resolve
