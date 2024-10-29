@@ -51,10 +51,10 @@ payload:
   - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,bilibili
+  - DOMAIN-KEYWORD,qiyi
   - DOMAIN-KEYWORD,hnagroup
   - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,weibo
-  - DOMAIN-KEYWORD,qiyi
   - IP-CIDR,0.0.0.0/32,no-resolve
   - IP-CIDR,1.0.1.0/24,no-resolve
   - IP-CIDR,1.0.2.0/23,no-resolve
@@ -3872,6 +3872,7 @@ payload:
   - IP-CIDR,154.223.168.0/24,no-resolve
   - IP-CIDR,154.223.178.0/24,no-resolve
   - IP-CIDR,154.223.188.0/23,no-resolve
+  - IP-CIDR,154.223.96.0/19,no-resolve
   - IP-CIDR,154.23.188.0/22,no-resolve
   - IP-CIDR,154.36.92.0/23,no-resolve
   - IP-CIDR,154.38.104.0/22,no-resolve
@@ -14400,6 +14401,7 @@ payload:
   - IP-CIDR,23.158.104.244/31,no-resolve
   - IP-CIDR,23.158.104.246/32,no-resolve
   - IP-CIDR,23.158.104.248/29,no-resolve
+  - IP-CIDR,23.159.248.0/24,no-resolve
   - IP-CIDR,23.166.168.0/24,no-resolve
   - IP-CIDR,23.185.104.224/27,no-resolve
   - IP-CIDR,23.211.15.99/32,no-resolve
@@ -16330,8 +16332,7 @@ payload:
   - IP-CIDR,2404:2280:147::/48,no-resolve
   - IP-CIDR,2404:2280:150::/48,no-resolve
   - IP-CIDR,2404:2280:152::/48,no-resolve
-  - IP-CIDR,2404:2280:154::/47,no-resolve
-  - IP-CIDR,2404:2280:157::/48,no-resolve
+  - IP-CIDR,2404:2280:154::/46,no-resolve
   - IP-CIDR,2404:2280:158::/46,no-resolve
   - IP-CIDR,2404:2280:15c::/47,no-resolve
   - IP-CIDR,2404:2280:15f::/48,no-resolve
@@ -18343,6 +18344,7 @@ payload:
   - IP-CIDR,2a09:54c6:ba00::/40,no-resolve
   - IP-CIDR,2a09:54c6:bf00::/40,no-resolve
   - IP-CIDR,2a09:54c6:c700::/40,no-resolve
+  - IP-CIDR,2a09:54c6:cc00::/38,no-resolve
   - IP-CIDR,2a09:7c45::/32,no-resolve
   - IP-CIDR,2a09:b280:ff80::/47,no-resolve
   - IP-CIDR,2a09:b280:ff83::/48,no-resolve
@@ -19544,6 +19546,7 @@ payload:
   - IP-CIDR,2a0e:ec05:7a00::/40,no-resolve
   - IP-CIDR,2a0e:ec05:7b00::/42,no-resolve
   - IP-CIDR,2a0f:5707:ac01::/48,no-resolve
+  - IP-CIDR,2a0f:7803:e300::/41,no-resolve
   - IP-CIDR,2a0f:7803:f7a0::/44,no-resolve
   - IP-CIDR,2a0f:7803:f7c0::/42,no-resolve
   - IP-CIDR,2a0f:7803:f800::/43,no-resolve
@@ -19580,6 +19583,7 @@ payload:
   - IP-CIDR,2a10:9007:5:3::/64,no-resolve
   - IP-CIDR,2a10:c5c1:f016::/48,no-resolve
   - IP-CIDR,2a10:cc40:190::/48,no-resolve
+  - IP-CIDR,2a11:d240::/29,no-resolve
   - IP-CIDR,2a12:3fc2:1200::/44,no-resolve
   - IP-CIDR,2a12:3fc2:df11::/48,no-resolve
   - IP-CIDR,2a12:3fc2:e100::/44,no-resolve
@@ -19649,7 +19653,7 @@ payload:
   - IP-CIDR,2a13:a5c7:2100::/48,no-resolve
   - IP-CIDR,2a13:a5c7:2102::/47,no-resolve
   - IP-CIDR,2a13:a5c7:2109::/48,no-resolve
-  - IP-CIDR,2a13:a5c7:2110::/48,no-resolve
+  - IP-CIDR,2a13:a5c7:2110::/47,no-resolve
   - IP-CIDR,2a13:a5c7:2200::/40,no-resolve
   - IP-CIDR,2a13:aac4::/32,no-resolve
   - IP-CIDR,2a13:b487:1b86::/47,no-resolve
