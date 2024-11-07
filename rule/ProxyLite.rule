@@ -14,7 +14,6 @@ payload:
   - DOMAIN,cdp.cloud.unity3d.com
   - DOMAIN,clubhouse.pubnubapi.com
   - DOMAIN,copilot.microsoft.com
-  - DOMAIN,disk.yandex.com
   - DOMAIN,lab.skk.moe
   - DOMAIN,location.microsoft.com
   - DOMAIN,login.microsoftonline.com
@@ -842,6 +841,7 @@ payload:
   - DOMAIN-SUFFIX,yadi.sk
   - DOMAIN-SUFFIX,yahoo.com
   - DOMAIN-SUFFIX,yahooapis.com
+  - DOMAIN-SUFFIX,yandex.com
   - DOMAIN-SUFFIX,yandex.ru
   - DOMAIN-SUFFIX,yasni.co.uk
   - DOMAIN-SUFFIX,yastatic.net
