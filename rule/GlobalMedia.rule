@@ -1,6 +1,5 @@
 payload:
   - DOMAIN-SUFFIX,youtube
-  - DOMAIN-KEYWORD,-spotify-
   - DOMAIN-KEYWORD,abematv.akamaized.net
   - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
   - DOMAIN-KEYWORD,avoddashs
@@ -18,7 +17,7 @@ payload:
   - DOMAIN-KEYWORD,nowtv100
   - DOMAIN-KEYWORD,olevod
   - DOMAIN-KEYWORD,rthklive
-  - DOMAIN-KEYWORD,spotify.com
+  - DOMAIN-KEYWORD,spotify
   - DOMAIN-KEYWORD,tiktokcdn
   - DOMAIN-KEYWORD,ttvnw
   - DOMAIN-KEYWORD,tvbanywhere
