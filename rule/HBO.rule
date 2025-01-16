@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN,wmff.warnermediacdn.com
   - DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
   - DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
   - DOMAIN-SUFFIX,cinemax.com
@@ -36,6 +35,7 @@ payload:
   - DOMAIN-SUFFIX,hbonow.com
   - DOMAIN-SUFFIX,hbounify-prod.evergent.com
   - DOMAIN-SUFFIX,manifest.prod.boltdns.net
+  - DOMAIN-SUFFIX,max.com
   - DOMAIN-SUFFIX,maxgo.com
   - DOMAIN-SUFFIX,now-ashare.com
   - DOMAIN-SUFFIX,now-tv.com
@@ -44,4 +44,5 @@ payload:
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-SUFFIX,nowe.hk
   - DOMAIN-SUFFIX,players.brightcove.net
+  - DOMAIN-SUFFIX,warnermediacdn.com
   - DOMAIN-SUFFIX,youboranqs01.com
