@@ -2,7 +2,6 @@ payload:
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,0d.kebhana.mx
   - DOMAIN,1337.abcvg.info
-  - DOMAIN,6ahddutb1ucc3cp.ru
   - DOMAIN,api.ipv4online.uk
   - DOMAIN,bandito.byterunner.io
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -30,6 +29,8 @@ payload:
   - DOMAIN,isk.richardsw.club
   - DOMAIN,ismaarino.com
   - DOMAIN,leet-tracker.moe
+  - DOMAIN,martin-gebhardt.eu
+  - DOMAIN,new-line.net
   - DOMAIN,ns-1.x-fins.com
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,open.demonii.com
@@ -56,9 +57,7 @@ payload:
   - DOMAIN,t.overflow.biz
   - DOMAIN,taciturn-shadow.spb.ru
   - DOMAIN,tk.greedland.net
-  - DOMAIN,torrent.tracker.durukanbal.com
   - DOMAIN,torrentsmd.com
-  - DOMAIN,tr.abir.ga
   - DOMAIN,tr.burnabyhighstar.com
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,tr.zukizuki.org
@@ -70,6 +69,7 @@ payload:
   - DOMAIN,tracker.beeimg.com
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.bjut.jp
+  - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bt-hash.com
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tracker.bz
@@ -83,11 +83,13 @@ payload:
   - DOMAIN,tracker.dump.cl
   - DOMAIN,tracker.filemail.com
   - DOMAIN,tracker.fnix.net
+  - DOMAIN,tracker.foreverpirates.co
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,tracker.gigantino.net
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.ipv6tracker.org
-  - DOMAIN,tracker.kmzs123.com
+  - DOMAIN,tracker.ipv6tracker.ru
+  - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,tracker.leechshield.link
   - DOMAIN,tracker.lilithraws.org
@@ -96,6 +98,7 @@ payload:
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.mywaifu.best
   - DOMAIN,tracker.nanoha.org
+  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.opentrackr.org
   - DOMAIN,tracker.openwebtorrent.com
   - DOMAIN,tracker.qu.ax
@@ -103,20 +106,20 @@ payload:
   - DOMAIN,tracker.sbsub.com
   - DOMAIN,tracker.skyts.net
   - DOMAIN,tracker.srv00.com
+  - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,tracker.waaa.moe
-  - DOMAIN,tracker.wsaoa.eu.org
   - DOMAIN,tracker.xiaoduola.xyz
   - DOMAIN,tracker.yemekyedim.com
-  - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.myporn.club
   - DOMAIN,tracker2.dler.org
   - DOMAIN,tracker2.itzmx.com
+  - DOMAIN,tracker3.itzmx.com
   - DOMAIN,tracker4.itzmx.com
   - DOMAIN,tracker810.xyz
   - DOMAIN,ttk2.nbaonlineservice.com
