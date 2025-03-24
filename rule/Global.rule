@@ -1,4 +1,4 @@
-# 由whatshub.top自动维护 202503232235
+# 由whatshub.top自动维护 202503240211
 payload:
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,aws
@@ -7841,6 +7841,7 @@ payload:
   - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-SUFFIX,coinbene.com
   - DOMAIN-SUFFIX,coinbit.co.kr
+  - DOMAIN-SUFFIX,coincarp.com
   - DOMAIN-SUFFIX,coincola.com
   - DOMAIN-SUFFIX,coindesk.com
   - DOMAIN-SUFFIX,coinegg.com
@@ -11040,7 +11041,6 @@ payload:
   - DOMAIN-SUFFIX,en.cloudss.me
   - DOMAIN-SUFFIX,en.eastturkistan-gov.org
   - DOMAIN-SUFFIX,en.efind.ru
-  - DOMAIN-SUFFIX,en.favotter.net
   - DOMAIN-SUFFIX,en.godfootsteps.org
   - DOMAIN-SUFFIX,en.hao123.com
   - DOMAIN-SUFFIX,en.howbbs.com
@@ -11868,7 +11868,6 @@ payload:
   - DOMAIN-SUFFIX,fast-proxy.com.de
   - DOMAIN-SUFFIX,fast-ssr.org
   - DOMAIN-SUFFIX,fast.lycorisrecoil.org
-  - DOMAIN-SUFFIX,fast.wistia.com
   - DOMAIN-SUFFIX,fastcat.pw
   - DOMAIN-SUFFIX,fastdog.app
   - DOMAIN-SUFFIX,fastdog.cc
@@ -32625,7 +32624,6 @@ payload:
   - DOMAIN-SUFFIX,video.aol.co.uk
   - DOMAIN-SUFFIX,video.aol.com
   - DOMAIN-SUFFIX,video.ap.org
-  - DOMAIN-SUFFIX,video.fdbox.com
   - DOMAIN-SUFFIX,video.foxbusiness.com
   - DOMAIN-SUFFIX,video.xgfemdom.com
   - DOMAIN-SUFFIX,video.yahoo.com
@@ -36394,6 +36392,8 @@ payload:
   - DOMAIN-SUFFIX,zzz633.net
   - DOMAIN-SUFFIX,zzztube.com
   - DOMAIN-SUFFIX,zzztube.tv
+  - IP-CIDR,1.0.0.1/32
+  - IP-CIDR,1.1.1.1/32
   - IP-CIDR,109.239.140.0/24
   - IP-CIDR,14.102.250.18/32
   - IP-CIDR,14.102.250.19/32
