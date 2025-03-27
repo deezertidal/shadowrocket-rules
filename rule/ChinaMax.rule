@@ -1,8 +1,8 @@
 payload:
-  - DOMAIN-SUFFIX,alipay
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,ms
   - DOMAIN-SUFFIX,alibaba
+  - DOMAIN-SUFFIX,alipay
   - DOMAIN-SUFFIX,baidu
   - DOMAIN-SUFFIX,citic
   - DOMAIN-SUFFIX,icbc
@@ -51,10 +51,10 @@ payload:
   - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,bilibili
+  - DOMAIN-KEYWORD,qiyi
   - DOMAIN-KEYWORD,hnagroup
   - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,weibo
-  - DOMAIN-KEYWORD,qiyi
   - IP-CIDR,0.0.0.0/32,no-resolve
   - IP-CIDR,1.0.1.0/24,no-resolve
   - IP-CIDR,1.0.2.0/23,no-resolve
@@ -189,6 +189,7 @@ payload:
   - IP-CIDR,101.53.100.0/22,no-resolve
   - IP-CIDR,101.54.0.0/16,no-resolve
   - IP-CIDR,101.55.224.0/21,no-resolve
+  - IP-CIDR,101.55.59.0/24,no-resolve
   - IP-CIDR,101.64.0.0/13,no-resolve
   - IP-CIDR,101.72.0.0/14,no-resolve
   - IP-CIDR,101.76.0.0/15,no-resolve
@@ -4271,6 +4272,7 @@ payload:
   - IP-CIDR,170.10.209.0/24,no-resolve
   - IP-CIDR,170.179.0.0/16,no-resolve
   - IP-CIDR,170.225.224.0/23,no-resolve
+  - IP-CIDR,170.245.251.0/24,no-resolve
   - IP-CIDR,170.252.152.0/21,no-resolve
   - IP-CIDR,170.33.0.0/16,no-resolve
   - IP-CIDR,171.104.0.0/13,no-resolve
@@ -4343,6 +4345,7 @@ payload:
   - IP-CIDR,176.56.38.0/24,no-resolve
   - IP-CIDR,177.20.208.58/32,no-resolve
   - IP-CIDR,178.236.232.0/24,no-resolve
+  - IP-CIDR,179.42.112.0/23,no-resolve
   - IP-CIDR,18.166.207.110/32,no-resolve
   - IP-CIDR,18.166.37.238/32,no-resolve
   - IP-CIDR,18.167.115.91/32,no-resolve
@@ -15446,6 +15449,7 @@ payload:
   - IP-CIDR,2401:f3e0::/32,no-resolve
   - IP-CIDR,2401:f4a0::/32,no-resolve
   - IP-CIDR,2401:f7c0::/32,no-resolve
+  - IP-CIDR,2401:f860::/44,no-resolve
   - IP-CIDR,2401:f9c0:cdcd::/48,no-resolve
   - IP-CIDR,2401:fa00:40::/43,no-resolve
   - IP-CIDR,2401:fa00:480:7600::/55,no-resolve
@@ -16064,8 +16068,7 @@ payload:
   - IP-CIDR,2404:2280:170::/48,no-resolve
   - IP-CIDR,2404:2280:177::/48,no-resolve
   - IP-CIDR,2404:2280:17a::/47,no-resolve
-  - IP-CIDR,2404:2280:17c::/48,no-resolve
-  - IP-CIDR,2404:2280:17e::/47,no-resolve
+  - IP-CIDR,2404:2280:17c::/46,no-resolve
   - IP-CIDR,2404:2280:180::/47,no-resolve
   - IP-CIDR,2404:2280:183::/48,no-resolve
   - IP-CIDR,2404:2280:187::/48,no-resolve
@@ -17999,9 +18002,7 @@ payload:
   - IP-CIDR,2a09:54c6:4000::/36,no-resolve
   - IP-CIDR,2a09:54c6:6000::/35,no-resolve
   - IP-CIDR,2a09:54c6:b000::/36,no-resolve
-  - IP-CIDR,2a09:54c6:c100::/40,no-resolve
-  - IP-CIDR,2a09:54c6:c200::/40,no-resolve
-  - IP-CIDR,2a09:54c6:c400::/40,no-resolve
+  - IP-CIDR,2a09:54c6:c000::/36,no-resolve
   - IP-CIDR,2a09:7c45:0:1000::/52,no-resolve
   - IP-CIDR,2a09:7c45:0:100::/56,no-resolve
   - IP-CIDR,2a09:7c45:0:10::/60,no-resolve
@@ -19189,6 +19190,7 @@ payload:
   - IP-CIDR,2a0e:aa06:4e0::/44,no-resolve
   - IP-CIDR,2a0e:aa06:500::/44,no-resolve
   - IP-CIDR,2a0e:aa06:520::/48,no-resolve
+  - IP-CIDR,2a0e:aa06:525::/48,no-resolve
   - IP-CIDR,2a0e:aa06:541::/48,no-resolve
   - IP-CIDR,2a0e:aa06::/40,no-resolve
   - IP-CIDR,2a0e:aa07:e01b::/48,no-resolve
@@ -19258,6 +19260,7 @@ payload:
   - IP-CIDR,2a0f:7803:fa22::/47,no-resolve
   - IP-CIDR,2a0f:7803:fa24::/46,no-resolve
   - IP-CIDR,2a0f:7803:faf3::/48,no-resolve
+  - IP-CIDR,2a0f:7803:faf7::/48,no-resolve
   - IP-CIDR,2a0f:7803:fd00::/44,no-resolve
   - IP-CIDR,2a0f:7803:fd20::/43,no-resolve
   - IP-CIDR,2a0f:7803:fd40::/42,no-resolve
@@ -19406,6 +19409,7 @@ payload:
   - IP-CIDR,2a14:7581:b40::/48,no-resolve
   - IP-CIDR,2a14:7581:b50::/48,no-resolve
   - IP-CIDR,2a14:7581:bbb::/48,no-resolve
+  - IP-CIDR,2a14:7581:ffc::/48,no-resolve
   - IP-CIDR,2a14:7584:9000::/36,no-resolve
   - IP-CIDR,2a14:7584::/36,no-resolve
   - IP-CIDR,2a14:7c0:4a01::/48,no-resolve
