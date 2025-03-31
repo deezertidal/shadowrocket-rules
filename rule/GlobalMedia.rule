@@ -1,9 +1,11 @@
 payload:
   - DOMAIN-SUFFIX,youtube
   - DOMAIN-KEYWORD,abematv.akamaized.net
+  - DOMAIN-KEYWORD,anthropic
   - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
   - DOMAIN-KEYWORD,avoddashs
   - DOMAIN-KEYWORD,bbcfmt
+  - DOMAIN-KEYWORD,claude
   - DOMAIN-KEYWORD,discovery.uplynk.com
   - DOMAIN-KEYWORD,dualstack.apiproxy-
   - DOMAIN-KEYWORD,dualstack.ichnaea-web-
