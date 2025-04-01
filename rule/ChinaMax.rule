@@ -1,14 +1,14 @@
 payload:
+  - DOMAIN-SUFFIX,alipay
+  - DOMAIN-SUFFIX,alibaba
+  - DOMAIN-SUFFIX,taobao
+  - DOMAIN-SUFFIX,tmall
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,ms
-  - DOMAIN-SUFFIX,alibaba
-  - DOMAIN-SUFFIX,alipay
   - DOMAIN-SUFFIX,baidu
   - DOMAIN-SUFFIX,citic
   - DOMAIN-SUFFIX,icbc
   - DOMAIN-SUFFIX,sohu
-  - DOMAIN-SUFFIX,taobao
-  - DOMAIN-SUFFIX,tmall
   - DOMAIN-SUFFIX,unicom
   - DOMAIN-SUFFIX,wang
   - DOMAIN-SUFFIX,xn--1qqw23a
@@ -51,10 +51,10 @@ payload:
   - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,bilibili
-  - DOMAIN-KEYWORD,qiyi
   - DOMAIN-KEYWORD,hnagroup
   - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,weibo
+  - DOMAIN-KEYWORD,qiyi
   - IP-CIDR,0.0.0.0/32,no-resolve
   - IP-CIDR,1.0.1.0/24,no-resolve
   - IP-CIDR,1.0.2.0/23,no-resolve
@@ -3790,6 +3790,7 @@ payload:
   - IP-CIDR,154.197.163.0/24,no-resolve
   - IP-CIDR,154.197.168.0/24,no-resolve
   - IP-CIDR,154.197.172.0/24,no-resolve
+  - IP-CIDR,154.197.180.0/24,no-resolve
   - IP-CIDR,154.197.189.0/24,no-resolve
   - IP-CIDR,154.197.192.0/24,no-resolve
   - IP-CIDR,154.197.206.0/24,no-resolve
@@ -19099,7 +19100,7 @@ payload:
   - IP-CIDR,2a0a:6040:d740::/48,no-resolve
   - IP-CIDR,2a0a:6040:ec00::/40,no-resolve
   - IP-CIDR,2a0a:6042:4100::/40,no-resolve
-  - IP-CIDR,2a0a:6044:6700::/40,no-resolve
+  - IP-CIDR,2a0a:6044:6600::/39,no-resolve
   - IP-CIDR,2a0a:6044:7a00::/40,no-resolve
   - IP-CIDR,2a0a:79c0:2b0::/44,no-resolve
   - IP-CIDR,2a0a:79c0:f2b0::/44,no-resolve
@@ -19402,6 +19403,7 @@ payload:
   - IP-CIDR,2a14:7580:e200::/40,no-resolve
   - IP-CIDR,2a14:7580:e484::/48,no-resolve
   - IP-CIDR,2a14:7580:fa00::/40,no-resolve
+  - IP-CIDR,2a14:7580:fe00::/40,no-resolve
   - IP-CIDR,2a14:7581:9010::/44,no-resolve
   - IP-CIDR,2a14:7581:b20::/48,no-resolve
   - IP-CIDR,2a14:7581:b30::/48,no-resolve
