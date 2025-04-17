@@ -1,4 +1,4 @@
-# 由whatshub.top自动维护 202504171644
+# 由whatshub.top自动维护 202504171928
 payload:
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,aws
@@ -553,10 +553,15 @@ payload:
   - DOMAIN-SUFFIX,1kcp.com
   - DOMAIN-SUFFIX,1kho.com
   - DOMAIN-SUFFIX,1lib.at
+  - DOMAIN-SUFFIX,1lib.cloud
+  - DOMAIN-SUFFIX,1lib.cz
+  - DOMAIN-SUFFIX,1lib.domains
+  - DOMAIN-SUFFIX,1lib.education
   - DOMAIN-SUFFIX,1lib.eu
   - DOMAIN-SUFFIX,1lib.fr
   - DOMAIN-SUFFIX,1lib.in
   - DOMAIN-SUFFIX,1lib.io
+  - DOMAIN-SUFFIX,1lib.limited
   - DOMAIN-SUFFIX,1lib.me
   - DOMAIN-SUFFIX,1lib.ml
   - DOMAIN-SUFFIX,1lib.net
@@ -564,6 +569,7 @@ payload:
   - DOMAIN-SUFFIX,1lib.pl
   - DOMAIN-SUFFIX,1lib.sk
   - DOMAIN-SUFFIX,1lib.to
+  - DOMAIN-SUFFIX,1lib.tw
   - DOMAIN-SUFFIX,1lib.uk
   - DOMAIN-SUFFIX,1lib.us
   - DOMAIN-SUFFIX,1login.to
@@ -1109,6 +1115,7 @@ payload:
   - DOMAIN-SUFFIX,3hentai.net
   - DOMAIN-SUFFIX,3kad.com
   - DOMAIN-SUFFIX,3kirikou.org
+  - DOMAIN-SUFFIX,3lib.net
   - DOMAIN-SUFFIX,3movs.com
   - DOMAIN-SUFFIX,3naked.com
   - DOMAIN-SUFFIX,3p-link.com
@@ -4306,10 +4313,12 @@ payload:
   - DOMAIN-SUFFIX,azurewebsites.net
   - DOMAIN-SUFFIX,azyya.com
   - DOMAIN-SUFFIX,azziana.com
+  - DOMAIN-SUFFIX,b-ok.africa
   - DOMAIN-SUFFIX,b-ok.as
   - DOMAIN-SUFFIX,b-ok.asia
   - DOMAIN-SUFFIX,b-ok.cc
   - DOMAIN-SUFFIX,b-ok.com
+  - DOMAIN-SUFFIX,b-ok.global
   - DOMAIN-SUFFIX,b-ok.lat
   - DOMAIN-SUFFIX,b-ok.org
   - DOMAIN-SUFFIX,b-ok.xyz
@@ -5814,6 +5823,7 @@ payload:
   - DOMAIN-SUFFIX,bookbl.com
   - DOMAIN-SUFFIX,bookdepository.com
   - DOMAIN-SUFFIX,bookepub.com
+  - DOMAIN-SUFFIX,bookfi.net
   - DOMAIN-SUFFIX,bookgb.bfnn.org
   - DOMAIN-SUFFIX,bookgb.bfnn2.org
   - DOMAIN-SUFFIX,booklife.com.tw
@@ -5834,12 +5844,15 @@ payload:
   - DOMAIN-SUFFIX,books24x7.com
   - DOMAIN-SUFFIX,booksamillion.com
   - DOMAIN-SUFFIX,booksamillioninc.com
+  - DOMAIN-SUFFIX,booksc.eu
   - DOMAIN-SUFFIX,booksc.me
   - DOMAIN-SUFFIX,booksc.org
   - DOMAIN-SUFFIX,booksc.xyz
   - DOMAIN-SUFFIX,bookscouter.com
+  - DOMAIN-SUFFIX,bookshome.info
   - DOMAIN-SUFFIX,bookshome.net
   - DOMAIN-SUFFIX,bookshome.org
+  - DOMAIN-SUFFIX,bookshome.world
   - DOMAIN-SUFFIX,bookstore.cmlmuf.top
   - DOMAIN-SUFFIX,booktopia.com.au
   - DOMAIN-SUFFIX,bookwalker.com.tw
@@ -14240,6 +14253,7 @@ payload:
   - DOMAIN-SUFFIX,go-lagu.net
   - DOMAIN-SUFFIX,go-pki.com
   - DOMAIN-SUFFIX,go-tellm.com
+  - DOMAIN-SUFFIX,go-to-library.sk
   - DOMAIN-SUFFIX,go-to-zlibrary.se
   - DOMAIN-SUFFIX,go.com
   - DOMAIN-SUFFIX,go.dev
@@ -17595,6 +17609,7 @@ payload:
   - DOMAIN-SUFFIX,itaeromanga.com
   - DOMAIN-SUFFIX,itaiwan.club
   - DOMAIN-SUFFIX,itaiwan.gov.tw
+  - DOMAIN-SUFFIX,italian-books.sk
   - DOMAIN-SUFFIX,italianpod101.com
   - DOMAIN-SUFFIX,italiatibet.org
   - DOMAIN-SUFFIX,itangtalk.com
@@ -19768,6 +19783,7 @@ payload:
   - DOMAIN-SUFFIX,librevpn.org
   - DOMAIN-SUFFIX,librosdelsur.com
   - DOMAIN-SUFFIX,libsolutions.app
+  - DOMAIN-SUFFIX,libsolutions.domains
   - DOMAIN-SUFFIX,libsolutions.net
   - DOMAIN-SUFFIX,libstc.cc
   - DOMAIN-SUFFIX,libsyn.com
@@ -20463,6 +20479,7 @@ payload:
   - DOMAIN-SUFFIX,m88sb.com
   - DOMAIN-SUFFIX,ma-bimbo.com
   - DOMAIN-SUFFIX,ma.hao123.com
+  - DOMAIN-SUFFIX,ma1lib.org
   - DOMAIN-SUFFIX,ma3loooma.blogspot.hk
   - DOMAIN-SUFFIX,maa1801.com
   - DOMAIN-SUFFIX,maa1802.com
@@ -28399,6 +28416,7 @@ payload:
   - DOMAIN-SUFFIX,singaporestar.com
   - DOMAIN-SUFFIX,singfortibet.com
   - DOMAIN-SUFFIX,singlelogin.app
+  - DOMAIN-SUFFIX,singlelogin.me
   - DOMAIN-SUFFIX,singlelogin.org
   - DOMAIN-SUFFIX,singlelogin.re
   - DOMAIN-SUFFIX,singlelogin.rs
@@ -36171,10 +36189,12 @@ payload:
   - DOMAIN-SUFFIX,yzlm55.com
   - DOMAIN-SUFFIX,yzvpn.com
   - DOMAIN-SUFFIX,yzzk.com
+  - DOMAIN-SUFFIX,z-lib.gd
   - DOMAIN-SUFFIX,z-lib.gs
   - DOMAIN-SUFFIX,z-lib.id
   - DOMAIN-SUFFIX,z-lib.io
   - DOMAIN-SUFFIX,z-lib.org
+  - DOMAIN-SUFFIX,z-lib.ps
   - DOMAIN-SUFFIX,z-library.cc
   - DOMAIN-SUFFIX,z-library.es
   - DOMAIN-SUFFIX,z-library.re
@@ -36492,7 +36512,9 @@ payload:
   - DOMAIN-SUFFIX,zlib-official.com
   - DOMAIN-SUFFIX,zlib.app
   - DOMAIN-SUFFIX,zlib.cydiar.com
+  - DOMAIN-SUFFIX,zlib.life
   - DOMAIN-SUFFIX,zlib.lol
+  - DOMAIN-SUFFIX,zlibcdn.com
   - DOMAIN-SUFFIX,zlibcdn2.com
   - DOMAIN-SUFFIX,zlibrary-510.pm
   - DOMAIN-SUFFIX,zlibrary-801314.re
