@@ -1,4 +1,4 @@
-# 由whatshub.top自动维护 202505032236
+# 由whatshub.top自动维护 202505040225
 payload:
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,aws
@@ -1915,7 +1915,6 @@ payload:
   - DOMAIN-SUFFIX,88818.com
   - DOMAIN-SUFFIX,88866.com
   - DOMAIN-SUFFIX,88879.com
-  - DOMAIN-SUFFIX,8888.google
   - DOMAIN-SUFFIX,888dav.com
   - DOMAIN-SUFFIX,888funcity.com
   - DOMAIN-SUFFIX,888paris.com
@@ -10936,6 +10935,7 @@ payload:
   - DOMAIN-SUFFIX,en.cloudss.me
   - DOMAIN-SUFFIX,en.eastturkistan-gov.org
   - DOMAIN-SUFFIX,en.efind.ru
+  - DOMAIN-SUFFIX,en.favotter.net
   - DOMAIN-SUFFIX,en.godfootsteps.org
   - DOMAIN-SUFFIX,en.hao123.com
   - DOMAIN-SUFFIX,en.howbbs.com
@@ -11694,7 +11694,6 @@ payload:
   - DOMAIN-SUFFIX,fanfou.im
   - DOMAIN-SUFFIX,fangbinxing.com
   - DOMAIN-SUFFIX,fangeming.com
-  - DOMAIN-SUFFIX,fangeming.comffvpn.com
   - DOMAIN-SUFFIX,fangeqiang.com
   - DOMAIN-SUFFIX,fanglizhi.info
   - DOMAIN-SUFFIX,fangmincn.org
@@ -22728,6 +22727,7 @@ payload:
   - DOMAIN-SUFFIX,noboring.com
   - DOMAIN-SUFFIX,nocabinfever.com
   - DOMAIN-SUFFIX,nodebe4.github.io
+  - DOMAIN-SUFFIX,nodeloc.com
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,nodesnoop.com
   - DOMAIN-SUFFIX,noemamag.com
@@ -32139,7 +32139,6 @@ payload:
   - DOMAIN-SUFFIX,v1qp.net
   - DOMAIN-SUFFIX,v2.52rosi.com
   - DOMAIN-SUFFIX,v2.help
-  - DOMAIN-SUFFIX,v2.hysteria.network
   - DOMAIN-SUFFIX,v2.suda.moe
   - DOMAIN-SUFFIX,v2.vuetifyjs.com
   - DOMAIN-SUFFIX,v2aff.link
@@ -32392,6 +32391,7 @@ payload:
   - DOMAIN-SUFFIX,video.aol.co.uk
   - DOMAIN-SUFFIX,video.aol.com
   - DOMAIN-SUFFIX,video.ap.org
+  - DOMAIN-SUFFIX,video.fdbox.com
   - DOMAIN-SUFFIX,video.foxbusiness.com
   - DOMAIN-SUFFIX,video.xgfemdom.com
   - DOMAIN-SUFFIX,video.yahoo.com
@@ -36157,8 +36157,6 @@ payload:
   - DOMAIN-SUFFIX,zzz.thedns.work
   - DOMAIN-SUFFIX,zzztube.com
   - DOMAIN-SUFFIX,zzztube.tv
-  - IP-CIDR,1.0.0.1/32
-  - IP-CIDR,1.1.1.1/32
   - IP-CIDR,109.239.140.0/24
   - IP-CIDR,14.102.250.18/32
   - IP-CIDR,14.102.250.19/32
