@@ -2,8 +2,8 @@ payload:
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,0d.kebhana.mx
   - DOMAIN,1337.abcvg.info
+  - DOMAIN,admin.52ywp.com
   - DOMAIN,bandito.byterunner.io
-  - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN,bt.ktrackers.com
   - DOMAIN,bt.okmp3.ru
   - DOMAIN,bt.poletracker.org
@@ -11,6 +11,7 @@ payload:
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,buny.uk
   - DOMAIN,chihaya.de
+  - DOMAIN,concen.org
   - DOMAIN,d40969.acod.regrucolo.ru
   - DOMAIN,discord.heihachi.pw
   - DOMAIN,evan.im
@@ -18,18 +19,16 @@ payload:
   - DOMAIN,explodie.org
   - DOMAIN,extracker.dahrkael.net
   - DOMAIN,finbytes.org
-  - DOMAIN,fosstorrents.com
   - DOMAIN,highteahop.top
   - DOMAIN,home.yxgz.club
-  - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,isk.richardsw.club
-  - DOMAIN,ismaarino.com
   - DOMAIN,leet-tracker.moe
   - DOMAIN,lucke.fenesisu.moe
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ns-1.x-fins.com
+  - DOMAIN,ns3109441.mypdns.org
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,open.demonii.com
   - DOMAIN,open.dstud.io
@@ -54,7 +53,6 @@ payload:
   - DOMAIN,taciturn-shadow.spb.ru
   - DOMAIN,thouvenin.cloud
   - DOMAIN,tk.greedland.net
-  - DOMAIN,torrent.hificode.in
   - DOMAIN,torrent.i.ng
   - DOMAIN,torrentsmd.com
   - DOMAIN,tr.abiir.top
@@ -76,6 +74,7 @@ payload:
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,tracker.cyberia.is
   - DOMAIN,tracker.darkness.services
+  - DOMAIN,tracker.ddunlimited.net
   - DOMAIN,tracker.deadorbit.nl
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.dler.org
@@ -101,7 +100,6 @@ payload:
   - DOMAIN,tracker.leechshield.link
   - DOMAIN,tracker.lilithraws.org
   - DOMAIN,tracker.lintk.me
-  - DOMAIN,tracker.linvk.com
   - DOMAIN,tracker.moeblog.cn
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.mywaifu.best
@@ -130,7 +128,7 @@ payload:
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,tracker1.520.jp
-  - DOMAIN,tracker1.itzmx.com
+  - DOMAIN,tracker1.myporn.club
   - DOMAIN,tracker2.dler.org
   - DOMAIN,tracker2.itzmx.com
   - DOMAIN,tracker3.itzmx.com
