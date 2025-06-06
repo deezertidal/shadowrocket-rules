@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,ntp.aliyun.com
   - DOMAIN-SUFFIX,ntp.cloud.aliyuncs.com
   - DOMAIN-SUFFIX,ntp.sjtu.edu.cn
+  - DOMAIN-SUFFIX,ntp.tencent.com
   - DOMAIN-SUFFIX,ntp1.aliyun.com
   - DOMAIN-SUFFIX,ntp1.cloud.aliyuncs.com
   - DOMAIN-SUFFIX,ntp10.cloud.aliyuncs.com

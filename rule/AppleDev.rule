@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
   - DOMAIN-SUFFIX,cups.org
   - DOMAIN-SUFFIX,developer.apple.com
+  - DOMAIN-SUFFIX,developerservices2.apple.com
   - DOMAIN-SUFFIX,devimages-cdn.apple.com
   - DOMAIN-SUFFIX,devstreaming-cdn.apple.com
   - DOMAIN-SUFFIX,foundationdb.org
@@ -17,6 +18,8 @@ payload:
   - DOMAIN-SUFFIX,macruby.com
   - DOMAIN-SUFFIX,macruby.net
   - DOMAIN-SUFFIX,macruby.org
+  - DOMAIN-SUFFIX,notary-submissions-prod.s3-accelerate.amazonaws.com
+  - DOMAIN-SUFFIX,notary-submissions-prod.s3.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,p-events-delivery.akamaized.net
   - DOMAIN-SUFFIX,playgrounds-cdn.apple.com
   - DOMAIN-SUFFIX,push-apple.com.akadns.net
@@ -31,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,swift.org
   - DOMAIN-SUFFIX,swiftui.cn
   - DOMAIN-SUFFIX,swiftui.com.cn
+  - DOMAIN-SUFFIX,timestamp.apple.com
   - DOMAIN-SUFFIX,webkit.org
   - DOMAIN-SUFFIX,webkitgtk.org
   - DOMAIN-SUFFIX,webobjects.com
