@@ -2,6 +2,7 @@ payload:
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,0d.kebhana.mx
   - DOMAIN,1337.abcvg.info
+  - DOMAIN,1c.premierzal.ru
   - DOMAIN,admin.52ywp.com
   - DOMAIN,bandito.byterunner.io
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -13,6 +14,7 @@ payload:
   - DOMAIN,buny.uk
   - DOMAIN,concen.org
   - DOMAIN,d40969.acod.regrucolo.ru
+  - DOMAIN,discord.heihachi.pw
   - DOMAIN,evan.im
   - DOMAIN,exodus.desync.com
   - DOMAIN,explodie.org
@@ -23,13 +25,13 @@ payload:
   - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,ipv6.rer.lol
-  - DOMAIN,leet-tracker.moe
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ns-1.x-fins.com
   - DOMAIN,ns3109441.mypdns.org
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,open.demonii.com
   - DOMAIN,open.dstud.io
+  - DOMAIN,open.free-tracker.ga
   - DOMAIN,open.stealth.si
   - DOMAIN,open.trackerlist.xyz
   - DOMAIN,opentor.org
@@ -51,29 +53,29 @@ payload:
   - DOMAIN,taciturn-shadow.spb.ru
   - DOMAIN,threads.canofsocks.com
   - DOMAIN,tk.greedland.net
+  - DOMAIN,torrent.hificode.in
   - DOMAIN,torrentsmd.com
+  - DOMAIN,tr-rh-zhuqiy.dgj055.icu
+  - DOMAIN,tr-zhuqiy-1.dgj055.icu
   - DOMAIN,tr.abiir.top
-  - DOMAIN,tr.abir.ga
   - DOMAIN,tr.kxmp.cf
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,tr.zukizuki.org
   - DOMAIN,tr3.ysagin.top
   - DOMAIN,tr4ck3r.duckdns.org
+  - DOMAIN,track3r.site
   - DOMAIN,tracker-udp.gbitt.info
-  - DOMAIN,tracker-zhuqiy.dgj055.icu
   - DOMAIN,tracker.23794.top
   - DOMAIN,tracker.aburaya.live
   - DOMAIN,tracker.bitcoinindia.space
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.bjut.jp
-  - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bt-hash.com
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tracker.bz
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,tracker.cyberia.is
   - DOMAIN,tracker.darkness.services
-  - DOMAIN,tracker.ddunlimited.net
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.dler.org
   - DOMAIN,tracker.dmcomic.org
@@ -86,7 +88,6 @@ payload:
   - DOMAIN,tracker.ghostchu-services.top
   - DOMAIN,tracker.gigantino.net
   - DOMAIN,tracker.gmi.gd
-  - DOMAIN,tracker.hifimarket.in
   - DOMAIN,tracker.hifitechindia.com
   - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.ipv6tracker.org
@@ -103,6 +104,7 @@ payload:
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.mywaifu.best
   - DOMAIN,tracker.netmap.top
+  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.opentrackr.org
   - DOMAIN,tracker.openwebtorrent.com
   - DOMAIN,tracker.plx.im
@@ -110,14 +112,18 @@ payload:
   - DOMAIN,tracker.privateseedbox.xyz
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.renfei.net
+  - DOMAIN,tracker.rescuecrew7.com
   - DOMAIN,tracker.sbsub.com
+  - DOMAIN,tracker.skillindia.site
   - DOMAIN,tracker.skyts.net
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.torrust-demo.com
+  - DOMAIN,tracker.tritan.gg
   - DOMAIN,tracker.tryhackx.org
+  - DOMAIN,tracker.tvunderground.org.ru
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,tracker.waaa.moe
@@ -127,7 +133,6 @@ payload:
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.itzmx.com
-  - DOMAIN,tracker1.myporn.club
   - DOMAIN,tracker2.dler.org
   - DOMAIN,tracker2.itzmx.com
   - DOMAIN,tracker3.itzmx.com
@@ -135,6 +140,7 @@ payload:
   - DOMAIN,tracker810.xyz
   - DOMAIN,ttk2.nbaonlineservice.com
   - DOMAIN,udp.tracker.projectk.org
+  - DOMAIN,v74853.hosted-by-vdsina.com
   - DOMAIN,wepzone.net
   - DOMAIN,www.all4nothin.net
   - DOMAIN,www.genesis-sp.org
@@ -271,3 +277,4 @@ payload:
   - IP-CIDR,207.241.226.111/32,no-resolve
   - IP-CIDR,207.241.231.226/32,no-resolve
   - IP-CIDR,52.58.128.163/32,no-resolve
+  - IP-CIDR,89.110.76.229/32,no-resolve
