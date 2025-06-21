@@ -3,7 +3,6 @@ payload:
   - DOMAIN,0d.kebhana.mx
   - DOMAIN,1337.abcvg.info
   - DOMAIN,1c.premierzal.ru
-  - DOMAIN,admin.52ywp.com
   - DOMAIN,bandito.byterunner.io
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN,bt.ktrackers.com
@@ -25,8 +24,8 @@ payload:
   - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,ipv6.rer.lol
+  - DOMAIN,leet-tracker.moe
   - DOMAIN,martin-gebhardt.eu
-  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,ns3109441.mypdns.org
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,open.demonii.com
@@ -53,10 +52,7 @@ payload:
   - DOMAIN,taciturn-shadow.spb.ru
   - DOMAIN,threads.canofsocks.com
   - DOMAIN,tk.greedland.net
-  - DOMAIN,torrent.hificode.in
   - DOMAIN,torrentsmd.com
-  - DOMAIN,tr-rh-zhuqiy.dgj055.icu
-  - DOMAIN,tr-zhuqiy-1.dgj055.icu
   - DOMAIN,tr.abiir.top
   - DOMAIN,tr.kxmp.cf
   - DOMAIN,tr.nyacat.pw
@@ -80,6 +76,7 @@ payload:
   - DOMAIN,tracker.dler.org
   - DOMAIN,tracker.dmcomic.org
   - DOMAIN,tracker.ducks.party
+  - DOMAIN,tracker.dump.cl
   - DOMAIN,tracker.expli.top
   - DOMAIN,tracker.filemail.com
   - DOMAIN,tracker.fnix.net
@@ -88,10 +85,10 @@ payload:
   - DOMAIN,tracker.ghostchu-services.top
   - DOMAIN,tracker.gigantino.net
   - DOMAIN,tracker.gmi.gd
+  - DOMAIN,tracker.guguan.dpdns.org
   - DOMAIN,tracker.hifitechindia.com
   - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.ipv6tracker.org
-  - DOMAIN,tracker.ipv6tracker.ru
   - DOMAIN,tracker.jdx3.org
   - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.kmzs123.top
@@ -124,7 +121,6 @@ payload:
   - DOMAIN,tracker.tritan.gg
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tracker.tvunderground.org.ru
-  - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.xiaoduola.xyz
@@ -138,6 +134,7 @@ payload:
   - DOMAIN,tracker3.itzmx.com
   - DOMAIN,tracker4.itzmx.com
   - DOMAIN,tracker810.xyz
+  - DOMAIN,trl-zhuqiy.dgj055.icu
   - DOMAIN,ttk2.nbaonlineservice.com
   - DOMAIN,udp.tracker.projectk.org
   - DOMAIN,v74853.hosted-by-vdsina.com
