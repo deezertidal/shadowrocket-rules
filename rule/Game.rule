@@ -422,13 +422,16 @@ payload:
   - DOMAIN-SUFFIX,lpl.com.cn
   - DOMAIN-SUFFIX,molesports.com
   - DOMAIN-SUFFIX,playvalorant.com
+  - DOMAIN-SUFFIX,pvp.net
   - DOMAIN-SUFFIX,pvp.tv
   - DOMAIN-SUFFIX,rgpub.io
   - DOMAIN-SUFFIX,riot-games.com
   - DOMAIN-SUFFIX,riot.com
   - DOMAIN-SUFFIX,riot.net
+  - DOMAIN-SUFFIX,riotcdn.net
   - DOMAIN-SUFFIX,riotforgegames.com
   - DOMAIN-SUFFIX,riotgames.co.kr
+  - DOMAIN-SUFFIX,riotgames.com
   - DOMAIN-SUFFIX,riotgames.info
   - DOMAIN-SUFFIX,riotgames.jp
   - DOMAIN-SUFFIX,riotgames.net
@@ -505,9 +508,6 @@ payload:
   - DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
   - DOMAIN-SUFFIX,ubisoft.com
   - DOMAIN-SUFFIX,uplay.com
-  - DOMAIN-SUFFIX,pvp.net
-  - DOMAIN-SUFFIX,riotcdn.net
-  - DOMAIN-SUFFIX,riotgames.com
   - DOMAIN-SUFFIX,beth.games
   - DOMAIN-SUFFIX,bethesda.net
   - DOMAIN-SUFFIX,bethesdagamestudios.com
