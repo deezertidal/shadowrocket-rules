@@ -5,6 +5,7 @@ payload:
   - DOMAIN-KEYWORD,claude
   - DOMAIN-KEYWORD,openai
   - DOMAIN,ai.google.dev
+  - DOMAIN,aistudio.google.com
   - DOMAIN,api.githubcopilot.com
   - DOMAIN,api.groq.com
   - DOMAIN,api.together.xyz
@@ -20,9 +21,12 @@ payload:
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,client-api.arkoselabs.com
   - DOMAIN-SUFFIX,copilot.cloud.microsoft
   - DOMAIN-SUFFIX,copilot.microsoft.com
+  - DOMAIN-SUFFIX,curosr.com
+  - DOMAIN-SUFFIX,curosr.sh
   - DOMAIN-SUFFIX,events.statsigapi.net
   - DOMAIN-SUFFIX,featuregates.org
   - DOMAIN-SUFFIX,gemini.google.com
