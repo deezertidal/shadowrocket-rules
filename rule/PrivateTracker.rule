@@ -8,34 +8,32 @@ payload:
   - DOMAIN,3.tracker.eu.org
   - DOMAIN,4.tracker.eu.org
   - DOMAIN,6ahddutb1ucc3cp.ru
-  - DOMAIN,admin.52ywp.com
-  - DOMAIN,asiatorrent.ddns.net
-  - DOMAIN,asiatorrent.giize.com
+  - DOMAIN,anna.bt.bontal.net
   - DOMAIN,bandito.byterunner.io
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
-  - DOMAIN,bt.bontal.net
   - DOMAIN,bt.okmp3.ru
   - DOMAIN,bt.poletracker.org
   - DOMAIN,bt.rer.lol
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,buny.uk
+  - DOMAIN,ch3oh.ru
   - DOMAIN,concen.org
   - DOMAIN,d40969.acod.regrucolo.ru
-  - DOMAIN,discord.heihachi.pw
   - DOMAIN,evan.im
   - DOMAIN,exodus.desync.com
   - DOMAIN,explodie.org
   - DOMAIN,extracker.dahrkael.net
+  - DOMAIN,glotorrents.pw
   - DOMAIN,home.yxgz.club
   - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,ipv6.rer.lol
-  - DOMAIN,isk.richardsw.club
+  - DOMAIN,leet-tracker.moe
   - DOMAIN,lucke.fenesisu.moe
   - DOMAIN,martin-gebhardt.eu
+  - DOMAIN,ns3109441.mypdns.org
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,open.demonii.com
-  - DOMAIN,open.demonii.si
   - DOMAIN,open.dstud.io
   - DOMAIN,open.stealth.si
   - DOMAIN,open.trackerlist.xyz
@@ -52,6 +50,7 @@ payload:
   - DOMAIN,servandroidkino.ru
   - DOMAIN,share.hkg-fansub.info
   - DOMAIN,shubt.net
+  - DOMAIN,t.overflow.biz
   - DOMAIN,t1.hloli.org
   - DOMAIN,tk.greedland.net
   - DOMAIN,torrent.hificode.in
@@ -70,6 +69,7 @@ payload:
   - DOMAIN,tracker.aburaya.live
   - DOMAIN,tracker.alaskantf.com
   - DOMAIN,tracker.beeimg.com
+  - DOMAIN,tracker.belmult.online
   - DOMAIN,tracker.bitcoinindia.space
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.breizh.pm
@@ -91,7 +91,6 @@ payload:
   - DOMAIN,tracker.foreverpirates.co
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,tracker.ghostchu-services.top
-  - DOMAIN,tracker.gigantino.net
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.healthcareindia.store
   - DOMAIN,tracker.hifimarket.in
@@ -117,13 +116,14 @@ payload:
   - DOMAIN,tracker.skillindia.site
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.startwork.cv
+  - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.therarbg.to
-  - DOMAIN,tracker.tnl.one
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,tracker.tritan.gg
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tracker.tvunderground.org.ru
+  - DOMAIN,tracker.uraniumhexafluori.de
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,tracker.waaa.moe
@@ -149,6 +149,7 @@ payload:
   - DOMAIN,www.torrent.eu.org
   - DOMAIN,www.torrentsnipe.info
   - DOMAIN,www.wareztorrent.com
+  - DOMAIN,yuki.bt.bontal.net
   - DOMAIN-SUFFIX,1ptba.com
   - DOMAIN-SUFFIX,2xfree.org
   - DOMAIN-SUFFIX,52pt.site
