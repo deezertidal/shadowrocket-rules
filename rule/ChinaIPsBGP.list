@@ -1559,14 +1559,15 @@ IP-CIDR,120.65.0.0/16,no-resolve
 IP-CIDR,120.68.0.0/14,no-resolve
 IP-CIDR,120.72.160.0/24,no-resolve
 IP-CIDR,120.72.162.0/23,no-resolve
-IP-CIDR,120.72.166.0/23,no-resolve
+IP-CIDR,120.72.164.0/22,no-resolve
 IP-CIDR,120.72.168.0/24,no-resolve
 IP-CIDR,120.72.170.0/23,no-resolve
 IP-CIDR,120.72.172.0/23,no-resolve
+IP-CIDR,120.72.174.0/24,no-resolve
 IP-CIDR,120.72.177.0/24,no-resolve
 IP-CIDR,120.72.178.0/24,no-resolve
 IP-CIDR,120.72.180.0/24,no-resolve
-IP-CIDR,120.72.182.0/24,no-resolve
+IP-CIDR,120.72.182.0/23,no-resolve
 IP-CIDR,120.72.184.0/22,no-resolve
 IP-CIDR,120.72.188.0/23,no-resolve
 IP-CIDR,120.72.190.0/24,no-resolve
@@ -2026,7 +2027,8 @@ IP-CIDR,154.8.48.0/20,no-resolve
 IP-CIDR,154.89.32.0/20,no-resolve
 IP-CIDR,154.89.49.0/24,no-resolve
 IP-CIDR,154.89.50.0/23,no-resolve
-IP-CIDR,154.89.52.0/22,no-resolve
+IP-CIDR,154.89.52.0/23,no-resolve
+IP-CIDR,154.89.54.0/24,no-resolve
 IP-CIDR,154.89.56.0/21,no-resolve
 IP-CIDR,155.126.176.0/23,no-resolve
 IP-CIDR,156.107.160.0/24,no-resolve
