@@ -1,13 +1,16 @@
 payload:
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,0d.kebhana.mx
+  - DOMAIN,1.tracker.eu.org
   - DOMAIN,1337.abcvg.info
   - DOMAIN,1c.premierzal.ru
+  - DOMAIN,2.tracker.eu.org
+  - DOMAIN,3.tracker.eu.org
+  - DOMAIN,4.tracker.eu.org
+  - DOMAIN,6ahddutb1ucc3cp.ru
   - DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
   - DOMAIN,admin.52ywp.com
   - DOMAIN,anna.bt.bontal.net
-  - DOMAIN,asiatorrent.ddns.net
-  - DOMAIN,asiatorrent.giize.com
   - DOMAIN,bandito.byterunner.io
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN,bt.bontal.net
@@ -25,21 +28,26 @@ payload:
   - DOMAIN,exodus.desync.com
   - DOMAIN,explodie.org
   - DOMAIN,extracker.dahrkael.net
+  - DOMAIN,hificode.in
   - DOMAIN,home.yxgz.club
   - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,martin-gebhardt.eu
+  - DOMAIN,ns3109441.mypdns.org
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,open-tracker.demonoid.ch
   - DOMAIN,open.demonii.com
+  - DOMAIN,open.demonii.si
   - DOMAIN,open.demonoid.ch
   - DOMAIN,open.dstud.io
   - DOMAIN,open.stealth.si
+  - DOMAIN,open.tracker.cl
   - DOMAIN,open.trackerlist.xyz
   - DOMAIN,opentor.org
   - DOMAIN,opentracker.io
   - DOMAIN,p4p.arenabg.com
+  - DOMAIN,public.demonoid.ch
   - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,rekcart.duckdns.org
   - DOMAIN,retracker.hotplug.ru
@@ -55,12 +63,14 @@ payload:
   - DOMAIN,t.213891.xyz
   - DOMAIN,t.al.uy
   - DOMAIN,t.overflow.biz
+  - DOMAIN,threads.canofsocks.com
   - DOMAIN,tk.greedland.net
   - DOMAIN,torrent.hificode.in
   - DOMAIN,torrent.tracker.durukanbal.com
   - DOMAIN,torrentclub.online
   - DOMAIN,torrentsmd.com
   - DOMAIN,tr.abiir.top
+  - DOMAIN,tr.abir.ga
   - DOMAIN,tr.highstar.shop
   - DOMAIN,tr.kxmp.cf
   - DOMAIN,tr.nyacat.pw
@@ -68,6 +78,7 @@ payload:
   - DOMAIN,tr3.ysagin.top
   - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,tracker-de-2.cutie.dating
+  - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,tracker.23794.top
   - DOMAIN,tracker.aburaya.live
   - DOMAIN,tracker.alaskantf.com
@@ -79,6 +90,7 @@ payload:
   - DOMAIN,tracker.bt-hash.com
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tracker.bz
+  - DOMAIN,tracker.cangku.moe
   - DOMAIN,tracker.cloudbase.store
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,tracker.cutie.dating
@@ -97,7 +109,7 @@ payload:
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.guguan.us.kg
   - DOMAIN,tracker.hifimarket.in
-  - DOMAIN,tracker.iperson.xyz
+  - DOMAIN,tracker.hifitechindia.com
   - DOMAIN,tracker.ipv6tracker.org
   - DOMAIN,tracker.ipv6tracker.ru
   - DOMAIN,tracker.jdx3.org
@@ -114,12 +126,12 @@ payload:
   - DOMAIN,tracker.renfei.net
   - DOMAIN,tracker.rescuecrew7.com
   - DOMAIN,tracker.sbsub.com
+  - DOMAIN,tracker.skillindia.site
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.startwork.cv
   - DOMAIN,tracker.tamersunion.org
   - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.therarbg.to
-  - DOMAIN,tracker.tnl.one
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,tracker.tritan.gg
@@ -128,6 +140,7 @@ payload:
   - DOMAIN,tracker.uraniumhexafluori.de
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.vanitycore.co
+  - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.xiaoduola.xyz
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,tracker.zhuqiy.com
