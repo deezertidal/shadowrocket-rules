@@ -15,6 +15,7 @@ DOMAIN,console.groq.com
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,gemini.google.com
 DOMAIN,generativelanguage.googleapis.com
+DOMAIN,notebooklm.google.com
 DOMAIN,sydney.bing.com
 DOMAIN-SUFFIX,ai.azure.com
 DOMAIN-SUFFIX,anthropic.com
@@ -22,6 +23,7 @@ DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft
@@ -36,6 +38,7 @@ DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,mistral.ai
@@ -45,6 +48,7 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,x.ai
 
 USER-AGENT,AbemaTV*
 DOMAIN-KEYWORD,abematv.akamaized.net
