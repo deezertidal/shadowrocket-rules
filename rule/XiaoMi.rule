@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,408399.net
   - DOMAIN-SUFFIX,816798.net
   - DOMAIN-SUFFIX,account-cn.huami.com
+  - DOMAIN-SUFFIX,addatachain.cn
   - DOMAIN-SUFFIX,airstar.com
   - DOMAIN-SUFFIX,airstarfinance.net
   - DOMAIN-SUFFIX,aleenote.cn
@@ -42,6 +43,7 @@ payload:
   - DOMAIN-SUFFIX,mi-cache.com
   - DOMAIN-SUFFIX,mi-cdn.com
   - DOMAIN-SUFFIX,mi-customer.com
+  - DOMAIN-SUFFIX,mi-dun.com
   - DOMAIN-SUFFIX,mi-idc.com
   - DOMAIN-SUFFIX,mi-img.com
   - DOMAIN-SUFFIX,mi-img1.com
@@ -65,6 +67,7 @@ payload:
   - DOMAIN-SUFFIX,migames.com
   - DOMAIN-SUFFIX,mij.cc
   - DOMAIN-SUFFIX,mijia.tech
+  - DOMAIN-SUFFIX,mijiayoupin.com
   - DOMAIN-SUFFIX,mikge.com
   - DOMAIN-SUFFIX,miliao.com
   - DOMAIN-SUFFIX,milliant.com
@@ -76,6 +79,10 @@ payload:
   - DOMAIN-SUFFIX,mipush.com
   - DOMAIN-SUFFIX,miredian.com
   - DOMAIN-SUFFIX,miren.cn
+  - DOMAIN-SUFFIX,misrm.cn
+  - DOMAIN-SUFFIX,misrm.com
+  - DOMAIN-SUFFIX,misrm.com.cn
+  - DOMAIN-SUFFIX,misrm.net
   - DOMAIN-SUFFIX,mitalk.com
   - DOMAIN-SUFFIX,mitvos.com
   - DOMAIN-SUFFIX,mitvos.net
@@ -85,12 +92,15 @@ payload:
   - DOMAIN-SUFFIX,miwifi.com
   - DOMAIN-SUFFIX,mixinshe.com
   - DOMAIN-SUFFIX,miyun.com
+  - DOMAIN-SUFFIX,openvela.com
   - DOMAIN-SUFFIX,peijian.com
+  - DOMAIN-SUFFIX,qinghedaxue.com
   - DOMAIN-SUFFIX,qsb.browser.miui.srv
   - DOMAIN-SUFFIX,res.mi.baidu.com
   - DOMAIN-SUFFIX,restapi.amap.com
   - DOMAIN-SUFFIX,shunwei.cn
   - DOMAIN-SUFFIX,singapore01.kuaipandata.com
+  - DOMAIN-SUFFIX,sodajs.org
   - DOMAIN-SUFFIX,store-cdn.huami.com
   - DOMAIN-SUFFIX,thumb-yz01.kuaipandata.com
   - DOMAIN-SUFFIX,thumb-yz02.kuaipandata.com
@@ -122,6 +132,7 @@ payload:
   - DOMAIN-SUFFIX,xiaomiinc.com
   - DOMAIN-SUFFIX,xiaomiinc.com.cn
   - DOMAIN-SUFFIX,xiaomiinc.net
+  - DOMAIN-SUFFIX,xiaomimimo.com
   - DOMAIN-SUFFIX,xiaomimobile.com
   - DOMAIN-SUFFIX,xiaominr.com
   - DOMAIN-SUFFIX,xiaomiprint.com
