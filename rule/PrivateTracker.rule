@@ -5,36 +5,36 @@ payload:
   - DOMAIN,admin.52ywp.com
   - DOMAIN,bandito.byterunner.io
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
-  - DOMAIN,bt.bontal.net
   - DOMAIN,bt.okmp3.ru
   - DOMAIN,bt.rer.lol
   - DOMAIN,burmese.app
   - DOMAIN,bvarf.tracker.sh
   - DOMAIN,cny.fan
-  - DOMAIN,colivioo.com
   - DOMAIN,concen.org
   - DOMAIN,d40969.acod.regrucolo.ru
   - DOMAIN,echostar.ddnsfree.com
   - DOMAIN,exodus.desync.com
   - DOMAIN,explodie.org
   - DOMAIN,extracker.dahrkael.net
+  - DOMAIN,ibksturm.synology.me
   - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,leet-tracker.moe
   - DOMAIN,lucke.fenesisu.moe
   - DOMAIN,martin-gebhardt.eu
-  - DOMAIN,node01.trackerstatus.live
-  - DOMAIN,node02.torrentonline.cc
   - DOMAIN,ns575949.ip-51-222-82.net
   - DOMAIN,nyaa.tracker.wf
+  - DOMAIN,open-tracker.demonoid.ch
   - DOMAIN,open.acgtracker.com
   - DOMAIN,open.demonii.com
   - DOMAIN,open.demonoid.ch
+  - DOMAIN,open.dstud.io
   - DOMAIN,open.stealth.si
   - DOMAIN,open.tracker.cl
   - DOMAIN,opentor.org
   - DOMAIN,opentracker.io
+  - DOMAIN,opentracker.xyz
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,public.demonoid.ch
   - DOMAIN,retracker.hotplug.ru
@@ -60,7 +60,10 @@ payload:
   - DOMAIN,tracker.beeimg.com
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.bluefrog.pw
+  - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bt4g.com
+  - DOMAIN,tracker.cangku.moe
+  - DOMAIN,tracker.corpscorp.online
   - DOMAIN,tracker.cutie.dating
   - DOMAIN,tracker.cyberia.is
   - DOMAIN,tracker.darkness.services
@@ -72,12 +75,13 @@ payload:
   - DOMAIN,tracker.flatuslifir.is
   - DOMAIN,tracker.fnix.net
   - DOMAIN,tracker.foreverpirates.co
+  - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,tracker.ghostchu-services.top
   - DOMAIN,tracker.gmi.gd
-  - DOMAIN,tracker.internetwarriors.net
   - DOMAIN,tracker.iochimari.moe
   - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.ipv6tracker.ru
+  - DOMAIN,tracker.ixuexi.click
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,tracker.leechshield.link
   - DOMAIN,tracker.moeblog.cn
@@ -86,15 +90,16 @@ payload:
   - DOMAIN,tracker.opentorrent.top
   - DOMAIN,tracker.opentrackr.org
   - DOMAIN,tracker.openwebtorrent.com
+  - DOMAIN,tracker.orsvarn.com
   - DOMAIN,tracker.playground.ru
   - DOMAIN,tracker.plx.im
   - DOMAIN,tracker.pmman.tech
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.renfei.net
   - DOMAIN,tracker.skyts.net
-  - DOMAIN,tracker.soshifanclub.com
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.t-1.org
+  - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.torrust-demo.com
@@ -103,6 +108,7 @@ payload:
   - DOMAIN,tracker.tvunderground.org.ru
   - DOMAIN,tracker.uraniumhexafluori.de
   - DOMAIN,tracker.waaa.moe
+  - DOMAIN,tracker.xn--djrq4gl4hvoi.top
   - DOMAIN,tracker.zhuqiy.com
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.myporn.club
@@ -112,6 +118,7 @@ payload:
   - DOMAIN,tracker3.itzmx.com
   - DOMAIN,tracker3.t-1.org
   - DOMAIN,tracker4.itzmx.com
+  - DOMAIN,trackr.appolon.dev
   - DOMAIN,udp.tracker.projectk.org
   - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,v74853.hosted-by-vdsina.com
