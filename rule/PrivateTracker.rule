@@ -12,17 +12,17 @@ payload:
   - DOMAIN,cny.fan
   - DOMAIN,concen.org
   - DOMAIN,d40969.acod.regrucolo.ru
-  - DOMAIN,echostar.ddnsfree.com
+  - DOMAIN,evan.im
   - DOMAIN,exodus.desync.com
   - DOMAIN,explodie.org
   - DOMAIN,extracker.dahrkael.net
-  - DOMAIN,ibksturm.synology.me
   - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,leet-tracker.moe
   - DOMAIN,lucke.fenesisu.moe
   - DOMAIN,martin-gebhardt.eu
+  - DOMAIN,node01.trackerstatus.live
   - DOMAIN,ns575949.ip-51-222-82.net
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,open-tracker.demonoid.ch
@@ -48,25 +48,23 @@ payload:
   - DOMAIN,torrentclub.online
   - DOMAIN,torrentsmd.com
   - DOMAIN,tr.abiir.top
+  - DOMAIN,tr.abir.ga
   - DOMAIN,tr.highstar.shop
   - DOMAIN,tr.kxmp.cf
   - DOMAIN,tr.nyacat.pw
+  - DOMAIN,tr.zukizuki.org
   - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,tracker-de-2.cutie.dating
   - DOMAIN,tracker-udp.gbitt.info
-  - DOMAIN,tracker.0x7c0.com
+  - DOMAIN,tracker-zhuqiy.dgj055.icu
   - DOMAIN,tracker.1h.is
   - DOMAIN,tracker.23794.top
-  - DOMAIN,tracker.beeimg.com
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.bluefrog.pw
   - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bt4g.com
-  - DOMAIN,tracker.cangku.moe
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,tracker.cutie.dating
-  - DOMAIN,tracker.cyberia.is
-  - DOMAIN,tracker.darkness.services
   - DOMAIN,tracker.dhitechnical.com
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.dler.org
@@ -99,7 +97,6 @@ payload:
   - DOMAIN,tracker.skyts.net
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.t-1.org
-  - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.torrust-demo.com
@@ -108,6 +105,7 @@ payload:
   - DOMAIN,tracker.tvunderground.org.ru
   - DOMAIN,tracker.uraniumhexafluori.de
   - DOMAIN,tracker.waaa.moe
+  - DOMAIN,tracker.wepzone.net
   - DOMAIN,tracker.xn--djrq4gl4hvoi.top
   - DOMAIN,tracker.zhuqiy.com
   - DOMAIN,tracker1.520.jp
@@ -121,7 +119,7 @@ payload:
   - DOMAIN,trackr.appolon.dev
   - DOMAIN,udp.tracker.projectk.org
   - DOMAIN,utracker.ghostchu-services.top
-  - DOMAIN,v74853.hosted-by-vdsina.com
+  - DOMAIN,wepzone.net
   - DOMAIN,www.all4nothin.net
   - DOMAIN,www.torrent.eu.org
   - DOMAIN,www.wareztorrent.com
@@ -255,4 +253,3 @@ payload:
   - IP-CIDR,207.241.226.111/32,no-resolve
   - IP-CIDR,207.241.231.226/32,no-resolve
   - IP-CIDR,52.58.128.163/32,no-resolve
-  - IP-CIDR,89.110.76.229/32,no-resolve
