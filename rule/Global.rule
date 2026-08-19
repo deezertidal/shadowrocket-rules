@@ -1,4 +1,4 @@
-# 由yfamilys.com自动维护 202608182244
+# 由yfamilys.com自动维护 202608190155
 payload:
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,aws
@@ -23731,6 +23731,7 @@ payload:
   - DOMAIN-SUFFIX,s20.tiktokcdn.com
   - DOMAIN-SUFFIX,s22.slyip.net
   - DOMAIN-SUFFIX,s3-ap-northeast-1.amazonaws.com
+  - DOMAIN-SUFFIX,s3.dualstack.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,s36.com
   - DOMAIN-SUFFIX,s4a-bo-pda-in-stores-dev.firebaseio.com
   - DOMAIN-SUFFIX,s4m.xyz
