@@ -1,4 +1,4 @@
-# 由yfamilys.com自动维护 202608232241
+# 由yfamilys.com自动维护 202608240200
 payload:
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,aws
@@ -2881,6 +2881,7 @@ payload:
   - DOMAIN-SUFFIX,api.pureapk.com
   - DOMAIN-SUFFIX,api.rc-backup.com
   - DOMAIN-SUFFIX,api.recaptcha.net
+  - DOMAIN-SUFFIX,api.shuaiapi.com
   - DOMAIN-SUFFIX,api.steampowered.com
   - DOMAIN-SUFFIX,api.termius.com
   - DOMAIN-SUFFIX,api.themoviedb.org
@@ -30236,6 +30237,7 @@ payload:
   - DOMAIN-SUFFIX,x6oforum.com
   - DOMAIN-SUFFIX,x78.com
   - DOMAIN-SUFFIX,x831.com
+  - DOMAIN-SUFFIX,x86.fr
   - DOMAIN-SUFFIX,x88av.cc
   - DOMAIN-SUFFIX,x8cc.net
   - DOMAIN-SUFFIX,x8m8tech.net
