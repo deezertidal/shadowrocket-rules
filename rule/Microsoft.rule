@@ -667,3 +667,6 @@ payload:
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,skydrive
+  - USER-AGENT,Microsoft*
+  - USER-AGENT,OneDrive*
+  - USER-AGENT,OneDriveiOSApp*

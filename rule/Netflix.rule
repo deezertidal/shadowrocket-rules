@@ -1155,3 +1155,4 @@ payload:
   - IP-CIDR6,2620:10c:7000::/44,no-resolve
   - IP-CIDR6,2a00:86c0::/32,no-resolve
   - IP-CIDR6,2a03:5640::/32,no-resolve
+  - USER-AGENT,Argo*

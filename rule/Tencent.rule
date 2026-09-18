@@ -1,4 +1,9 @@
 payload:
+  - USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
+  - USER-AGENT,QQ%E9%9F%B3%E4%B9%90
+  - USER-AGENT,TencentMidasConnect*
+  - USER-AGENT,live4iphone*
+  - USER-AGENT,qqlive4iphone*
   - IP-CIDR,101.32.104.4/32,no-resolve
   - IP-CIDR,101.32.104.41/32,no-resolve
   - IP-CIDR,101.32.104.56/32,no-resolve

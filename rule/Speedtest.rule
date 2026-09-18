@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,speed.cloudflare.com
   - DOMAIN-SUFFIX,speed.dler.io
   - DOMAIN-KEYWORD,speedtest
+  - USER-AGENT,SpeedTest*

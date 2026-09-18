@@ -29,3 +29,6 @@ payload:
   - DOMAIN-SUFFIX,massive-itv.com
   - DOMAIN-KEYWORD,bbcfmt
   - DOMAIN-KEYWORD,uk-live
+  - USER-AGENT,All4*
+  - USER-AGENT,BBCiPlayer*
+  - USER-AGENT,ITV_Player*

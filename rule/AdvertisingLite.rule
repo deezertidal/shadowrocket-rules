@@ -373,3 +373,5 @@ payload:
   - IP-CIDR,74.117.182.77/32,no-resolve
   - IP-CIDR,78.140.131.214/32,no-resolve
   - IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
+  - URL-REGEX,^https?:\/\/cdn-1rtb\.caiyunapp\.com/creative/.*$
+  - URL-REGEX,^https?:\/\/goblin\.hupu\.com/[^/]+/[^/]+\/interfaceAd\/

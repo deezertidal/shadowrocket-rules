@@ -22,3 +22,4 @@ payload:
   - DOMAIN-SUFFIX,vod-abematv.akamaized.net
   - DOMAIN-SUFFIX,winticket.jp
   - DOMAIN-KEYWORD,abematv.akamaized.net
+  - USER-AGENT,AbemaTV*

@@ -329,3 +329,5 @@ payload:
   - IP-CIDR6,240e:ff:9018:100::/60,no-resolve
   - IP-CIDR6,240e:ff:f100::/44,no-resolve
   - IP-ASN,132203,no-resolve
+  - USER-AGENT,MicroMessenger*
+  - USER-AGENT,WeChat*

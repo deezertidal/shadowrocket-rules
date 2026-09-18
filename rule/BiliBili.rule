@@ -122,3 +122,7 @@ payload:
   - IP-CIDR,120.92.153.217/32,no-resolve
   - IP-CIDR,134.175.207.130/32,no-resolve
   - IP-CIDR,203.107.1.0/24,no-resolve
+  - USER-AGENT,*bili*
+  - USER-AGENT,Bilibili*
+  - USER-AGENT,bili*
+  - USER-AGENT,bili-inter*

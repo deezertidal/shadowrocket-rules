@@ -404,3 +404,38 @@ payload:
   - IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
   - IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
   - IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
+  - USER-AGENT,*bili*
+  - USER-AGENT,Bilibili*
+  - USER-AGENT,bili*
+  - USER-AGENT,bili-inter*
+  - USER-AGENT,%E4%BC%98%E9%85%B7*
+  - USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
+  - USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
+  - USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
+  - USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
+  - USER-AGENT,*QIYI*
+  - USER-AGENT,AcFun*
+  - USER-AGENT,DomesticMedia*
+  - USER-AGENT,MGTV*
+  - USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
+  - USER-AGENT,MOO*
+  - USER-AGENT,MiguVideo*
+  - USER-AGENT,NeteaseMusic*
+  - USER-AGENT,PPStream*
+  - USER-AGENT,QIYI*
+  - USER-AGENT,QQ%E9%9F%B3%E4%B9%90
+  - USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
+  - USER-AGENT,QQMusic*
+  - USER-AGENT,QYPlayer*
+  - USER-AGENT,TencentMidasConnect*
+  - USER-AGENT,YYeTs*
+  - USER-AGENT,Youku*
+  - USER-AGENT,baiduyinyue
+  - USER-AGENT,bilibili*
+  - USER-AGENT,iQiYi*
+  - USER-AGENT,iQiyi*
+  - USER-AGENT,live4iphone*
+  - USER-AGENT,qqlive4iphone*
+  - USER-AGENT,walkman*
+  - USER-AGENT,xiami*
+  - USER-AGENT,youku*

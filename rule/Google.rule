@@ -694,3 +694,6 @@ payload:
   - IP-CIDR,216.73.80.0/20,no-resolve
   - IP-CIDR,74.125.0.0/16,no-resolve
   - IP-CIDR6,2620:120:e000::/40,no-resolve
+  - USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
+  - USER-AGENT,*com.google.Drive*
+  - USER-AGENT,Google.Drive*

@@ -34,6 +34,12 @@ payload:
   - DOMAIN-SUFFIX,qy.net
   - DOMAIN-SUFFIX,suike.cn
   - DOMAIN-KEYWORD,qiyi
+  - USER-AGENT,PPStream*
+  - USER-AGENT,QIYI*
+  - USER-AGENT,QYPlayer*
+  - USER-AGENT,iQIYI*
+  - USER-AGENT,iQiYi*
+  - USER-AGENT,iQiyi*
   - IP-CIDR,101.224.0.0/13,no-resolve
   - IP-CIDR,103.44.56.0/22,no-resolve
   - IP-CIDR,103.5.34.153/32,no-resolve

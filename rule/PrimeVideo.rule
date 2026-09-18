@@ -15,3 +15,5 @@ payload:
   - DOMAIN-SUFFIX,primevideo.com
   - DOMAIN-SUFFIX,pv-cdn.net
   - DOMAIN-KEYWORD,avoddashs
+  - USER-AGENT,InstantVideo.US*
+  - USER-AGENT,Prime%20Video*

@@ -19,3 +19,26 @@ payload:
   - IP-CIDR6,2403:300::/32,no-resolve
   - IP-CIDR6,2620:149::/32,no-resolve
   - IP-CIDR6,2a01:b740::/32,no-resolve
+  - USER-AGENT,*FindMyiPhone?
+  - USER-AGENT,*Music?
+  - USER-AGENT,*WeatherFoundation*
+  - USER-AGENT,*com.apple.Maps?
+  - USER-AGENT,*com.apple.mobileme.fmip1
+  - USER-AGENT,FMDClient*
+  - USER-AGENT,FMFD*
+  - USER-AGENT,FindMyFriends*
+  - USER-AGENT,FindMyiPhone*
+  - USER-AGENT,Maps*
+  - USER-AGENT,Wallet*
+  - USER-AGENT,com.apple.Maps
+  - USER-AGENT,com.apple.appstored*
+  - USER-AGENT,fmflocatord*
+  - USER-AGENT,geod*
+  - USER-AGENT,locationd*
+  - USER-AGENT,passd*
+  - USER-AGENT,Music*
+  - USER-AGENT,AppleNews*
+  - USER-AGENT,AppleTV*
+  - USER-AGENT,com.apple.news*
+  - USER-AGENT,com.apple.trustd*
+  - USER-AGENT,com.apple.tv*

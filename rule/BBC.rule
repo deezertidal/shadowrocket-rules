@@ -27,3 +27,4 @@ payload:
   - DOMAIN-SUFFIX,bidi.net.uk
   - DOMAIN-KEYWORD,bbcfmt
   - DOMAIN-KEYWORD,uk-live
+  - USER-AGENT,BBCiPlayer*

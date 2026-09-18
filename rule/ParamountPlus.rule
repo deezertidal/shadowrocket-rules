@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,cbsivideo.com
   - DOMAIN-SUFFIX,paramountplus.com
   - DOMAIN-SUFFIX,pplusstatic.com
+  - USER-AGENT,PPlus*

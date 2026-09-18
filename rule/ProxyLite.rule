@@ -885,6 +885,12 @@ payload:
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,uk-live
   - DOMAIN-KEYWORD,whatsapp
+  - USER-AGENT,Duolingo*
+  - USER-AGENT,OneDrive*
+  - USER-AGENT,PayPal*
+  - USER-AGENT,WhatsApp*
+  - USER-AGENT,battleroyale*
+  - USER-AGENT,hearthstone*
   - IP-CIDR,1.201.0.0/24,no-resolve
   - IP-CIDR,103.2.28.0/22,no-resolve
   - IP-CIDR,103.246.56.0/22,no-resolve

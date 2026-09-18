@@ -14,3 +14,5 @@ payload:
   - DOMAIN-SUFFIX,mobile-collector.newrelic.com
   - DOMAIN-SUFFIX,uplynk.com
   - DOMAIN-KEYWORD,discovery.uplynk.com
+  - USER-AGENT,DPlus*
+  - USER-AGENT,discovery+*

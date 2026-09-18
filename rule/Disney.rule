@@ -171,3 +171,4 @@ payload:
   - DOMAIN-SUFFIX,thisispolaris.com
   - DOMAIN-SUFFIX,watchdisneyfe.com
   - DOMAIN-SUFFIX,watchespn.com
+  - USER-AGENT,Disney+*

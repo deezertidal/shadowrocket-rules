@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,applemusic.com
   - DOMAIN-SUFFIX,blobstore.apple.com
   - DOMAIN-SUFFIX,music.apple.com
+  - USER-AGENT,Music*

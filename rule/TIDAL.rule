@@ -3,3 +3,5 @@ payload:
   - DOMAIN-SUFFIX,tidal.com
   - DOMAIN-SUFFIX,tidalhifi.com
   - DOMAIN-SUFFIX,wimpmusic.com
+  - USER-AGENT,TIDAL*
+  - USER-AGENT,TIDAL*dia

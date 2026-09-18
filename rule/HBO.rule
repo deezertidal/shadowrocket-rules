@@ -46,3 +46,5 @@ payload:
   - DOMAIN-SUFFIX,players.brightcove.net
   - DOMAIN-SUFFIX,warnermediacdn.com
   - DOMAIN-SUFFIX,youboranqs01.com
+  - USER-AGENT,HBO%20NOW*
+  - USER-AGENT,HBOMAX*

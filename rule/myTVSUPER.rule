@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-KEYWORD,nowtv100
   - DOMAIN-KEYWORD,rthklive
+  - USER-AGENT,mytv*
