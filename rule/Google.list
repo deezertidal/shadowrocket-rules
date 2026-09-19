@@ -696,8 +696,3 @@ IP-CIDR6,2620:120:e000::/40,no-resolve
 USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
 USER-AGENT,*com.google.Drive*
 USER-AGENT,Google.Drive*
-PROCESS-NAME,com.android.vending
-PROCESS-NAME,com.google.android.gms
-PROCESS-NAME,com.google.android.gsf
-PROCESS-NAME,com.google.android.play.games
-PROCESS-NAME,BackupandSync
