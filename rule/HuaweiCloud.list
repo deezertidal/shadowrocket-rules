@@ -19,8 +19,8 @@ IP-CIDR,139.9.0.0/17,no-resolve
 IP-CIDR,139.9.128.0/20,no-resolve
 IP-CIDR,139.9.160.0/19,no-resolve
 IP-CIDR,139.9.192.0/19,no-resolve
-IP-CIDR,2407:c080:1000::/37,no-resolve
-IP-CIDR,2407:c080::/36,no-resolve
+IP-CIDR6,2407:c080:1000::/37,no-resolve
+IP-CIDR6,2407:c080::/36,no-resolve
 IP-CIDR,43.254.0.0/22,no-resolve
 IP-CIDR,49.4.0.0/19,no-resolve
 IP-CIDR,49.4.112.0/21,no-resolve

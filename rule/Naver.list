@@ -57,4 +57,4 @@ IP-CIDR,203.104.156.0/23,no-resolve
 IP-CIDR,203.104.158.0/24,no-resolve
 IP-CIDR,203.174.66.64/26,no-resolve
 IP-CIDR,203.174.77.0/24,no-resolve
-IP-CIDR,2400:dcc0::/32,no-resolve
+IP-CIDR6,2400:dcc0::/32,no-resolve

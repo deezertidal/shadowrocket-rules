@@ -40,8 +40,8 @@ IP-CIDR,185.32.187.0/24,no-resolve
 IP-CIDR,199.21.96.0/22,no-resolve
 IP-CIDR,199.36.240.0/22,no-resolve
 IP-CIDR,213.180.192.0/19,no-resolve
-IP-CIDR,2620:10f:d000::/44,no-resolve
-IP-CIDR,2a02:6b8::/29,no-resolve
+IP-CIDR6,2620:10f:d000::/44,no-resolve
+IP-CIDR6,2a02:6b8::/29,no-resolve
 IP-CIDR,37.140.128.0/18,no-resolve
 IP-CIDR,37.9.64.0/18,no-resolve
 IP-CIDR,5.255.192.0/18,no-resolve

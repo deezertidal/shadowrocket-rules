@@ -28,7 +28,7 @@ IP-CIDR,170.33.0.0/16,no-resolve
 IP-CIDR,198.11.128.0/18,no-resolve
 IP-CIDR,203.209.224.0/19,no-resolve
 IP-CIDR,205.204.96.0/19,no-resolve
-IP-CIDR,2400:b200::/32,no-resolve
+IP-CIDR6,2400:b200::/32,no-resolve
 IP-CIDR,41.222.240.0/22,no-resolve
 IP-CIDR,41.223.119.0/24,no-resolve
 IP-CIDR,42.120.0.0/16,no-resolve
