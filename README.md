@@ -383,6 +383,7 @@
 |:white_check_mark:Tiktok.ipa|[:link:链接地址](https://drive.google.com/file/d/1XMbpcMiv2yYEw6ApYG8sCL9oGNbPpcJ5/view?usp=drivesdk)|内置换区功能
 |:white_check_mark:No homebar|[:link:链接地址](https://appdb.to/app/cydia/1900001061)|隐藏屏幕底部横条
 |:white_check_mark:Trollspeed.ipa|[:link:链接地址](https://drive.google.com/file/d/17HIcHpiclJnFi_pAVpc71rTsDAL3JKCn/view)|显示网速
+|:white_check_mark:Rocket Proxy.ipa|[:link:链接地址](https://github.com/jcltravels/RocketProxy/releases/download/v2.6.7/RocketProxy-2.6.7.ipa)|免费代理客户端，兼容小火箭 .conf/.list 规则；[App Store](https://apps.apple.com/app/id6785291194)免费下载
 |:white_check_mark:其他.ipa|[:link:链接地址](https://appdb.to/search/?type=cydia)，[:link:链接地址](https://ipa.store)|
 
 </details>
