@@ -1,3 +1,4 @@
+
 DOMAIN,cache.video.iqiyi.com
 DOMAIN-SUFFIX,inter.iqiyi.com
 DOMAIN-SUFFIX,intl-rcd.iqiyi.com
@@ -9,6 +10,7 @@ IP-CIDR,110.238.107.47/32,no-resolve
 IP-CIDR,118.26.32.162/32,no-resolve
 IP-CIDR,159.138.102.146/32,no-resolve
 IP-CIDR,184.51.102.0/24,no-resolve
+IP-CIDR,203.74.95.130/28,no-resolve
 IP-CIDR,203.80.97.203/32,no-resolve
 IP-CIDR,210.71.227.202/32,no-resolve
 IP-CIDR,23.200.145.146/32,no-resolve

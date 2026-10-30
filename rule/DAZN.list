@@ -1,9 +1,15 @@
+
+DOMAIN,d151l6v8er5bdm.cloudfront.net
+DOMAIN,d1sgwhnao7452x.cloudfront.net
 DOMAIN-SUFFIX,control.kochava.com
 DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net
 DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net
 DOMAIN-SUFFIX,dazn-api.com
 DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,dazndn.com
+DOMAIN-SUFFIX,daznfeeds.com
+DOMAIN-SUFFIX,daznplayer.com
+DOMAIN-SUFFIX,daznservices.com
 DOMAIN-SUFFIX,dc2-vodhls-perform.secure.footprint.net
 DOMAIN-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net
 DOMAIN-SUFFIX,dca-ll-voddazn-dznvodjp.s.llnwi.net
@@ -13,6 +19,9 @@ DOMAIN-SUFFIX,indazn.com
 DOMAIN-SUFFIX,indaznlab.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,logx.optimizely.com
+DOMAIN-SUFFIX,onboarding.indazn.com
+DOMAIN-SUFFIX,pubby.indazn.com
+DOMAIN-SUFFIX,rail.discovery.indazn.com
 DOMAIN-SUFFIX,s.yimg.jp
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-KEYWORD,voddazn

@@ -1,4 +1,9 @@
+
 DOMAIN-SUFFIX,2496.cn
+DOMAIN-SUFFIX,ads.service.kugou.com
+DOMAIN-SUFFIX,adserviceretry.kglink.cn
+DOMAIN-SUFFIX,adserviceretry.kugou.com
+DOMAIN-SUFFIX,fanxingliveshow.com
 DOMAIN-SUFFIX,gouwo.com
 DOMAIN-SUFFIX,kgimg.com
 DOMAIN-SUFFIX,kglink.cn
@@ -10,7 +15,15 @@ DOMAIN-SUFFIX,kufm.cn
 DOMAIN-SUFFIX,kugoo.com
 DOMAIN-SUFFIX,kugou.com
 DOMAIN-SUFFIX,kugou.net
+DOMAIN-SUFFIX,kugouaudio.com
 DOMAIN-SUFFIX,kugouipv6.com
+DOMAIN-SUFFIX,kugoukid.com
+DOMAIN-SUFFIX,kugouliveshow.com
+DOMAIN-SUFFIX,kugouringtone.com
+DOMAIN-SUFFIX,kugousenior.com
+DOMAIN-SUFFIX,kugoustore.com
+DOMAIN-SUFFIX,kugouvoice.com
+DOMAIN-SUFFIX,kugouyouth.com
 DOMAIN-SUFFIX,kumi.com
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,shuoba.com
@@ -31,7 +44,8 @@ IP-CIDR,111.178.233.0/24,no-resolve
 IP-CIDR,112.51.125.0/24,no-resolve
 IP-CIDR,112.65.92.0/24,no-resolve
 IP-CIDR,112.84.104.0/24,no-resolve
-IP-CIDR,112.90.228.0/23,no-resolve
+IP-CIDR,112.90.228.0/24,no-resolve
+IP-CIDR,112.90.229.0/24,no-resolve
 IP-CIDR,112.91.129.0/24,no-resolve
 IP-CIDR,113.107.112.0/24,no-resolve
 IP-CIDR,113.200.121.0/24,no-resolve

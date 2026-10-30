@@ -1,6 +1,5 @@
-DOMAIN,discovery-us.conax.cloud
-DOMAIN,dplus-northamerica-cloudfront-gcs.prod-vod.h264.io
-DOMAIN,dplus-northamerica.media-edge.prod-vod.h264.io
+
+DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
 DOMAIN-SUFFIX,disco-api.com
 DOMAIN-SUFFIX,discovery.com
 DOMAIN-SUFFIX,discoveryplus.co.uk
@@ -12,6 +11,5 @@ DOMAIN-SUFFIX,getblueshift.com
 DOMAIN-SUFFIX,litix.io
 DOMAIN-SUFFIX,mobile-collector.newrelic.com
 DOMAIN-SUFFIX,uplynk.com
-DOMAIN-KEYWORD,discovery.uplynk.com
 USER-AGENT,DPlus*
 USER-AGENT,discovery+*

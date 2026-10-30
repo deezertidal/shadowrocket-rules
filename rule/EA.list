@@ -1,5 +1,12 @@
+
+DOMAIN,cloudsync-prod.s3.amazonaws.com
+DOMAIN,ea.tt.omtrdc.net
 DOMAIN,eaasserts-a.akamaihd.net
+DOMAIN,eaassets-a.akamaihd.net
+DOMAIN,origin-a.akamaihd.net
 DOMAIN,originasserts.akamaized.net
+DOMAIN,rtm.tnt-ea.com
+DOMAIN,ssl-lvlt.cdn.ea.com
 DOMAIN-SUFFIX,anthemgame.com
 DOMAIN-SUFFIX,anthemthegame.com
 DOMAIN-SUFFIX,apexlegends.com
@@ -127,6 +134,7 @@ DOMAIN-SUFFIX,popcap.com
 DOMAIN-SUFFIX,projectapex.com
 DOMAIN-SUFFIX,pvzgw2.com
 DOMAIN-SUFFIX,pvzheroes.com
+DOMAIN-SUFFIX,rtm.tnt-ea.com
 DOMAIN-SUFFIX,seaofsolitude.com
 DOMAIN-SUFFIX,simcity-buildit.com
 DOMAIN-SUFFIX,simcity.com
@@ -134,6 +142,7 @@ DOMAIN-SUFFIX,skate2.com
 DOMAIN-SUFFIX,spearhead.kr
 DOMAIN-SUFFIX,speedhunters.com
 DOMAIN-SUFFIX,spore.com
+DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com
 DOMAIN-SUFFIX,ssx3.com
 DOMAIN-SUFFIX,starwarsbattlefront.com
 DOMAIN-SUFFIX,starwarsbattlefront2.com

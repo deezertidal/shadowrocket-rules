@@ -1,7 +1,7 @@
+
 DOMAIN,geo2.adobe.com
 DOMAIN-SUFFIX,17gouwuba.com
 DOMAIN-SUFFIX,186078.com
-DOMAIN-SUFFIX,189key.com
 DOMAIN-SUFFIX,189zj.cn
 DOMAIN-SUFFIX,285680.com
 DOMAIN-SUFFIX,3721zh.com
@@ -20,8 +20,6 @@ DOMAIN-SUFFIX,9s6q.cn
 DOMAIN-SUFFIX,abbyychina.com
 DOMAIN-SUFFIX,adsame.com
 DOMAIN-SUFFIX,akuai.top
-DOMAIN-SUFFIX,alienskins.cn
-DOMAIN-SUFFIX,anydeskchina.cn
 DOMAIN-SUFFIX,atplay.cn
 DOMAIN-SUFFIX,baiwanchuangyi.com
 DOMAIN-SUFFIX,bartender.cc
@@ -61,7 +59,6 @@ DOMAIN-SUFFIX,fjlqqc.com
 DOMAIN-SUFFIX,fkku194.com
 DOMAIN-SUFFIX,flash.cn
 DOMAIN-SUFFIX,flstudiochina.com
-DOMAIN-SUFFIX,folxchina.cn
 DOMAIN-SUFFIX,formysql.com
 DOMAIN-SUFFIX,freedrive.cn
 DOMAIN-SUFFIX,gclick.cn
@@ -74,13 +71,11 @@ DOMAIN-SUFFIX,gzxnlk.com
 DOMAIN-SUFFIX,haoshengtoys.com
 DOMAIN-SUFFIX,hbssjd.cn
 DOMAIN-SUFFIX,huishenghuiying.com.cn
-DOMAIN-SUFFIX,hypeapp.cn
 DOMAIN-SUFFIX,hypersnap.net
 DOMAIN-SUFFIX,hyunke.com
 DOMAIN-SUFFIX,ichaosheng.com
 DOMAIN-SUFFIX,iconworkshop.cn
 DOMAIN-SUFFIX,idmchina.net
-DOMAIN-SUFFIX,imazingchina.com
 DOMAIN-SUFFIX,imindmap.cc
 DOMAIN-SUFFIX,ishop789.com
 DOMAIN-SUFFIX,jdkic.com
@@ -121,7 +116,6 @@ DOMAIN-SUFFIX,newapi.com
 DOMAIN-SUFFIX,nicelabel.cc
 DOMAIN-SUFFIX,ntfsformac.cc
 DOMAIN-SUFFIX,ntfsformac.cn
-DOMAIN-SUFFIX,officesoftcn.com
 DOMAIN-SUFFIX,overturechina.com
 DOMAIN-SUFFIX,passwordrecovery.cn
 DOMAIN-SUFFIX,pdfexpert.cc
@@ -151,7 +145,6 @@ DOMAIN-SUFFIX,taoggou.com
 DOMAIN-SUFFIX,tcxshop.com
 DOMAIN-SUFFIX,tjqonline.cn
 DOMAIN-SUFFIX,topitme.com
-DOMAIN-SUFFIX,tt114.net
 DOMAIN-SUFFIX,tt3sm4.cn
 DOMAIN-SUFFIX,tuia.cn
 DOMAIN-SUFFIX,tuipenguin.com
@@ -218,7 +211,8 @@ IP-CIDR,221.231.6.79/32,no-resolve
 IP-CIDR,221.6.4.148/32,no-resolve
 IP-CIDR,222.186.61.91/32,no-resolve
 IP-CIDR,222.186.61.95/32,no-resolve
-IP-CIDR,222.186.61.96/31,no-resolve
+IP-CIDR,222.186.61.96/32,no-resolve
+IP-CIDR,222.186.61.97/32,no-resolve
 IP-CIDR,222.73.156.235/32,no-resolve
 IP-CIDR,39.107.15.115/32,no-resolve
 IP-CIDR,47.89.59.182/32,no-resolve

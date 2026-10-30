@@ -1,6 +1,12 @@
+
+DOMAIN,client-teamviewer-com.trafficmanager.net
+DOMAIN,teamviewer.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,teamviewer.cn
 DOMAIN-SUFFIX,teamviewer.com
+DOMAIN-SUFFIX,teamviewer.us
 IP-CIDR,139.220.243.27/32,no-resolve
 IP-CIDR,172.16.102.56/32,no-resolve
+IP-CIDR,185.188.32.1/28,no-resolve
 IP-CIDR,221.226.128.146/32,no-resolve
 IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve

@@ -1,3 +1,5 @@
+
+DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
 DOMAIN-SUFFIX,accountkit.com
@@ -8,6 +10,7 @@ DOMAIN-SUFFIX,acheter-followers-instagram.com
 DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
 DOMAIN-SUFFIX,acheterfollowersinstagram.com
 DOMAIN-SUFFIX,advancediddetection.com
+DOMAIN-SUFFIX,analytics.facebook.com
 DOMAIN-SUFFIX,askfacebook.net
 DOMAIN-SUFFIX,askfacebook.org
 DOMAIN-SUFFIX,atdmt2.com
@@ -32,6 +35,7 @@ DOMAIN-SUFFIX,como-hackearfacebook.com
 DOMAIN-SUFFIX,componentkit.org
 DOMAIN-SUFFIX,crowdtangle.com
 DOMAIN-SUFFIX,dacebook.com
+DOMAIN-SUFFIX,developers.facebook.com
 DOMAIN-SUFFIX,dlfacebook.com
 DOMAIN-SUFFIX,dotfacebook.com
 DOMAIN-SUFFIX,dotfacebook.net
@@ -292,7 +296,9 @@ DOMAIN-SUFFIX,favebook.com
 DOMAIN-SUFFIX,faycbok.com
 DOMAIN-SUFFIX,fb.careers
 DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.gg
 DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fbacebook.com
 DOMAIN-SUFFIX,fbaddins.com
 DOMAIN-SUFFIX,fbbmarket.com
@@ -321,6 +327,7 @@ DOMAIN-SUFFIX,fbthirdpartypixel.com
 DOMAIN-SUFFIX,fbthirdpartypixel.net
 DOMAIN-SUFFIX,fbthirdpartypixel.org
 DOMAIN-SUFFIX,fburl.com
+DOMAIN-SUFFIX,fbwat.ch
 DOMAIN-SUFFIX,fbworkmail.com
 DOMAIN-SUFFIX,fcacebook.com
 DOMAIN-SUFFIX,fcaebook.com
@@ -350,6 +357,7 @@ DOMAIN-SUFFIX,flow.dev
 DOMAIN-SUFFIX,flow.org
 DOMAIN-SUFFIX,flowtype.org
 DOMAIN-SUFFIX,fmcebook.com
+DOMAIN-SUFFIX,fna.fbcdn.net
 DOMAIN-SUFFIX,fnacebook.com
 DOMAIN-SUFFIX,fosebook.com
 DOMAIN-SUFFIX,fpacebook.com
@@ -495,6 +503,7 @@ DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,opengraphprotocol.com
 DOMAIN-SUFFIX,opengraphprotocol.org
 DOMAIN-SUFFIX,parse.com
+DOMAIN-SUFFIX,pixel.facebook.com
 DOMAIN-SUFFIX,powersunitedvr.com
 DOMAIN-SUFFIX,pyrobot.org
 DOMAIN-SUFFIX,reachtheworldonfacebook.com
@@ -511,6 +520,7 @@ DOMAIN-SUFFIX,sportsfacebook.com
 DOMAIN-SUFFIX,sportstream.com
 DOMAIN-SUFFIX,supportfacebook.com
 DOMAIN-SUFFIX,terragraph.com
+DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,thefacebook.com
 DOMAIN-SUFFIX,thefacebook.net
 DOMAIN-SUFFIX,thefind.com
@@ -544,6 +554,7 @@ DOMAIN-SUFFIX,zuckerberg.com
 DOMAIN-SUFFIX,zuckerberg.net
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
+IP-CIDR,103.4.96.0/22,no-resolve
 IP-CIDR,108.168.176.192/26,no-resolve
 IP-CIDR,108.168.177.0/27,no-resolve
 IP-CIDR,108.168.180.96/27,no-resolve
@@ -553,18 +564,30 @@ IP-CIDR,108.168.255.227/32,no-resolve
 IP-CIDR,108.177.8.0/21,no-resolve
 IP-CIDR,119.235.224.0/24,no-resolve
 IP-CIDR,119.235.232.0/24,no-resolve
-IP-CIDR,119.235.236.0/23,no-resolve
+IP-CIDR,119.235.236.0/24,no-resolve
+IP-CIDR,119.235.237.0/24,no-resolve
 IP-CIDR,129.134.0.0/17,no-resolve
 IP-CIDR,157.240.0.0/17,no-resolve
 IP-CIDR,169.45.248.118/32,no-resolve
 IP-CIDR,173.252.64.0/18,no-resolve
+IP-CIDR,173.252.64.0/19,no-resolve
+IP-CIDR,173.252.96.0/19,no-resolve
+IP-CIDR,179.60.192.0/22,no-resolve
+IP-CIDR,185.60.216.0/22,no-resolve
+IP-CIDR,204.15.20.0/22,no-resolve
 IP-CIDR,3.123.36.126/32,no-resolve
+IP-CIDR,31.13.24.0/21,no-resolve
 IP-CIDR,31.13.64.0/18,no-resolve
 IP-CIDR,35.157.215.84/32,no-resolve
 IP-CIDR,35.157.217.255/32,no-resolve
+IP-CIDR,45.64.40.0/22,no-resolve
 IP-CIDR,52.58.209.134/32,no-resolve
 IP-CIDR,54.162.243.80/32,no-resolve
 IP-CIDR,54.173.34.141/32,no-resolve
 IP-CIDR,54.235.23.242/32,no-resolve
 IP-CIDR,54.93.124.31/32,no-resolve
+IP-CIDR,66.220.144.0/20,no-resolve
+IP-CIDR,69.171.224.0/19,no-resolve
+IP-CIDR,69.63.176.0/20,no-resolve
+IP-CIDR,74.119.76.0/22,no-resolve
 IP-ASN,32934,no-resolve
